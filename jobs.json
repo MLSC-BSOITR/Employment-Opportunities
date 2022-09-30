@@ -448,11 +448,19 @@
 "companyName " : "Wipro",
 
 "position" : "Web Developer",
- }
-  
+ },
   {
-  
   "id" : "37",
+  
+  "companyName" : "Digital Ocean",
+  
+  "position" : "cloud support engineer",
+  
+  "requirement" : "Linux, cloud technology",
+  
+  
+},
+  {
 
 "companyName " : "amazon",
 
