@@ -62,43 +62,22 @@
 
 "requirements" : "frameworks such as WordPress, Drupal, Magento, Joomla, etc",
 
-"contactEmail" : "digitizematrix@gmail.com"}
+"contactEmail" : "digitizematrix@gmail.com"},
+ 
+ 
+ { 
+ "id" : "9",
+
+"companyName " : "Amazon",
+
+"position" : "Support Engineer",
+
+"requirements" : "Linus,Big Data, Database, etc",
+
+"contactEmail" : "https://www.amazon.jobs/en-gb/jobs/2180909/support-engineer-i-ext-entry"}
 
  
-]
-[{
-"id" : "2",
+ 
 
-"companyName " : "Wipro ",
-
-"position" : "backend Developer",
-
-"requirements" : "mySQL",
-
-"contactEmail" : "sumitpawar001@gmail.com},
-
-]
- [{
-"id" : "3",
-
-"companyName " : "Accenture ",
-
-"position" : "android development",
-
-"requirements" : "kotlin",
-
-"contactEmail" : "shubhampawar001@gmail.com},
-
-]
-[{
-"id" : "4",
-
-"companyName " : "tata motors",
-
-"position" : "manager",
-
-"requirements" : "2 years experience",
-
-"contactEmail" : "shreyapawar001@gmail.com},
-
+ 
 ]
