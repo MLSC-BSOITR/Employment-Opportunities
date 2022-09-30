@@ -37,7 +37,8 @@
 
 "requirements" : "Html, CSS, JavaScript, react js , , ejs, DSA, DBMS",
 
-"contactEmail" : "gaurigadge17@gmail.com"},
+"contactEmail" : "gaurigadge17@gmail.com"
+ },
 
 
 {
@@ -71,7 +72,8 @@
 
 "requirements" : "Html, CSS, cpp",
 
-"contactEmail" : "pratikshahodade@gmail.com"},
+"contactEmail" : "pratikshahodade@gmail.com"
+  },
  
  {
 
@@ -94,7 +96,8 @@
 
 "requirements" : "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
 
-"contactEmail" : "contact@byjus.comxyz@gmail.com"},
+"contactEmail" : "contact@byjus.comxyz@gmail.com"
+},
 
  {
     "id" : "9",
@@ -177,6 +180,16 @@
 
 "contactEmail" : "sahil952003@gmail.com"
  },
+  
+   {
+"companyName " : "EdWorks ",
+
+"position" : "WordPress web developer ",
+
+"requirements" : " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
+
+"contactEmail" : "shreyash009@gmail.com"
+ },
   {
 
      "id" : "16",
@@ -251,18 +264,6 @@
    
 "contactEmail" : "shindeanmol125@gmail.com"},
 
- {
-
-"id" : "22",
-
-"companyName " : "IBM",
-
-"position" : "Data scientist",
-
-"requirements" : "python, statistics, Data visuliazation",
-
-"contactEmail" : "vyankateshpatil835@gmail.com"
-} ,
   {
   
 "id" : "23",
@@ -308,9 +309,7 @@
 
 "contactEmail" : "shajahansayyedz@gmail.com",
 
-} 
-
-
+},
 {
 
 "id" : "26",
@@ -321,11 +320,11 @@
 
 "requirements" : "Html, CSS, JavaScript, DS, python",
 
-"contactEmail" : "mardhekarsanket@gmail.com",
-} 
-=======
+"contactEmail" : "mardhekarsanket@gmail.com"
 } ,
+
   {
+
   
 "id" : "27",
 
@@ -341,14 +340,26 @@
 "id" : "28",
 
 "companyName " : "Colab India",
-
-"contactEmail" : "diyagandhisb@gmail.com",
+   
+"contactEmail" : "diyagandhisb@gmail.com"
  
- }
+ },
+  { 
+"id" : "29",
 
- {
+"companyName " : "IBM",
+
+"position" : "Cloud Computing Intern",
+
+"requirements" : "AWS,GCP, Azure",
+
+"contactEmail" : "googlesupport@google.com"
+
+
+ },
+  {
   
-"id" : "55",
+"id" : "30",
 
 "companyName " : "tcs",
 
@@ -358,4 +369,98 @@
    
 "contactEmail " : "adityabhagwat357@gmail.com"},
 
-]
+  {
+
+"id" : "31",
+
+"companyName " : "Skar",
+
+"position" : "Mechanical Engineer",
+
+"requirements" : "Catia, Ansys, Fundamentals of Mechanical Engineering",
+
+"contactEmail" : "sarthakkatwate12@gmail.com"
+
+},
+   {
+
+"id" : "36",
+
+"companyName " : "Comely Enterprises",
+
+"position" : "web Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+
+"contactEmail" : "contact@aimcomely.com"
+
+},
+  {
+"id" : "32",
+
+"companyName " : "Morgan stanley",
+
+"position" : "Full Time Analyst",
+
+"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
+
+"contactEmail" : "asia.recruit@morganstanley.com"
+ },
+  {
+  
+  "id" : "33",
+  
+  "companyName " : "Paytm",
+  
+  "position" : "Frontend Developer",
+  
+  "requirements" : "Html, CSS, JavaScript",
+     
+  "contactEmail " : "guptashaurya2002@gmail.com"},
+   {
+  
+"id" : "34",
+
+"companyName " : "AMAZON",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript,frameworks",
+   
+"contactEmail " : "tejaskhatkale18@gmail.com"},
+ 
+{
+  "id" : "35",
+  
+  "companyName" : "Google",
+  
+  "position" : "Project Manager",
+  
+  "requirement" : "java,css,kotlin",
+  
+  "contactEmail" : "vedantdhage61@gmail.com"
+  
+},
+ 
+ { 
+ "id" : "36",
+
+"companyName " : "Wipro",
+
+"position" : "Web Developer",
+ }
+  
+  {
+  
+  "id" : "37",
+
+"companyName " : "amazon",
+
+"position" : "AWS developer",
+
+"requirements" : "AWS",
+   
+"contactEmail " : "bhargavagraval@gmail.com"}
+
+  ]
+
