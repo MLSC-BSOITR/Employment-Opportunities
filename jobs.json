@@ -188,16 +188,6 @@
 "contactEmail" : "arslaan077799@gmail.com"
  },
  
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
   {
  "id" : "78",
 
@@ -210,12 +200,15 @@
 "contactEmail" : "chavanas1511@gmail.com"
  
  },
- 
- 
- 
- 
- 
- 
- 
- 
+  {
+  
+"id" : "79",
+
+"companyName " : "CareerFounding",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript,  SQL, MongoDB",
+   
+"contactEmail" : "https://careerfoundry.com"}
 ]
