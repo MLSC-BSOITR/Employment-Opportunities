@@ -441,7 +441,6 @@
   "contactEmail" : "vedantdhage61@gmail.com"
   
 },
- 
  { 
  "id" : "37",
 
@@ -449,7 +448,6 @@
 
 "position" : "Web Developer",
  },
-
 {
   "id" : "38",
   
@@ -473,7 +471,6 @@
 
 "requirements" : "Graduation in AIML, Higher Mathematics"
  },
-  
  {
   "id" : "40",
   
@@ -486,7 +483,6 @@
   "contactEmail" : "recruitment@hotmail.com"
 
  },
-  
   {
   "id" : "41",
   
@@ -508,6 +504,7 @@
 "requirements" : "AWS",
    
 "contactEmail " : "bhargavagraval@gmail.com"},
+  
   {
   "id" : "43",
   
@@ -520,8 +517,6 @@
   "contactEmail" : "shrutishinde145@gmail.com"
   
   },
- 
-  
    {
        "id" : "44",
 
@@ -531,9 +526,8 @@
 
 "requirements" : "html,css ,js,bootstrap,git,java,reactjs",
    
-"contactEmail " : "bhargavagraval@gmail.com"},
-
-
+"contactEmail " : "bhargavagraval@gmail.com"
+   },
 {
 
 "id" : "45",
@@ -560,6 +554,18 @@
 
 "contactEmail" : "jobs@dhruva.com"
 
+},
+{
+  
+"id" : "47",
+
+"companyName " : "Birlasoft",
+
+"position" : "Sr Technical Lead",
+
+"requirements" : "Any Graduate",
+   
+"contactEmail " : "campusteam@birlasoft.com"
 }
 
   ]
