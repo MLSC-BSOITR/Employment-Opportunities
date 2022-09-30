@@ -249,7 +249,18 @@
    
 "contactEmail" : "shindeanmol125@gmail.com"}
 
- 
+ {
+
+"id" : "124",
+
+"companyName " : "IBM",
+
+"position" : "Data scientist",
+
+"requirements" : "python, statistics, Data visuliazation",
+
+"contactEmail" : "vyankateshpatil835@gmail.com"
+} 
  
  
  
