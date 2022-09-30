@@ -177,6 +177,16 @@
 
 "contactEmail" : "sahil952003@gmail.com"
  },
+  
+   {
+"companyName " : "EdWorks ",
+
+"position" : "WordPress web developer ",
+
+"requirements" : " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
+
+"contactEmail" : "shreyash009@gmail.com"
+ },
   {
 
      "id" : "16",
@@ -295,8 +305,9 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "shajahansayyedz@gmail.com"
-} 
+},
   {
+
   
 "id" : "27",
 
@@ -314,8 +325,7 @@
 "companyName " : "Colab India",
 
 "contactEmail" : "diyagandhisb@gmail.com"
- 
- }
+ },
 
 {
 "id" : "29",
@@ -327,5 +337,45 @@
 "requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
 
 "contactEmail" : "asia.recruit@morganstanley.com"
-},
+=======
+ },
+  {
+ 
+  ,
+"id" : "29",
+
+"companyName " : "IBM",
+
+"position" : "Cloud Computing Intern",
+
+"requirements" : "AWS,GCP, Azure",
+
+"contactEmail" : "googlesupport@google.com"
+
+
+ },
+  {
+  
+"id" : "30",
+
+"companyName " : "tcs",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+   
+"contactEmail " : "adityabhagwat357@gmail.com"},
+  {
+
+"id" : "31",
+
+"companyName " : "Skar",
+
+"position" : "Mechanical Engineer",
+
+"requirements" : "Catia, Ansys, Fundamentals of Mechanical Engineering",
+
+"contactEmail" : "sarthakkatwate12@gmail.com"
+
+}
 ]
