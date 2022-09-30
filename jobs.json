@@ -19,4 +19,15 @@
 \\ Code in the above format
 
 
+ {
+
+"id" : "2",
+
+"companyName " : "Amazon",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+
+"contactEmail" : "diyagandhisb@gmail.com"
 ]
