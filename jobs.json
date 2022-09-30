@@ -427,6 +427,19 @@
   "contactEmail" : "vedantdhage61@gmail.com"
   
 },
+  
+  {
+  "id" : "37",
+  
+  "companyName" : "Google",
+  
+  "position" : "game developer",
+  
+  "requirement" : "C, C++, python",
+  
+  "contactEmail" : "mangalkasare02@gmail.com"
+  
+},
  
  { 
  "id" : "36",
@@ -435,18 +448,5 @@
 
 "position" : "Web Developer",
  }
-  
-  {
-  
-  "id" : "37",
-
-"companyName " : "amazon",
-
-"position" : "AWS developer",
-
-"requirements" : "AWS",
-   
-"contactEmail " : "bhargavagraval@gmail.com"},
-
   ]
 
