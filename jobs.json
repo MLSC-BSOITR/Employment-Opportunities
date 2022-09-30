@@ -307,8 +307,22 @@
 
 "requirements" : "Html, CSS, JavaScript",
 
-"contactEmail" : "shajahansayyedz@gmail.com"
+"contactEmail" : "shajahansayyedz@gmail.com",
+
 },
+{
+
+"id" : "26",
+
+"companyName " : "Bolt inovation",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, DS, python",
+
+"contactEmail" : "mardhekarsanket@gmail.com"
+} ,
+
   {
 
   
@@ -326,12 +340,11 @@
 "id" : "28",
 
 "companyName " : "Colab India",
-
+   
 "contactEmail" : "diyagandhisb@gmail.com"
- },
-  {
  
-  ,
+ },
+  { 
 "id" : "29",
 
 "companyName " : "IBM",
@@ -355,6 +368,7 @@
 "requirements" : "Html, CSS, JavaScript",
    
 "contactEmail " : "adityabhagwat357@gmail.com"},
+
   {
 
 "id" : "31",
@@ -427,6 +441,19 @@
   "contactEmail" : "vedantdhage61@gmail.com"
   
 },
+  
+  {
+  "id" : "37",
+  
+  "companyName" : "Google",
+  
+  "position" : "game developer",
+  
+  "requirement" : "C, C++, python",
+  
+  "contactEmail" : "mangalkasare02@gmail.com"
+  
+},
  
  { 
  "id" : "36",
@@ -446,6 +473,50 @@
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
   
   "contactEmail" : "businessrecruitment@phonepe.com"
-}
+
+ },
+  {
+ 
+  
+"id" : "38",
+
+"companyName " : "Hewlett Packard Enterprise",
+
+"position" : "AI ML ",
+
+"requirements" : "Graduation in AIML, Higher Mathematics"
+ },
+  {
+  "id" : "37",
+  
+  "companyName" : "Digital Ocean",
+  
+  "position" : "cloud support engineer",
+  
+  "requirement" : "Linux, cloud technology",
+  
+  
+},
+  {
+
+"companyName " : "amazon",
+
+"position" : "AWS developer",
+
+"requirements" : "AWS",
+   
+"contactEmail " : "bhargavagraval@gmail.com"}
+  
+   {
+
+"companyName " : "tcs",
+
+"position" : "web developer",
+
+"requirements" : "html,css ,js,bootstrap,git,java,reactjs",
+   
+"contactEmail " : "bhargavagraval@gmail.com"}
+
+
   ]
 
