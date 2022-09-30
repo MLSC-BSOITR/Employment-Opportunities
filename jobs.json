@@ -613,10 +613,24 @@
 "requirements" : "	B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
    
 "contactEmail " : "dphelp@hdfcbank.com"
-  },
- {
+  }
+  
+  {
   
 "id" : "50",
+
+"companyName " : "Google",
+
+"position" : "Cloud storage Specialist",
+
+"requirements" : "B.Tech in CS ",
+   
+"contactEmail " : "jobs@google.com"
+  },
+  
+ {
+  
+"id" : "51",
   "companyName " : "Jaduu",
 
 "position" : "Graduate Trainee",
@@ -625,8 +639,9 @@
    
 "contactEmail " : "not_so_sober.com"
 },
+
  {
-  "id" : "50",
+  "id" : "52",
 
 "companyName " : "Back2Study",
 
@@ -638,7 +653,7 @@
   },
   {
  
-"id" : "51",
+"id" : "53",
 
 "companyName " : "tcs",
 
@@ -649,7 +664,7 @@
 "contactEmail" : "prasadkhotkar916@gmail.com"}
   {
   
-"id" : "108",
+"id" : "54",
 
 "companyName " : "frenz-d.in",
 
@@ -657,6 +672,8 @@
 
 "requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
    
-"contactEmail " : "vaishalic@gmail.com"},
+"contactEmail " : "vaishalic@gmail.com"
+
+}
   ]
 
