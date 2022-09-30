@@ -13,6 +13,33 @@
 "requirements" : "Html, CSS, JavaScript",
    
 "contactEmail " : "xyz@gmail.com"},
+  
+  
+[
+{
+  
+"id" : "100",
+
+"companyName " : "frenz-d.in",
+
+"position" : "ui designer",
+
+"requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
+   
+"contactEmail " : "guruprasadvaidya@gmail.com"},
+[
+{
+  
+"id" : "1",
+
+"companyName " : "XYZ",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+   
+"contactEmail " : "xyz@gmail.com"},
+  
  {
  
 "id" : "2",
@@ -587,6 +614,7 @@
    
 "contactEmail " : "dphelp@hdfcbank.com"
   }
+  
   {
   
 "id" : "50",
@@ -599,6 +627,53 @@
    
 "contactEmail " : "jobs@google.com"
   },
+  
+ {
+  
+"id" : "51",
+  "companyName " : "Jaduu",
 
+"position" : "Graduate Trainee",
+
+"requirements" : "Fourth year students",
+   
+"contactEmail " : "not_so_sober.com"
+},
+
+ {
+  "id" : "52",
+
+"companyName " : "Back2Study",
+
+"position" : "Content Writer",
+
+"requirements" : "Graduation completed",
+   
+"contactEmail " : "https://www.back2study.co.in"
+  },
+  {
+ 
+"id" : "53",
+
+"companyName " : "tcs",
+
+"position" : "android developer",
+
+"requirements" : "Html, CSS, JavaScript, c++",
+
+"contactEmail" : "prasadkhotkar916@gmail.com"}
+  {
+  
+"id" : "54",
+
+"companyName " : "frenz-d.in",
+
+"position" : "python",
+
+"requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
+   
+"contactEmail " : "vaishalic@gmail.com"
+
+}
   ]
 
