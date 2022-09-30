@@ -575,7 +575,18 @@
 "requirements" : "Third or Fourth year students",
    
 "contactEmail " : "info@persistent.com"
-}
+},
+  {
+  "id" : "49",
+
+"companyName " : "SBI",
+
+"position" : "Dupty Chief Technology Officer",
+
+"requirements" : "	B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
+   
+"contactEmail " : "dphelp@hdfcbank.com"
+  }
 
   ]
 
