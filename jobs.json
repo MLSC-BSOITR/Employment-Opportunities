@@ -11,7 +11,7 @@
 "position" : "Frontend Developer",
 
 "requirements" : "Html, CSS, JavaScript",
-
+   
 "contactEmail" : "xyz@gmail.com"},
  
  {
@@ -67,18 +67,22 @@
 
 "position" : "Marketing",
 
-"requirements" : "English Proficiency (Spoken)
-Tamil Proficiency (Spoken)",
+"requirements" : "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
 
 "contactEmail" : "contact@byjus.comxyz@gmail.com"},
 {
 "requirements" : "frameworks such as WordPress, Drupal, Magento, Joomla, etc",
 
-"contactEmail" : "digitizematrix@gmail.com"}
-
+"contactEmail" : "digitizematrix@gmail.com"},
+ 
  {
- "id" : "2",
-
+    "id" : "38",
+    "companyName" : "TCS",
+    "position" : "Frontend Developer",
+    "requirements" : "html,css,javascript",
+    "contactEmail" : "prajaktalandge2003@gmail.com"
+},
+ 
 "companyName " : "Skillred",
 
 "position" : "App Developer",
@@ -88,7 +92,7 @@ Tamil Proficiency (Spoken)",
 "contactEmail" : "skillred123@gmail.com"
  
  },
-
+{
 
 "companyName " : "AIESEC",
 
@@ -98,5 +102,6 @@ Tamil Proficiency (Spoken)",
 
 "contactEmail" : "aekagra.dhamani02@aiesec.net"
  
- },
+ }
+
 ]
