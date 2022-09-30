@@ -699,9 +699,20 @@
    
   "contactEmail " : "https://www.accenture.com/in-en/careers"
 
-}
+},
+  {
 
-]
-]
+  "id" : "56",
+
+  "companyName " : "Zenser",
+
+  "position" : "Java Enterprice Edition Application Developer",
+
+  "requirements" : "B.Tech in CS/IT",
+   
+  "contactEmail " : "https://www.zanser.com/in-en/careers"
+
+},
+  
 ]
 
