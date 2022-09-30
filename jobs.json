@@ -12,10 +12,10 @@
 
 "requirements" : "Html, CSS, JavaScript",
 
-"contactEmail" : "xyz@gmail.com"},
+"contactEmail" : "xyz@gmail.com" 
+ },
  
  {
- 
   
 "id" : "1",
 
@@ -25,7 +25,8 @@
 
 "requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
 
-"contactEmail" : "vishalabhange2002@gmail.com"},
+"contactEmail" : "vishalabhange2002@gmail.com"
+ },
 
 
 {
@@ -36,7 +37,7 @@
 
 "contactEmail" : "diyagandhisb@gmail.com"
  
- }
+ },
  
  "id" : "3",
 
@@ -47,10 +48,9 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "diyagandhisb@gmail.com"
-}
+},
 
-]
- 
+
  { 
  "id" : "8",
 
@@ -62,5 +62,5 @@
 
 "contactEmail" : "digitizematrix@gmail.com"}
 
- }
- }
+ 
+]
