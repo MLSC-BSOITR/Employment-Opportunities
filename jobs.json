@@ -248,8 +248,8 @@
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
 "contactEmail" : "shindeanmol125@gmail.com"},
-  
-  {
+
+{
   
 "id" : "100",
 
@@ -259,12 +259,59 @@
 
 "requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
    
-"contactEmail " : "info@iesoftfzc.com"}
+"contactEmail " : "info@iesoftfzc.com"},
+
+ {
 
  
- 
- 
- 
- 
+  
+"id" : "1",
 
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+
+
+{
+ 
+  
+"id" : "1",
+
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+
+ {
+ 
+  
+"id" : "100",
+
+"companyName " : "tcs",
+
+"position" : "Software Developer",
+
+"requirements" : "Html,CSS,Python,C++,C,Cotlin",
+
+"contactEmail" : "anuradhathombare1512@gmail.com"},
+
+{
+
+"id" : "07",
+
+"companyName " : "Google",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+
+"contactEmail" : "shajahansayyedz@gmail.com"
+} 
 ]
