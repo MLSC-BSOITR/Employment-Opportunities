@@ -307,7 +307,7 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "shajahansayyedz@gmail.com"
-} ,
+},
   {
   
 "id" : "27",
@@ -327,10 +327,25 @@
 
 "contactEmail" : "diyagandhisb@gmail.com"
  
- }
+ },
+  {
+ 
+  ,
+"id" : "29",
+
+"companyName " : "IBM",
+
+"position" : "Cloud Computing Intern",
+
+"requirements" : "AWS,GCP, Azure",
+
+"contactEmail" : "googlesupport@google.com"
+
+
+ },
   {
   
-"id" : "55",
+"id" : "30",
 
 "companyName " : "tcs",
 
@@ -338,5 +353,6 @@
 
 "requirements" : "Html, CSS, JavaScript",
    
-"contactEmail " : "adityabhagwat357@gmail.com"},
+"contactEmail " : "adityabhagwat357@gmail.com"}
+
 ]
