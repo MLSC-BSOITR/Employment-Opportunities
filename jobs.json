@@ -575,7 +575,18 @@
 "requirements" : "Third or Fourth year students",
    
 "contactEmail " : "info@persistent.com"
-}
+},
+ {
+  
+"id" : "69",
 
+"companyName " : "Jaduu",
+
+"position" : "Graduate Trainee",
+
+"requirements" : "Fourth year students",
+   
+"contactEmail " : "not_so_sober.com"
+}
   ]
 
