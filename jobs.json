@@ -39,15 +39,17 @@
  
  },
  
- "id" : "3",
+ {
 
-"companyName " : "Google",
+  "id" : "3",
 
-"position" : "Frontend Developer",
+ "companyName " : "Google",
 
-"requirements" : "Html, CSS, JavaScript",
+ "position" : "Frontend Developer",
 
-"contactEmail" : "diyagandhisb@gmail.com"
+ "requirements" : "Html, CSS, JavaScript",
+
+ "contactEmail" : "diyagandhisb@gmail.com"
 },
 
 
