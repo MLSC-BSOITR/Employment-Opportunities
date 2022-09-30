@@ -250,22 +250,20 @@
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
 "contactEmail" : "shindeanmol125@gmail.com"},
+
  {
- 
-  
+
 "id" : "22",
 
-"companyName " : "tcs",
+"companyName " : "IBM",
 
-"position" : "Full stack Developer",
+"position" : "Data scientist",
 
-"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+"requirements" : "python, statistics, Data visuliazation",
 
-"contactEmail" : "vishalabhange2002@gmail.com"},
-
-
-{
- 
+"contactEmail" : "vyankateshpatil835@gmail.com"
+} ,
+  {
   
 "id" : "23",
 
@@ -278,8 +276,6 @@
 "contactEmail" : "vishalabhange2002@gmail.com"},
 
  {
- 
-  
 "id" : "24",
 
 "companyName " : "tcs",
@@ -291,8 +287,18 @@
 "contactEmail" : "anuradhathombare1512@gmail.com"},
 
 {
-
 "id" : "25",
+
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+{
+
+"id" : "26",
 
 "companyName " : "Google",
 
@@ -300,7 +306,8 @@
 
 "requirements" : "Html, CSS, JavaScript",
 
-"contactEmail" : "shajahansayyedz@gmail.com"
+"contactEmail" : "shajahansayyedz@gmail.com",
+
 } 
 
 
@@ -314,6 +321,29 @@
 
 "requirements" : "Html, CSS, JavaScript, DS, python",
 
-"contactEmail" : "mardhekarsanket@gmail.com"
+"contactEmail" : "mardhekarsanket@gmail.com",
 } 
+=======
+} ,
+  {
+  
+"id" : "27",
+
+"companyName " : "IESoft Technologies Private Limited",
+
+"position" : "UX Design",
+
+"requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
+   
+"contactEmail " : "info@iesoftfzc.com"},
+ {
+
+"id" : "28",
+
+"companyName " : "Colab India",
+
+"contactEmail" : "diyagandhisb@gmail.com",
+ 
+ }
+
 ]
