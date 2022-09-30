@@ -19,13 +19,13 @@ EX:-
 
     "id" : "1",
     
-    "company name " : "XYZ",
+    "companyName " : "XYZ",
     
     "position" : "Frontend Developer",
     
     "requirements" : "Html, CSS, JavaScript",
     
-    "contact email" : "xyz@gmail.com",
+    "contactEmail" : "xyz@gmail.com"
     
     
 }
