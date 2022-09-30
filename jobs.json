@@ -598,5 +598,17 @@
    
 "contactEmail " : "not_so_sober.com"
 }
+
+ {
+  "id" : "50",
+
+"companyName " : "Back2Study",
+
+"position" : "Content Writer",
+
+"requirements" : "Graduation completed",
+   
+"contactEmail " : "https://www.back2study.co.in"
+  }
   ]
 
