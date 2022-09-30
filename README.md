@@ -2,4 +2,7 @@
 If you want to contribute or find out about the available job vacancies you can visit this repository.
 
 
-![Animated Black Friday  Square Instagram Templates](https://user-images.githubusercontent.com/97019246/193205535-40b42fc8-ce7e-4f5a-8c37-7dc2b3b4c115.svg)
+
+
+https://user-images.githubusercontent.com/97019246/193205644-cb97b273-d7b8-4914-8e3d-14e08e49cfe9.mp4
+
