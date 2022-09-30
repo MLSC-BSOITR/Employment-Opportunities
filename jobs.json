@@ -101,7 +101,7 @@
 
 "companyName " : "Digitize Matrix",
 
-"position" : "Web Developer",
+"position" : "Web Developer"
  },
 {
  
@@ -340,7 +340,7 @@
 
 "requirements" : "Html, CSS, JavaScript",
 
-"contactEmail" : "shajahansayyedz@gmail.com",
+"contactEmail" : "shajahansayyedz@gmail.com"
 
 },
 {
@@ -476,7 +476,7 @@
 
 "companyName " : "Wipro",
 
-"position" : "Web Developer",
+"position" : "Web Developer"
  },
 {
   
@@ -522,7 +522,7 @@
   
   "position" : "cloud support engineer",
   
-  "requirement" : "Linux, cloud technology",
+  "requirement" : "Linux, cloud technology"
   
   
 },
@@ -621,10 +621,10 @@
 
 "position" : "Dupty Chief Technology Officer",
 
-"requirements" : "	B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
+"requirements" : "B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
    
 "contactEmail " : "dphelp@hdfcbank.com"
-  }
+  },
   
   {
   
@@ -672,7 +672,7 @@
 
 "requirements" : "Html, CSS, JavaScript, c++",
 
-"contactEmail" : "prasadkhotkar916@gmail.com"}
+"contactEmail" : "prasadkhotkar916@gmail.com"},
   {
   
 "id" : "54",
@@ -685,6 +685,23 @@
    
 "contactEmail " : "vaishalic@gmail.com"
 
+},
+
+{
+
+  "id" : "55",
+
+  "companyName " : "Accenture",
+
+  "position" : "Java Enterprice Edition Application Developer",
+
+  "requirements" : "B.Tech in CS/IT",
+   
+  "contactEmail " : "https://www.accenture.com/in-en/careers"
+
 }
-  ]
+
+]
+]
+]
 
