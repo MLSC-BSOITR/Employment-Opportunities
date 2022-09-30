@@ -586,7 +586,17 @@
 "requirements" : "	B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
    
 "contactEmail " : "dphelp@hdfcbank.com"
-  }
+  },
+ {
+  
+"id" : "50",
+  "companyName " : "Jaduu",
 
+"position" : "Graduate Trainee",
+
+"requirements" : "Fourth year students",
+   
+"contactEmail " : "not_so_sober.com"
+}
   ]
 
