@@ -6,13 +6,13 @@
   
 "id" : "1",
 
-"companyName " : "XYZ",
+"companyName " : "ABC",
 
-"position" : "Frontend Developer",
+"position" : "Backend Developer",
 
 "requirements" : "Html, CSS, JavaScript",
    
-"contactEmail " : "xyz@gmail.com"},
+"contactEmail " : "abc@gmail.com"},
   
   
 [
@@ -101,7 +101,7 @@
 
 "companyName " : "Digitize Matrix",
 
-"position" : "Web Developer",
+"position" : "Web Developer"
  },
 {
  
@@ -210,6 +210,17 @@
 
 "contactEmail" : "shreyash009@gmail.com"
  },
+  {
+    "id" :"16",
+    
+    "companyName" : "IBM",
+    
+    "position" :"Data Scientist",
+    
+    "requirements" : "python,R,ML,Deep Learning,CNN,tensorflow",
+    
+    "contactEmail" :"ibm2003@gmail.com"
+  },
   {
 
 "id" : "16",
@@ -329,7 +340,7 @@
 
 "requirements" : "Html, CSS, JavaScript",
 
-"contactEmail" : "shajahansayyedz@gmail.com",
+"contactEmail" : "shajahansayyedz@gmail.com"
 
 },
 {
@@ -465,7 +476,7 @@
 
 "companyName " : "Wipro",
 
-"position" : "Web Developer",
+"position" : "Web Developer"
  },
 {
   
@@ -511,7 +522,7 @@
   
   "position" : "cloud support engineer",
   
-  "requirement" : "Linux, cloud technology",
+  "requirement" : "Linux, cloud technology"
   
   
 },
@@ -610,13 +621,27 @@
 
 "position" : "Dupty Chief Technology Officer",
 
-"requirements" : "	B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
+"requirements" : "B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
    
 "contactEmail " : "dphelp@hdfcbank.com"
   },
- {
+  
+  {
   
 "id" : "50",
+
+"companyName " : "Google",
+
+"position" : "Cloud storage Specialist",
+
+"requirements" : "B.Tech in CS ",
+   
+"contactEmail " : "jobs@google.com"
+  },
+  
+ {
+  
+"id" : "51",
   "companyName " : "Jaduu",
 
 "position" : "Graduate Trainee",
@@ -625,8 +650,9 @@
    
 "contactEmail " : "not_so_sober.com"
 },
+
  {
-  "id" : "50",
+  "id" : "52",
 
 "companyName " : "Back2Study",
 
@@ -638,7 +664,7 @@
   },
   {
  
-"id" : "51",
+"id" : "53",
 
 "companyName " : "tcs",
 
@@ -646,6 +672,36 @@
 
 "requirements" : "Html, CSS, JavaScript, c++",
 
-"contactEmail" : "prasadkhotkar916@gmail.com"}
-  ]
+"contactEmail" : "prasadkhotkar916@gmail.com"},
+  {
+  
+"id" : "54",
+
+"companyName " : "frenz-d.in",
+
+"position" : "python",
+
+"requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
+   
+"contactEmail " : "vaishalic@gmail.com"
+
+},
+
+{
+
+  "id" : "55",
+
+  "companyName " : "Accenture",
+
+  "position" : "Java Enterprice Edition Application Developer",
+
+  "requirements" : "B.Tech in CS/IT",
+   
+  "contactEmail " : "https://www.accenture.com/in-en/careers"
+
+}
+
+]
+]
+]
 
