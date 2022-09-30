@@ -597,10 +597,21 @@
 "requirements" : "Fourth year students",
    
 "contactEmail " : "not_so_sober.com"
-}
-   {
+},
+ {
+  "id" : "50",
+
+"companyName " : "Back2Study",
+
+"position" : "Content Writer",
+
+"requirements" : "Graduation completed",
+   
+"contactEmail " : "https://www.back2study.co.in"
+  },
+  {
  
-"id" : "44",
+"id" : "51",
 
 "companyName " : "tcs",
 
@@ -608,6 +619,6 @@
 
 "requirements" : "Html, CSS, JavaScript, c++",
 
-"contactEmail" : "prasadkhotkar916@gmail.com"},
+"contactEmail" : "prasadkhotkar916@gmail.com"}
   ]
 
