@@ -447,7 +447,18 @@
 
 "companyName " : "Wipro",
 
-"position" : "Web Developer",
+"position" : "Web Developer"
+ },
+  {
+ 
+  
+"id" : "38",
+
+"companyName " : "Hewlett Packard Enterprise",
+
+"position" : "AI ML ",
+
+"requirements" : "Graduation in AIML, Higher Mathematics"
  },
   {
   "id" : "37",
