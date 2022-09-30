@@ -95,7 +95,7 @@
     "requirements" : "html,css,javascript",
     "contactEmail" : "prajaktalandge2003@gmail.com"
 },
- 
+  {
 "companyName " : "Skillred",
 
 "position" : "App Developer",
@@ -105,6 +105,20 @@
 "contactEmail" : "skillred123@gmail.com"
  
  },
+
+ {
+ "id" : "20",
+
+"companyName " : "anchor",
+
+"position" : "operator",
+
+"requirements" : "Excel,Typing Speed and Knowlege of Electrical Energy",
+
+"contactEmail" : "anchorhr17@gmail.com"
+ 
+ },
+
 {
 
 "companyName " : "AIESEC",
