@@ -384,7 +384,7 @@
 },
    {
 
-"id" : "36",
+"id" : "32",
 
 "companyName " : "Comely Enterprises",
 
@@ -396,7 +396,7 @@
 
 },
   {
-"id" : "32",
+"id" : "33",
 
 "companyName " : "Morgan stanley",
 
@@ -408,7 +408,7 @@
  },
   {
   
-  "id" : "33",
+  "id" : "34",
   
   "companyName " : "Paytm",
   
@@ -419,7 +419,7 @@
   "contactEmail " : "guptashaurya2002@gmail.com"},
    {
   
-"id" : "34",
+"id" : "35",
 
 "companyName " : "AMAZON",
 
@@ -430,7 +430,7 @@
 "contactEmail " : "tejaskhatkale18@gmail.com"},
  
 {
-  "id" : "35",
+  "id" : "36",
   
   "companyName" : "Google",
   
@@ -443,7 +443,7 @@
 },
  
  { 
- "id" : "36",
+ "id" : "37",
 
 "companyName " : "Wipro",
 
@@ -451,7 +451,7 @@
  },
 
 {
-  "id" : "37",
+  "id" : "38",
   
   "companyName " : "PhonePe",
   
@@ -465,7 +465,7 @@
   {
  
   
-"id" : "38",
+"id" : "39",
 
 "companyName " : "Hewlett Packard Enterprise",
 
@@ -475,7 +475,7 @@
  },
   
  {
-  "id" : "39",
+  "id" : "40",
   
   "companyName " : "Microsoft",
   
@@ -488,7 +488,7 @@
  },
   
   {
-  "id" : "37",
+  "id" : "41",
   
   "companyName" : "Digital Ocean",
   
@@ -499,6 +499,7 @@
   
 },
   {
+      "id" : "42",
 
 "companyName " : "amazon",
 
@@ -506,9 +507,23 @@
 
 "requirements" : "AWS",
    
-"contactEmail " : "bhargavagraval@gmail.com"}
+"contactEmail " : "bhargavagraval@gmail.com"},
+  {
+  "id" : "43",
+  
+  "companyName" : "Google",
+  
+  "position" : "web developer",
+  
+  "requirement" : "html,css,javaScript",
+  
+  "contactEmail" : "shrutishinde145@gmail.com"
+  
+  },
+ 
   
    {
+       "id" : "44",
 
 "companyName " : "tcs",
 
@@ -516,12 +531,12 @@
 
 "requirements" : "html,css ,js,bootstrap,git,java,reactjs",
    
-"contactEmail " : "bhargavagraval@gmail.com"}
+"contactEmail " : "bhargavagraval@gmail.com"},
 
 
 {
 
-"id" : "38",
+"id" : "45",
 
 "company name " : "Google",
 
@@ -531,10 +546,11 @@
 
 "contactEmail" : "jobs@google.com"
 
-};
+},
+  
 {
 
-"id" : "39",
+"id" : "46",
 
 "company name " : "Dhruva",
 
@@ -545,5 +561,6 @@
 "contactEmail" : "jobs@dhruva.com"
 
 }
+
   ]
 
