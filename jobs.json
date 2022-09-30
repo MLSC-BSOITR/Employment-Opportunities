@@ -41,4 +41,20 @@
 
 "contactEmail" : "xyz@gmail.com"},
 
+ {
+ 
+  
+"id" : "15",
+
+"companyName " : "Wipro",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "piyushchavan348@gmail.com"},
+
+
+
+
 ]
