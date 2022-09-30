@@ -1,8 +1,8 @@
 
 // Examplary Code 
 
-[{
- 
+[
+ {
   
 "id" : "1",
 
@@ -14,9 +14,18 @@
 
 "contactEmail" : "xyz@gmail.com"},
 
+{
+  
+"id" : "2",
 
+"companyName " : "Colab India",
 
-\\ Code in the above format
+"position" : "Graphic Design",
+
+"requirements" : "Adobe After Effects,Adobe Illustrator,Adobe Photoshop,Adobe Premiere Pro,UI & UX Design",
+
+"contactEmail" : "https://internshala.com/internship/detail/graphic-design-work-from-home-job-internship-at-colab-india1664452481"},
+
 
 
 ]
