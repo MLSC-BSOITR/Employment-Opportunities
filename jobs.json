@@ -17,7 +17,7 @@
  {
  
   
-"id" : "1",
+"id" : "2",
 
 "companyName " : "tcs",
 
@@ -29,7 +29,7 @@
  {
  
   
-"id" : "11",
+"id" : "3",
 
 "companyName " : "Infosys",
 
@@ -42,7 +42,7 @@
 
 {
   
-"id" : "2",
+"id" : "4",
 
 "companyName " : "Colab India",
 
@@ -51,7 +51,7 @@
  },
   {
  
- "id" : "3",
+ "id" : "5",
 
 "companyName " : "Google",
 
@@ -63,7 +63,7 @@
 },
   {
   
-"id" : "71",
+"id" : "6",
 
 "companyName " : "abc",
 
@@ -77,7 +77,7 @@
 
  
  { 
- "id" : "8",
+ "id" : "7",
 
 "companyName " : "Digitize Matrix",
 
@@ -86,7 +86,7 @@
 {
  
   
-"id" : "3",
+"id" : "8",
 
 "companyName " : "BY JU'S",
 
@@ -95,19 +95,16 @@
 "requirements" : "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
 
 "contactEmail" : "contact@byjus.comxyz@gmail.com"},
-{
-"requirements" : "frameworks such as WordPress, Drupal, Magento, Joomla, etc",
 
-"contactEmail" : "digitizematrix@gmail.com"},
- 
  {
-    "id" : "38",
+    "id" : "9",
     "companyName" : "TCS",
     "position" : "Frontend Developer",
     "requirements" : "html,css,javascript",
     "contactEmail" : "prajaktalandge2003@gmail.com"
 },
   {
+    "id" : "10",
 "companyName " : "Skillred",
 
 "position" : "App Developer",
@@ -119,7 +116,7 @@
  },
 
 {
-"id" : "1",
+"id" : "11",
 
 "companyName " : "RedForce",
 
@@ -132,7 +129,7 @@
 },
 
  {
- "id" : "20",
+ "id" : "12",
 
 "companyName " : "anchor",
 
@@ -145,6 +142,7 @@
  },
 
 {
+   "id" : "13",
 
 "companyName " : "AIESEC",
 
@@ -157,6 +155,7 @@
  },
 
 {
+   "id" : "14",
 
 "companyName " : "TATA",
 
@@ -169,6 +168,7 @@
 
  
  {
+    "id" : "15",
 "companyName " : "UPSPIKE ",
 
 "position" : "WEB DEVELOPER ",
@@ -178,7 +178,8 @@
 "contactEmail" : "sahil952003@gmail.com"
  },
   {
-=======
+
+     "id" : "16",
 "companyName " : "VCL",
 
 "position" : "CTO",
@@ -190,7 +191,8 @@
  },
  
  {
-
+ "id" : "17",
+   
 "companyName " : "IBM",
 
 "position" : "Support Enginner",
@@ -201,7 +203,7 @@
  },
   {
   
-"id" : "41",
+"id" : "18",
 
 "companyName " : "Accenture",
 
@@ -214,7 +216,7 @@
  },
 
   {
- "id" : "78",
+ "id" : "19",
 
 "companyName " : "AMAZON",
 
@@ -227,7 +229,7 @@
  },
   {
   
-"id" : "79",
+"id" : "20",
 
 "companyName " : "CareerFounding",
 
@@ -239,7 +241,7 @@
 
  
   {
- "id" : "123",
+ "id" : "21",
 
 "companyName " : "Barclays ",
 
@@ -247,10 +249,10 @@
 
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
-"contactEmail" : "shindeanmol125@gmail.com"}
+"contactEmail" : "shindeanmol125@gmail.com"},
 
  {
-  
+ 
 "id" : "88",
 
 "companyName " : "Colab India",
@@ -258,15 +260,42 @@
 "contactEmail" : "diyagandhisb@gmail.com"
  
  },
- 
- 
- 
- 
+  {
+  
+"id" : "23",
 
-]
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+
+ {
+"id" : "24",
+
+"companyName " : "tcs",
+
+"position" : "Software Developer",
+
+"requirements" : "Html,CSS,Python,C++,C,Cotlin",
+
+"contactEmail" : "anuradhathombare1512@gmail.com"},
+
+{
+"id" : "25",
+
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
 {
 
-"id" : "07",
+"id" : "26",
 
 "companyName " : "Google",
 
@@ -275,4 +304,5 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "shajahansayyedz@gmail.com"
-} 
+} ,
+]
