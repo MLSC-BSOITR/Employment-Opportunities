@@ -64,5 +64,16 @@
 
 "contactEmail" : "digitizematrix@gmail.com"}
 
- 
+  {
+  
+    "id" : "20",
+    
+    "companyName " : "capgemini",
+    
+    "position" : "software developnment",
+    
+    "requirements" : "Html, CSS, c++ ,JavaScript",
+    
+    "contactEmail" : "komalrnikam2019@gmail.com"
+},
 ]
