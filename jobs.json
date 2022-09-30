@@ -251,15 +251,6 @@
    
 "contactEmail" : "shindeanmol125@gmail.com"},
 
- {
- 
-"id" : "88",
-
-"companyName " : "Colab India",
-
-"contactEmail" : "diyagandhisb@gmail.com"
- 
- },
   {
   
 "id" : "23",
@@ -304,5 +295,25 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "shajahansayyedz@gmail.com"
-} ,
+} 
+  {
+  
+"id" : "27",
+
+"companyName " : "IESoft Technologies Private Limited",
+
+"position" : "UX Design",
+
+"requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
+   
+"contactEmail " : "info@iesoftfzc.com"},
+ {
+
+"id" : "28",
+
+"companyName " : "Colab India",
+
+"contactEmail" : "diyagandhisb@gmail.com"
+ 
+ }
 ]
