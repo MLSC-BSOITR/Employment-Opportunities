@@ -261,18 +261,6 @@
    
 "contactEmail" : "shindeanmol125@gmail.com"},
 
- {
-
-"id" : "22",
-
-"companyName " : "IBM",
-
-"position" : "Data scientist",
-
-"requirements" : "python, statistics, Data visuliazation",
-
-"contactEmail" : "vyankateshpatil835@gmail.com"
-} ,
   {
   
 "id" : "23",
@@ -337,7 +325,19 @@
 "companyName " : "Colab India",
 
 "contactEmail" : "diyagandhisb@gmail.com"
- 
+ },
+
+{
+"id" : "29",
+
+"companyName " : "Morgan stanley",
+
+"position" : "Full Time Analyst",
+
+"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
+
+"contactEmail" : "asia.recruit@morganstanley.com"
+=======
  },
   {
  
@@ -376,5 +376,6 @@
 "requirements" : "Catia, Ansys, Fundamentals of Mechanical Engineering",
 
 "contactEmail" : "sarthakkatwate12@gmail.com"
-},
+
+}
 ]
