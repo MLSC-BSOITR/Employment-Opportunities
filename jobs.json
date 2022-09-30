@@ -2,7 +2,7 @@
 // Examplary Code 
 
 [
- {
+{
   
 "id" : "1",
 
@@ -12,7 +12,7 @@
 
 "requirements" : "Html, CSS, JavaScript",
    
-"contactEmail" : "xyz@gmail.com"},
+"contactEmail " : "xyz@gmail.com"},
  
  {
  
@@ -26,6 +26,18 @@
 "requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
 
 "contactEmail" : "vishalabhange2002@gmail.com"},
+ {
+ 
+  
+"id" : "11",
+
+"companyName " : "Infosys",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , , ejs, DSA, DBMS",
+
+"contactEmail" : "gaurigadge17@gmail.com"},
 
 
 {
@@ -175,9 +187,67 @@
 
 "contactEmail" : "cyberhim99@gmail.com"
  
- }
+ },
+ 
+ {
 
-]
+"companyName " : "IBM",
+
+"position" : "Support Enginner",
+
+"requirements" : "Linux, Big Data, Database",
+
+"contactEmail" : "arslaan077799@gmail.com"
+ },
+  {
+  
+"id" : "41",
+
+"companyName " : "Accenture",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+   
+"contactEmail" : "sanskrutithorve75@gmail.com"
+ 
+ },
+
+  {
+ "id" : "78",
+
+"companyName " : "AMAZON",
+
+"position" : "CTO",
+
+"requirements" : "Cybersecurity ",
+
+"contactEmail" : "chavanas1511@gmail.com"
+ 
+ },
+  {
+  
+"id" : "79",
+
+"companyName " : "CareerFounding",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript,  SQL, MongoDB",
+   
+"contactEmail" : "https://careerfoundry.com"},
+
+ 
+  {
+ "id" : "123",
+
+"companyName " : "Barclays ",
+
+"position" : "Web Developer",
+
+"requirements" : "Html,Java, Python, CSS, JavaScript",
+   
+"contactEmail" : "shindeanmol125@gmail.com"},
  {
  
   
@@ -192,7 +262,7 @@
 "contactEmail" : "vishalabhange2002@gmail.com"},
 
 
-{ {
+{
  
   
 "id" : "1",
@@ -205,47 +275,6 @@
 
 "contactEmail" : "vishalabhange2002@gmail.com"},
 
-
-{ 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  {
  
   
@@ -255,9 +284,20 @@
 
 "position" : "Software Developer",
 
-"requirements" : "Html,CSS,Python,C++,C,Cotlin"
+"requirements" : "Html,CSS,Python,C++,C,Cotlin",
 
-"contactEmail" : "anuradhathombare1512@gmail.com,
-
+"contactEmail" : "anuradhathombare1512@gmail.com"},
 
 {
+
+"id" : "07",
+
+"companyName " : "Google",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+
+"contactEmail" : "shajahansayyedz@gmail.com"
+} 
+]
