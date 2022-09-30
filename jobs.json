@@ -329,19 +329,6 @@
 
 "contactEmail" : "diyagandhisb@gmail.com"
  },
-
-{
-"id" : "29",
-
-"companyName " : "Morgan stanley",
-
-"position" : "Full Time Analyst",
-
-"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
-
-"contactEmail" : "asia.recruit@morganstanley.com"
-=======
- },
   {
  
   ,
@@ -393,5 +380,60 @@
 
 "contactEmail" : "contact@aimcomely.com"
 
-}
-]
+},
+  {
+"id" : "32",
+
+"companyName " : "Morgan stanley",
+
+"position" : "Full Time Analyst",
+
+"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
+
+"contactEmail" : "asia.recruit@morganstanley.com"
+ },
+  {
+  
+  "id" : "33",
+  
+  "companyName " : "Paytm",
+  
+  "position" : "Frontend Developer",
+  
+  "requirements" : "Html, CSS, JavaScript",
+     
+  "contactEmail " : "guptashaurya2002@gmail.com"},
+   {
+  
+"id" : "34",
+
+"companyName " : "AMAZON",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript,frameworks",
+   
+"contactEmail " : "tejaskhatkale18@gmail.com"},
+ 
+{
+  "id" : "35",
+  
+  "companyName" : "Google",
+  
+  "position" : "Project Manager",
+  
+  "requirement" : "java,css,kotlin",
+  
+  "contactEmail" : "vedantdhage61@gmail.com"
+  
+},
+ 
+ { 
+ "id" : "36",
+
+"companyName " : "Wipro",
+
+"position" : "Web Developer",
+ }
+  ]
+
