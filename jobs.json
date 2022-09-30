@@ -392,7 +392,7 @@
   "contactEmail " : "guptashaurya2002@gmail.com"},
    {
   
-"id" : "1",
+"id" : "34",
 
 "companyName " : "AMAZON",
 
@@ -403,7 +403,7 @@
 "contactEmail " : "tejaskhatkale18@gmail.com"},
  
 {
-  "id" : "63",
+  "id" : "35",
   
   "companyName" : "Google",
   
@@ -413,5 +413,14 @@
   
   "contactEmail" : "vedantdhage61@gmail.com"
   
-}
+},
+ 
+ { 
+ "id" : "36",
+
+"companyName " : "Wipro",
+
+"position" : "Web Developer",
+ }
   ]
+
