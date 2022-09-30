@@ -576,11 +576,21 @@
    
 "contactEmail " : "info@persistent.com"
 },
+  {
+  "id" : "49",
+
+"companyName " : "SBI",
+
+"position" : "Dupty Chief Technology Officer",
+
+"requirements" : "	B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
+   
+"contactEmail " : "dphelp@hdfcbank.com"
+  },
  {
   
-"id" : "69",
-
-"companyName " : "Jaduu",
+"id" : "50",
+  "companyName " : "Jaduu",
 
 "position" : "Graduate Trainee",
 
