@@ -64,5 +64,16 @@
 
 "contactEmail" : "digitizematrix@gmail.com"}
 
+{ 
+ "id" : "9",
+
+"companyName " : "google",
+
+"position" : "full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+",
+
+"contactEmail" : "anushkarananaware@gmail.com"}
  
 ]
