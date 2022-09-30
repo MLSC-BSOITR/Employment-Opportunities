@@ -247,15 +247,47 @@
 
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
-"contactEmail" : "shindeanmol125@gmail.com"}
+"contactEmail" : "shindeanmol125@gmail.com"},
+ {
+ 
+  
+"id" : "1",
 
- 
- 
- 
- 
- 
+"companyName " : "tcs",
 
-]
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+
+
+{
+ 
+  
+"id" : "1",
+
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+
+ {
+ 
+  
+"id" : "100",
+
+"companyName " : "tcs",
+
+"position" : "Software Developer",
+
+"requirements" : "Html,CSS,Python,C++,C,Cotlin",
+
+"contactEmail" : "anuradhathombare1512@gmail.com"},
+
 {
 
 "id" : "07",
@@ -268,3 +300,4 @@
 
 "contactEmail" : "shajahansayyedz@gmail.com"
 } 
+]
