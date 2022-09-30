@@ -13,10 +13,8 @@
 "requirements" : "Html, CSS, JavaScript",
    
 "contactEmail " : "xyz@gmail.com"},
- 
  {
  
-  
 "id" : "2",
 
 "companyName " : "tcs",
@@ -28,7 +26,6 @@
 "contactEmail" : "vishalabhange2002@gmail.com"},
  {
  
-  
 "id" : "3",
 
 "companyName " : "Infosys",
@@ -37,10 +34,7 @@
 
 "requirements" : "Html, CSS, JavaScript, react js , , ejs, DSA, DBMS",
 
-"contactEmail" : "gaurigadge17@gmail.com"
- },
-
-
+"contactEmail" : "gaurigadge17@gmail.com" },
 {
   
 "id" : "4",
@@ -50,7 +44,7 @@
 "contactEmail" : "diyagandhisb@gmail.com"
  
  },
-  {
+ {
  
  "id" : "5",
 
@@ -62,7 +56,7 @@
 
 "contactEmail" : "diyagandhisb@gmail.com"
 },
-  {
+{
   
 "id" : "6",
 
@@ -74,11 +68,8 @@
 
 "contactEmail" : "pratikshahodade@gmail.com"
   },
- 
- {
-
- 
  { 
+   
  "id" : "7",
 
 "companyName " : "Digitize Matrix",
@@ -87,7 +78,6 @@
  },
 {
  
-  
 "id" : "8",
 
 "companyName " : "BY JU'S",
@@ -98,8 +88,7 @@
 
 "contactEmail" : "contact@byjus.comxyz@gmail.com"
 },
-
- {
+{
     "id" : "9",
     "companyName" : "TCS",
     "position" : "Frontend Developer",
@@ -107,7 +96,9 @@
     "contactEmail" : "prajaktalandge2003@gmail.com"
 },
   {
-    "id" : "10",
+    
+ "id" : "10",
+    
 "companyName " : "Skillred",
 
 "position" : "App Developer",
@@ -171,7 +162,9 @@
 
  
  {
-    "id" : "15",
+   
+ "id" : "15",
+   
 "companyName " : "UPSPIKE ",
 
 "position" : "WEB DEVELOPER ",
@@ -192,7 +185,8 @@
  },
   {
 
-     "id" : "16",
+"id" : "16",
+    
 "companyName " : "VCL",
 
 "position" : "CTO",
@@ -263,8 +257,7 @@
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
 "contactEmail" : "shindeanmol125@gmail.com"},
-
-  {
+{
   
 "id" : "23",
 
@@ -277,6 +270,7 @@
 "contactEmail" : "vishalabhange2002@gmail.com"},
 
  {
+   
 "id" : "24",
 
 "companyName " : "tcs",
@@ -288,6 +282,7 @@
 "contactEmail" : "anuradhathombare1512@gmail.com"},
 
 {
+  
 "id" : "25",
 
 "companyName " : "tcs",
@@ -322,9 +317,7 @@
 
 "contactEmail" : "mardhekarsanket@gmail.com"
 } ,
-
-  {
-
+{
   
 "id" : "27",
 
@@ -344,7 +337,8 @@
 "contactEmail" : "diyagandhisb@gmail.com"
  
  },
-  { 
+ {
+   
 "id" : "29",
 
 "companyName " : "IBM",
@@ -354,10 +348,8 @@
 "requirements" : "AWS,GCP, Azure",
 
 "contactEmail" : "googlesupport@google.com"
-
-
  },
-  {
+ {
   
 "id" : "30",
 
@@ -368,8 +360,7 @@
 "requirements" : "Html, CSS, JavaScript",
    
 "contactEmail " : "adityabhagwat357@gmail.com"},
-
-  {
+ {
 
 "id" : "31",
 
@@ -382,7 +373,7 @@
 "contactEmail" : "sarthakkatwate12@gmail.com"
 
 },
-   {
+{
 
 "id" : "32",
 
@@ -395,7 +386,7 @@
 "contactEmail" : "contact@aimcomely.com"
 
 },
-  {
+{
 "id" : "33",
 
 "companyName " : "Morgan stanley",
@@ -442,6 +433,7 @@
   
 },
  { 
+   
  "id" : "37",
 
 "companyName " : "Wipro",
@@ -449,6 +441,7 @@
 "position" : "Web Developer",
  },
 {
+  
   "id" : "38",
   
   "companyName " : "PhonePe",
@@ -461,7 +454,6 @@
 
  },
   {
- 
   
 "id" : "39",
 
@@ -472,6 +464,7 @@
 "requirements" : "Graduation in AIML, Higher Mathematics"
  },
  {
+   
   "id" : "40",
   
   "companyName " : "Microsoft",
@@ -484,6 +477,7 @@
 
  },
   {
+    
   "id" : "41",
   
   "companyName" : "Digital Ocean",
@@ -494,8 +488,9 @@
   
   
 },
-  {
-      "id" : "42",
+{
+    
+ "id" : "42",
 
 "companyName " : "amazon",
 
@@ -506,6 +501,7 @@
 "contactEmail " : "bhargavagraval@gmail.com"},
   
   {
+    
   "id" : "43",
   
   "companyName" : "Google",
@@ -518,7 +514,8 @@
   
   },
    {
-       "id" : "44",
+     
+"id" : "44",
 
 "companyName " : "tcs",
 
@@ -567,7 +564,7 @@
    
 "contactEmail " : "campusteam@birlasoft.com"
 },
-  {
+ {
   
 "id" : "48",
 
