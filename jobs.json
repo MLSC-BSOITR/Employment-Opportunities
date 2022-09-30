@@ -380,5 +380,18 @@
 
 "contactEmail" : "sarthakkatwate12@gmail.com"
 
+},
+   {
+
+"id" : "32",
+
+"companyName " : "Comely Enterprises",
+
+"position" : "web Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+
+"contactEmail" : "https://practice.geeksforgeeks.org/jobs/Comely-webdev"
+
 }
 ]
