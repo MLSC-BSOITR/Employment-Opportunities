@@ -434,19 +434,17 @@
 "companyName " : "Wipro",
 
 "position" : "Web Developer",
- }
-  
+ },
   {
-  
   "id" : "37",
-
-"companyName " : "amazon",
-
-"position" : "AWS developer",
-
-"requirements" : "AWS",
-   
-"contactEmail " : "bhargavagraval@gmail.com"},
-
+  
+  "companyName" : "Digital Ocean",
+  
+  "position" : "cloud support engineer",
+  
+  "requirement" : "Linux, cloud technology",
+  
+  
+},
   ]
 
