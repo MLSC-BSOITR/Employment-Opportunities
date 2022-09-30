@@ -17,7 +17,7 @@
  {
  
   
-"id" : "1",
+"id" : "2",
 
 "companyName " : "tcs",
 
@@ -29,7 +29,7 @@
  {
  
   
-"id" : "11",
+"id" : "3",
 
 "companyName " : "Infosys",
 
@@ -42,7 +42,7 @@
 
 {
   
-"id" : "2",
+"id" : "4",
 
 "companyName " : "Colab India",
 
@@ -51,7 +51,7 @@
  },
   {
  
- "id" : "3",
+ "id" : "5",
 
 "companyName " : "Google",
 
@@ -63,7 +63,7 @@
 },
   {
   
-"id" : "71",
+"id" : "6",
 
 "companyName " : "abc",
 
@@ -77,7 +77,7 @@
 
  
  { 
- "id" : "8",
+ "id" : "7",
 
 "companyName " : "Digitize Matrix",
 
@@ -86,7 +86,7 @@
 {
  
   
-"id" : "3",
+"id" : "8",
 
 "companyName " : "BY JU'S",
 
@@ -95,19 +95,16 @@
 "requirements" : "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
 
 "contactEmail" : "contact@byjus.comxyz@gmail.com"},
-{
-"requirements" : "frameworks such as WordPress, Drupal, Magento, Joomla, etc",
 
-"contactEmail" : "digitizematrix@gmail.com"},
- 
  {
-    "id" : "38",
+    "id" : "9",
     "companyName" : "TCS",
     "position" : "Frontend Developer",
     "requirements" : "html,css,javascript",
     "contactEmail" : "prajaktalandge2003@gmail.com"
 },
   {
+    "id" : "10",
 "companyName " : "Skillred",
 
 "position" : "App Developer",
@@ -119,7 +116,7 @@
  },
 
 {
-"id" : "1",
+"id" : "11",
 
 "companyName " : "RedForce",
 
@@ -132,7 +129,7 @@
 },
 
  {
- "id" : "20",
+ "id" : "12",
 
 "companyName " : "anchor",
 
@@ -145,6 +142,7 @@
  },
 
 {
+   "id" : "13",
 
 "companyName " : "AIESEC",
 
@@ -157,6 +155,7 @@
  },
 
 {
+   "id" : "14",
 
 "companyName " : "TATA",
 
@@ -169,6 +168,7 @@
 
  
  {
+    "id" : "15",
 "companyName " : "UPSPIKE ",
 
 "position" : "WEB DEVELOPER ",
@@ -177,8 +177,19 @@
 
 "contactEmail" : "sahil952003@gmail.com"
  },
+  
+   {
+"companyName " : "EdWorks ",
+
+"position" : "WordPress web developer ",
+
+"requirements" : " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
+
+"contactEmail" : "shreyash009@gmail.com"
+ },
   {
-=======
+
+     "id" : "16",
 "companyName " : "VCL",
 
 "position" : "CTO",
@@ -190,7 +201,8 @@
  },
  
  {
-
+ "id" : "17",
+   
 "companyName " : "IBM",
 
 "position" : "Support Enginner",
@@ -201,7 +213,7 @@
  },
   {
   
-"id" : "41",
+"id" : "18",
 
 "companyName " : "Accenture",
 
@@ -214,7 +226,7 @@
  },
 
   {
- "id" : "78",
+ "id" : "19",
 
 "companyName " : "AMAZON",
 
@@ -227,7 +239,7 @@
  },
   {
   
-"id" : "79",
+"id" : "20",
 
 "companyName " : "CareerFounding",
 
@@ -239,7 +251,7 @@
 
  
   {
- "id" : "123",
+ "id" : "21",
 
 "companyName " : "Barclays ",
 
@@ -248,24 +260,22 @@
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
 "contactEmail" : "shindeanmol125@gmail.com"},
+
  {
- 
+
+"id" : "22",
+
+"companyName " : "IBM",
+
+"position" : "Data scientist",
+
+"requirements" : "python, statistics, Data visuliazation",
+
+"contactEmail" : "vyankateshpatil835@gmail.com"
+} ,
+  {
   
-"id" : "1",
-
-"companyName " : "tcs",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
-
-"contactEmail" : "vishalabhange2002@gmail.com"},
-
-
-{
- 
-  
-"id" : "1",
+"id" : "23",
 
 "companyName " : "tcs",
 
@@ -276,9 +286,7 @@
 "contactEmail" : "vishalabhange2002@gmail.com"},
 
  {
- 
-  
-"id" : "100",
+"id" : "24",
 
 "companyName " : "tcs",
 
@@ -289,8 +297,18 @@
 "contactEmail" : "anuradhathombare1512@gmail.com"},
 
 {
+"id" : "25",
 
-"id" : "07",
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "vishalabhange2002@gmail.com"},
+{
+
+"id" : "26",
 
 "companyName " : "Google",
 
@@ -302,7 +320,54 @@
 },
   {
 
-"id" : "02",
+  
+"id" : "27",
+
+"companyName " : "IESoft Technologies Private Limited",
+
+"position" : "UX Design",
+
+"requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
+   
+"contactEmail " : "info@iesoftfzc.com"},
+ {
+
+"id" : "28",
+
+"companyName " : "Colab India",
+
+"contactEmail" : "diyagandhisb@gmail.com"
+ 
+ },
+  {
+ 
+  ,
+"id" : "29",
+
+"companyName " : "IBM",
+
+"position" : "Cloud Computing Intern",
+
+"requirements" : "AWS,GCP, Azure",
+
+"contactEmail" : "googlesupport@google.com"
+
+
+ },
+  {
+  
+"id" : "30",
+
+"companyName " : "tcs",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+   
+"contactEmail " : "adityabhagwat357@gmail.com"},
+  {
+
+"id" : "31",
 
 "companyName " : "Skar",
 
@@ -311,5 +376,5 @@
 "requirements" : "Catia, Ansys, Fundamentals of Mechanical Engineering",
 
 "contactEmail" : "sarthakkatwate12@gmail.com"
-} 
+},
 ]
