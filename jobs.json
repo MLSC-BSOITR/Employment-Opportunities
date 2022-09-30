@@ -34,5 +34,35 @@
 
 "companyName " : "Colab India",
 
+
+\\ Code in the above format
+"id" : "3",
+
+"companyName " : "XYZ",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+
+"contactEmail" : "xyz@gmail.com"},
+
+ {
+ 
+  
+"id" : "15",
+
+"companyName " : "Wipro",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "piyushchavan348@gmail.com"},
+
+
+
+
+
 "contactEmail" : "diyagandhisb@gmail.com"
+
 ]
