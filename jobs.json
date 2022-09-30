@@ -329,19 +329,6 @@
 
 "contactEmail" : "diyagandhisb@gmail.com"
  },
-
-{
-"id" : "29",
-
-"companyName " : "Morgan stanley",
-
-"position" : "Full Time Analyst",
-
-"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
-
-"contactEmail" : "asia.recruit@morganstanley.com"
-=======
- },
   {
  
   ,
@@ -380,5 +367,16 @@
 
 "contactEmail" : "sarthakkatwate12@gmail.com"
 
-}
+},
+  {
+"id" : "32",
+
+"companyName " : "Morgan stanley",
+
+"position" : "Full Time Analyst",
+
+"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
+
+"contactEmail" : "asia.recruit@morganstanley.com"
+ }
 ]
