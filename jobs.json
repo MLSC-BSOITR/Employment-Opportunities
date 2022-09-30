@@ -299,5 +299,22 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "shajahansayyedz@gmail.com"
-} 
+},
+  
+  
+ {
+ 
+  
+"id" : "1011
+
+"companyName " : "IBM
+
+"position" : "Cloud Computing Intern
+
+"requirements" : "AWS,GCP, Azure
+
+"contactEmail" : "googlesupport@google.com"
+
+
+ }
 ]
