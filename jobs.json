@@ -389,10 +389,19 @@
   
   "requirements" : "Html, CSS, JavaScript",
      
-  "contactEmail " : "guptashaurya2002@gmail.com"}
+  "contactEmail " : "guptashaurya2002@gmail.com"},
+   {
   
+"id" : "1",
 
-]
+"companyName " : "AMAZON",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript,frameworks",
+   
+"contactEmail " : "tejaskhatkale18@gmail.com"},
+ 
 {
   "id" : "63",
   
@@ -404,4 +413,5 @@
   
   "contactEmail" : "vedantdhage61@gmail.com"
   
-},
+}
+  ]
