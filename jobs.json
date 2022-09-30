@@ -434,6 +434,18 @@
 "companyName " : "Wipro",
 
 "position" : "Web Developer",
- }
+ },
+
+{
+  "id" : "37",
+  
+  "companyName " : "PhonePe",
+  
+  "position" : "Graduate Trainee",
+  
+  "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
+  
+  "contactEmail" : "businessrecruitment@phonepe.com"
+}
   ]
 
