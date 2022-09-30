@@ -199,32 +199,6 @@
 
 "contactEmail" : "arslaan077799@gmail.com"
  },
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   {
   
 "id" : "41",
@@ -238,54 +212,7 @@
 "contactEmail" : "sanskrutithorve75@gmail.com"
  
  },
- 
- {
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
- 
- 
- 
- 
- 
- 
- 
   {
  "id" : "78",
 
@@ -298,8 +225,20 @@
 "contactEmail" : "chavanas1511@gmail.com"
  
  },
+  {
+  
+"id" : "79",
+
+"companyName " : "CareerFounding",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript,  SQL, MongoDB",
+   
+"contactEmail" : "https://careerfoundry.com"},
+
  
- 
+  {
  "id" : "123",
 
 "companyName " : "Barclays ",
@@ -308,11 +247,12 @@
 
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
-"contactEmail" : "shindeanmol125@gmail.com"},
+"contactEmail" : "shindeanmol125@gmail.com"}
 
  
  
  
  
  
+
 ]
