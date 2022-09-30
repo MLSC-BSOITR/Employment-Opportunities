@@ -12,11 +12,36 @@
 
 "requirements" : "Html, CSS, JavaScript",
 
-"contactEmail" : "xyz@gmail.com"},
+"contactEmail" : "xyz@gmail.com"
 
 
 
 \\ Code in the above format
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ {
+    "id" : "38",
+    "companyName" : "TCS",
+    "position" : "Frontend Developer",
+    "requirements" : "html,css,javascript",
+    "contactEmail" : "prajaktalandge2003@gmail.com"
+},
+ 
 ]
