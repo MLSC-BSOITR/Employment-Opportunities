@@ -16,5 +16,5 @@ If you want to contribute or find out about the available job vacancies you can 
 
 "requirements" : "Python, cpp, html",
 
-"contactEmail" : "prajwalshelar275@gmail.com
+"contactEmail" : "prajwalshelar275@gmail.com"
 } ]
