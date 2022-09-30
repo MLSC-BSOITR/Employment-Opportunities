@@ -211,6 +211,17 @@
 "contactEmail" : "shreyash009@gmail.com"
  },
   {
+    "id" :"16",
+    
+    "companyName" : "IBM",
+    
+    "position" :"Data Scientist",
+    
+    "requirements" : "python,R,ML,Deep Learning,CNN,tensorflow",
+    
+    "contactEmail" :"ibm2003@gmail.com"
+  },
+  {
 
 "id" : "16",
     
