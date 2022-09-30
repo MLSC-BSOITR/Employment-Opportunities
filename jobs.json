@@ -13,6 +13,33 @@
 "requirements" : "Html, CSS, JavaScript",
    
 "contactEmail " : "xyz@gmail.com"},
+  
+  
+[
+{
+  
+"id" : "100",
+
+"companyName " : "frenz-d.in",
+
+"position" : "ui designer",
+
+"requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
+   
+"contactEmail " : "guruprasadvaidya@gmail.com"},
+[
+{
+  
+"id" : "1",
+
+"companyName " : "XYZ",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+   
+"contactEmail " : "xyz@gmail.com"},
+  
  {
  
 "id" : "2",
