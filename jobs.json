@@ -36,7 +36,8 @@
 
 "contactEmail" : "diyagandhisb@gmail.com"
  
- }
+ },
+  {
  
  "id" : "3",
 
@@ -47,9 +48,8 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "diyagandhisb@gmail.com"
-}
+},
 
-]
  
  { 
  "id" : "8",
@@ -63,19 +63,4 @@
 "contactEmail" : "digitizematrix@gmail.com"}
 
  }
-
-{ 
- "id" : "6",
-
-"companyName " : "Civo",
-
-"position" : "Developer Manager",
-
-"requirements" : "Engaging developers for communities",
-
-"contactEmail" : "atharva7507@gmail.com"}
-
- }
-
-
- }
+]
