@@ -319,6 +319,7 @@
 "contactEmail" : "shajahansayyedz@gmail.com"
 },
   {
+
   
 "id" : "27",
 
@@ -363,6 +364,17 @@
 
 "requirements" : "Html, CSS, JavaScript",
    
-"contactEmail " : "adityabhagwat357@gmail.com"}
+"contactEmail " : "adityabhagwat357@gmail.com"},
+  {
 
+"id" : "31",
+
+"companyName " : "Skar",
+
+"position" : "Mechanical Engineer",
+
+"requirements" : "Catia, Ansys, Fundamentals of Mechanical Engineering",
+
+"contactEmail" : "sarthakkatwate12@gmail.com"
+},
 ]
