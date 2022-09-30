@@ -384,7 +384,7 @@
 },
    {
 
-"id" : "36",
+"id" : "32",
 
 "companyName " : "Comely Enterprises",
 
@@ -396,7 +396,7 @@
 
 },
   {
-"id" : "32",
+"id" : "33",
 
 "companyName " : "Morgan stanley",
 
@@ -408,7 +408,7 @@
  },
   {
   
-  "id" : "33",
+  "id" : "34",
   
   "companyName " : "Paytm",
   
@@ -419,7 +419,7 @@
   "contactEmail " : "guptashaurya2002@gmail.com"},
    {
   
-"id" : "34",
+"id" : "35",
 
 "companyName " : "AMAZON",
 
@@ -430,7 +430,7 @@
 "contactEmail " : "tejaskhatkale18@gmail.com"},
  
 {
-  "id" : "35",
+  "id" : "36",
   
   "companyName" : "Google",
   
@@ -443,16 +443,29 @@
 },
  
  { 
- "id" : "36",
+ "id" : "37",
 
 "companyName " : "Wipro",
 
-"position" : "Web Developer"
+"position" : "Web Developer",
+ },
+
+{
+  "id" : "38",
+  
+  "companyName " : "PhonePe",
+  
+  "position" : "Graduate Trainee",
+  
+  "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
+  
+  "contactEmail" : "businessrecruitment@phonepe.com"
+
  },
   {
  
   
-"id" : "38",
+"id" : "39",
 
 "companyName " : "Hewlett Packard Enterprise",
 
@@ -460,8 +473,22 @@
 
 "requirements" : "Graduation in AIML, Higher Mathematics"
  },
+  
+ {
+  "id" : "40",
+  
+  "companyName " : "Microsoft",
+  
+  "position" : "SDE",
+  
+  "requirements" : "Html, CSS, JavaScript, C++/Java/Python, DBMS, DSA",
+  
+  "contactEmail" : "recruitment@hotmail.com"
+
+ },
+  
   {
-  "id" : "37",
+  "id" : "41",
   
   "companyName" : "Digital Ocean",
   
@@ -472,6 +499,7 @@
   
 },
   {
+      "id" : "42",
 
 "companyName " : "amazon",
 
@@ -479,9 +507,9 @@
 
 "requirements" : "AWS",
    
-"contactEmail " : "bhargavagraval@gmail.com"}
+"contactEmail " : "bhargavagraval@gmail.com"},
   {
-  "id" : "39",
+  "id" : "43",
   
   "companyName" : "Google",
   
@@ -492,7 +520,47 @@
   "contactEmail" : "shrutishinde145@gmail.com"
   
   },
-  
  
+  
+   {
+       "id" : "44",
+
+"companyName " : "tcs",
+
+"position" : "web developer",
+
+"requirements" : "html,css ,js,bootstrap,git,java,reactjs",
+   
+"contactEmail " : "bhargavagraval@gmail.com"},
+
+
+{
+
+"id" : "45",
+
+"company name " : "Google",
+
+"position" : "Senior Software Engineer",
+
+"requirements" : "Cloud Computing, DSA, Testing Experience",
+
+"contactEmail" : "jobs@google.com"
+
+},
+  
+{
+
+"id" : "46",
+
+"company name " : "Dhruva",
+
+"position" : " pROJECT Manager",
+
+"requirements" : "DSA,MBA,Testing Experience",
+
+"contactEmail" : "jobs@dhruva.com"
+
+}
+
   ]
 
