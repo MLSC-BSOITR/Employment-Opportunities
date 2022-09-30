@@ -18,5 +18,16 @@
 
 \\ Code in the above format
 
+ {
+ "id" : "2",
 
+"companyName " : "Skillred",
+
+"position" : "App Developer",
+
+"requirements" : "Html, C++, JavaScript",
+
+"contactEmail" : "skillred123@gmail.com"
+ 
+ },
 ]
