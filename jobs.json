@@ -302,4 +302,18 @@
 
 "contactEmail" : "shajahansayyedz@gmail.com"
 } 
+
+
+{
+
+"id" : "26",
+
+"companyName " : "Bolt inovation",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, DS, python",
+
+"contactEmail" : "mardhekarsanket@gmail.com"
+} 
 ]
