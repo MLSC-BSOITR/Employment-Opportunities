@@ -62,18 +62,32 @@
 
 "requirements" : "frameworks such as WordPress, Drupal, Magento, Joomla, etc",
 
-"contactEmail" : "digitizematrix@gmail.com"}
+"contactEmail" : "digitizematrix@gmail.com"},
+ 
+ 
+ { 
+ "id" : "9",
 
-  {
-  
-    "id" : "20",
-    
-    "companyName " : "capgemini",
-    
-    "position" : "software developnment",
-    
-    "requirements" : "Html, CSS, c++ ,JavaScript",
-    
-    "contactEmail" : "komalrnikam2019@gmail.com"
-},
+"companyName " : "Amazon",
+
+"position" : "Support Engineer",
+
+"requirements" : "Linus,Big Data, Database, etc",
+
+"contactEmail" : "https://www.amazon.jobs/en-gb/jobs/2180909/support-engineer-i-ext-entry"},
+
+ 
+ 
+
+{ 
+ "id" : "9",
+
+"companyName " : "google",
+
+"position" : "full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+  }
+
+
 ]
