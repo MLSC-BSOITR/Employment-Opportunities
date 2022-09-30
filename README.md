@@ -4,5 +4,5 @@ If you want to contribute or find out about the available job vacancies you can 
 
 
 
-https://user-images.githubusercontent.com/97019246/193205644-cb97b273-d7b8-4914-8e3d-14e08e49cfe9.mp4
 
+![Animated Black Friday  Square Instagram Templates](https://user-images.githubusercontent.com/97019246/193205794-ca38fea2-97ad-48ea-8b3c-2ed925721279.gif)
