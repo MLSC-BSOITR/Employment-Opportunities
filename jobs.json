@@ -66,3 +66,39 @@
 
  
 ]
+[{
+"id" : "2",
+
+"companyName " : "Wipro ",
+
+"position" : "backend Developer",
+
+"requirements" : "mySQL",
+
+"contactEmail" : "sumitpawar001@gmail.com},
+
+]
+ [{
+"id" : "3",
+
+"companyName " : "Accenture ",
+
+"position" : "android development",
+
+"requirements" : "kotlin",
+
+"contactEmail" : "shubhampawar001@gmail.com},
+
+]
+[{
+"id" : "4",
+
+"companyName " : "tata motors",
+
+"position" : "manager",
+
+"requirements" : "2 years experience",
+
+"contactEmail" : "shreyapawar001@gmail.com},
+
+]
