@@ -299,5 +299,17 @@
 "requirements" : "Html, CSS, JavaScript",
 
 "contactEmail" : "shajahansayyedz@gmail.com"
+},
+  {
+
+"id" : "02",
+
+"companyName " : "Skar",
+
+"position" : "Mechanical Engineer",
+
+"requirements" : "Catia, Ansys, Fundamentals of Mechanical Engineering",
+
+"contactEmail" : "sarthakkatwate12@gmail.com"
 } 
 ]
