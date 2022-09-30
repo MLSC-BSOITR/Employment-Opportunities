@@ -4,4 +4,13 @@
 "Position": "Assisstant Manager";
 "Requirements": "Html,CSS,JAVA";
 "contactEmail": "anchalkesare@gmail.com";
-}]
+},
+{
+"id":"300";
+"company name": "Amdoc";
+"position": "android developer";
+"Reguirements": "flutter";
+"contactEmail": "kadam@gmail.com";
+},
+
+]
