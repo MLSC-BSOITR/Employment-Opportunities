@@ -247,7 +247,19 @@
 
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
-"contactEmail" : "shindeanmol125@gmail.com"}
+"contactEmail" : "shindeanmol125@gmail.com"},
+  
+  {
+  
+"id" : "100",
+
+"companyName " : "IESoft Technologies Private Limited",
+
+"position" : "UX Design",
+
+"requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
+   
+"contactEmail " : "info@iesoftfzc.com"}
 
  
  
