@@ -2,7 +2,7 @@
 // Examplary Code 
 
 [
- {
+{
   
 "id" : "1",
 
@@ -12,7 +12,7 @@
 
 "requirements" : "Html, CSS, JavaScript",
    
-"contactEmail" : "xyz@gmail.com"},
+"contactEmail " : "xyz@gmail.com"},
  
  {
  
@@ -26,6 +26,18 @@
 "requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
 
 "contactEmail" : "vishalabhange2002@gmail.com"},
+ {
+ 
+  
+"id" : "11",
+
+"companyName " : "Infosys",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , , ejs, DSA, DBMS",
+
+"contactEmail" : "gaurigadge17@gmail.com"},
 
 
 {
