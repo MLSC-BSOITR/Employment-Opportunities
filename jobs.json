@@ -566,6 +566,18 @@
 "requirements" : "Any Graduate",
    
 "contactEmail " : "campusteam@birlasoft.com"
+},
+  {
+  
+"id" : "48",
+
+"companyName " : "persistent",
+
+"position" : "Intern",
+
+"requirements" : "Third or Fourth year students",
+   
+"contactEmail " : "info@persistent.com"
 }
 
   ]
