@@ -1,7 +1,0 @@
-[{
-"id" : "188";
-"company name": "Microsoft Corp";
-"position": "Community Manager";
-"requirements": "Html,Css,python,JavaScript";
-"ContactEmail": "mrunalchaudhari2021@gmail.com"
-}]
