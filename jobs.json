@@ -747,6 +747,7 @@
    
 "contactEmail " : "guruprasadvaidya@gmail.com"
 },
+
  {
   
 "id" : "59",
@@ -758,6 +759,20 @@
 "requirements" : "Peoples skills, CAD",
    
 "contactEmail " : "harshada.shirude.ext@hoffmann-group.com"
+},
+
+  {
+  
+"id" : "60",
+
+"companyName " : "E2Open",
+
+"position" : "Cloud Computing Architect",
+
+"requirements" : "Java, Python,C#,aws",
+   
+"contactEmail " : "ccca@gmail.com"
+
 }
 
 ]
