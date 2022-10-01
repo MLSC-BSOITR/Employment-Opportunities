@@ -12,7 +12,8 @@
 
 "requirements" : "Html, CSS, JavaScript",
    
-"contactEmail " : "abc@gmail.com"},
+"contactEmail " : "abc@gmail.com"
+},
   
   
 [
@@ -26,7 +27,8 @@
 
 "requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
    
-"contactEmail " : "guruprasadvaidya@gmail.com"},
+"contactEmail " : "guruprasadvaidya@gmail.com"
+},
 [
 {
   
@@ -38,7 +40,8 @@
 
 "requirements" : "Html, CSS, JavaScript",
    
-"contactEmail " : "xyz@gmail.com"},
+"contactEmail " : "xyz@gmail.com"
+},
   
  {
  
@@ -50,7 +53,8 @@
 
 "requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
 
-"contactEmail" : "vishalabhange2002@gmail.com"},
+"contactEmail" : "vishalabhange2002@gmail.com"
+ },
  {
  
 "id" : "3",
@@ -61,7 +65,8 @@
 
 "requirements" : "Html, CSS, JavaScript, react js , , ejs, DSA, DBMS",
 
-"contactEmail" : "gaurigadge17@gmail.com" },
+"contactEmail" : "gaurigadge17@gmail.com" 
+ },
 {
   
 "id" : "4",
@@ -282,7 +287,8 @@
 
 "requirements" : "Html, CSS, JavaScript,  SQL, MongoDB",
    
-"contactEmail" : "https://careerfoundry.com"},
+"contactEmail" : "https://careerfoundry.com"
+  },
 
  
   {
@@ -294,7 +300,8 @@
 
 "requirements" : "Html,Java, Python, CSS, JavaScript",
    
-"contactEmail" : "shindeanmol125@gmail.com"},
+"contactEmail" : "shindeanmol125@gmail.com"
+  },
 {
   
 "id" : "23",
@@ -317,7 +324,8 @@
 
 "requirements" : "Html,CSS,Python,C++,C,Cotlin",
 
-"contactEmail" : "anuradhathombare1512@gmail.com"},
+"contactEmail" : "anuradhathombare1512@gmail.com"
+ },
 
 {
   
@@ -329,7 +337,8 @@
 
 "requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
 
-"contactEmail" : "vishalabhange2002@gmail.com"},
+"contactEmail" : "vishalabhange2002@gmail.com"
+},
 {
 
 "id" : "26",
@@ -365,7 +374,8 @@
 
 "requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
    
-"contactEmail " : "info@iesoftfzc.com"},
+"contactEmail " : "info@iesoftfzc.com"
+},
  {
 
 "id" : "28",
@@ -445,7 +455,8 @@
   
   "requirements" : "Html, CSS, JavaScript",
      
-  "contactEmail " : "guptashaurya2002@gmail.com"},
+  "contactEmail " : "guptashaurya2002@gmail.com"
+  },
    {
   
 "id" : "35",
@@ -456,7 +467,8 @@
 
 "requirements" : "Html, CSS, JavaScript,frameworks",
    
-"contactEmail " : "tejaskhatkale18@gmail.com"},
+"contactEmail " : "tejaskhatkale18@gmail.com"
+   },
  
 {
   "id" : "36",
@@ -536,7 +548,8 @@
 
 "requirements" : "AWS",
    
-"contactEmail " : "bhargavagraval@gmail.com"},
+"contactEmail " : "bhargavagraval@gmail.com"
+},
   
   {
     
@@ -672,7 +685,8 @@
 
 "requirements" : "Html, CSS, JavaScript, c++",
 
-"contactEmail" : "prasadkhotkar916@gmail.com"},
+"contactEmail" : "prasadkhotkar916@gmail.com"
+  },
   {
   
 "id" : "54",
@@ -713,6 +727,17 @@
   "contactEmail " : "https://www.zanser.com/in-en/careers"
 
 },
+  {
   
+"id" : "57",
+
+"companyName " : "Eaton",
+
+"position" : "Java Developer",
+
+"requirements" : "Java",
+
+"contactEmail" : "jobrapido.com"
+  },
 ]
 
