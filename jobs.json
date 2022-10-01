@@ -747,9 +747,23 @@
    
 "contactEmail " : "guruprasadvaidya@gmail.com"
 },
-  {
+
+ {
   
 "id" : "59",
+
+"companyName " : "Hoffmann Group",
+
+"position" : "Intern",
+
+"requirements" : "Peoples skills, CAD",
+   
+"contactEmail " : "harshada.shirude.ext@hoffmann-group.com"
+},
+
+  {
+  
+"id" : "60",
 
 "companyName " : "E2Open",
 
@@ -758,6 +772,7 @@
 "requirements" : "Java, Python,C#,aws",
    
 "contactEmail " : "ccca@gmail.com"
+
 }
 
 ]
