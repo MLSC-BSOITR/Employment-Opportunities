@@ -1254,5 +1254,12 @@
     "position": "Web Developer Intern",
     "requirements": "Javascript, React,C#,Mongo",
     "contactEmail ": "hr.mindtree@gmail.com"
+  },
+  {
+    "id": "63",
+    "companyName ": "Microsoft",
+    "position": "Software Engginer",
+    "requirements": "C++, Python, PHP, HTML, CSS,C#,Mongo",
+    "contactEmail ": "hr.MSWork@gmail.com"
   }
 ]
