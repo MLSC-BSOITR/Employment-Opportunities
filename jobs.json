@@ -464,5 +464,12 @@
     "position": "Python Developer ",
     "requirements": "Experience: 0-2 Years & Python Programming language",
     "contactEmail": "career@elixirtechne.com"
+  },
+  {
+    "id": "66",
+    "companyName ": "Oracle",
+    "position": "Software Developer - Intern",
+    "requirements": "Basic DBMS, DSA",
+    "contactEmail ": "interns@oracle.com"
   }
 ]
