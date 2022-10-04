@@ -457,5 +457,12 @@
     "position": "CTO",
     "requirements": "CyberSecurity",
     "contactEmail": "cyberhim99@gmail.com"
+  },
+  {
+    "id": "65",
+    "companyName ": "Elixir Techne",
+    "position": "Python Developer ",
+    "requirements": "Experience: 0-2 Years & Python Programming language",
+    "contactEmail": "career@elixirtechne.com"
   }
 ]
