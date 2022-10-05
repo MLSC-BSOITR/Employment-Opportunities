@@ -471,5 +471,12 @@
     "position": "Software Developer - Intern",
     "requirements": "Basic DBMS, DSA",
     "contactEmail ": "interns@oracle.com"
+  },
+    {
+    "id": "67",
+    "companyName ": "Ciena",
+    "position": "SDE Intern",
+    "requirements": "Batch 2022/2023",
+    "contactEmail ": "https://careers.ciena.com/us/en/job/R020602/Software-Engineering-Intern"
   }
 ]
