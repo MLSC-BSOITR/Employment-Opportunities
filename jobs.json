@@ -472,4 +472,11 @@
     "requirements": "Basic DBMS, DSA",
     "contactEmail ": "interns@oracle.com"
   }
+   {
+    "id": "67",
+    "companyName ": "UBER",
+    "position": "Sr. Software Developer",
+    "requirements": "CORE DSA, GOOD PROBLEM SOLVEING SKILLS , Node js. ",
+    "contactEmail ": "https://www.uber.com/global/en/careers/list/113044/"
+  }
 ]
