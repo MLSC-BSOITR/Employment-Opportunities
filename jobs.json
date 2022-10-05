@@ -472,4 +472,11 @@
     "requirements": "Basic DBMS, DSA",
     "contactEmail ": "interns@oracle.com"
   }
+  {
+    "id": "67",
+    "companyName ": "Mindtree",
+    "position": "IOS Devloper",
+    "requirements": "Swift, Ios Devlopment , xcode, Objective c",
+    "contactEmail ": "https://www.mindtree.com/careers/jobs-apply"
+  }
 ]
