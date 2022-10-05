@@ -471,5 +471,12 @@
     "position": "Software Developer - Intern",
     "requirements": "Basic DBMS, DSA",
     "contactEmail ": "interns@oracle.com"
+  },
+  {
+    "id" : "67",
+    "companyName " : "Pixelmattic",
+    "position" : "Frontend Developer Web",
+    "requirements" : "WordPress, HTML, CSS, jQuery, PHP",
+    "contactEmail" : "info@pixelmatic.com"
   }
 ]
