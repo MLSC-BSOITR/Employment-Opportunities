@@ -499,5 +499,13 @@
     "position" : "Frontend Developer Web",
     "requirements" : "WordPress, HTML, CSS, jQuery, PHP",
     "contactEmail" : "info@pixelmatic.com"
-   }
+   },
+    
+  {
+    "id": "71",
+    "companyName ": "Cromptom",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS",
+    "contactEmail ": "crompton@gmail.com"
+  },
 ]
