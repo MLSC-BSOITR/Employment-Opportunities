@@ -517,11 +517,18 @@
     "requirements" : "WordPress, HTML, CSS, jQuery, PHP",
     "contactEmail" : "info@pixelmatic.com"
    },
-  {
+   {
     "id": "73",
+    "companyName ": "Sparks Foundation",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+    "contactEmail": "krankit121202@gmail.com"
+   },
+  {
+    "id": "74",
     "companyName ": "Cromptom",
     "position": "Frontend Developer",
     "requirements": "Html, CSS",
     "contactEmail ": "crompton@gmail.com"
-  },
+  }
 ]
