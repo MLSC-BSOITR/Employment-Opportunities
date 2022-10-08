@@ -540,6 +540,21 @@
     "requirements": "PHP, MySQL ,laravel",
     "contactEmail ": "CoolBoots@gmail.com"
   }
+  {
+    "id": "76",
+    "companyName": "Skillred",
+    "position": "App Developer",
+    "requirements": "Html, C++, JavaScript",
+    "contactEmail": "skillred123@gmail.com"
+  },
+  {
+    "id": "77",
+    "companyName": "BYJU'S",
+    "position": "Marketing",
+    "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
+    "contactEmail": "contact@byjus.comxyz@gmail.com"
+  },
+
 ] 
 }
 
