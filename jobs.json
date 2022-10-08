@@ -540,6 +540,13 @@
     "requirements": "PHP, MySQL ,laravel",
     "contactEmail ": "CoolBoots@gmail.com"
   },
+    {
+    "id": "75",
+    "companyName ": "Media",
+    "position": " Software Developer ",
+    "requirements": "PHP, MySQL ,laravel",
+    "contactEmail ": "Media@gmail.com"
+  },
      {
     "id": "76",
     "companyName": "IBM",
@@ -567,7 +574,8 @@
     "position": "Marketing",
     "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
     "contactEmail": "contact@byjus.comxyz@gmail.com"
-  },
-] 
+  }
+]
 }
+
 
