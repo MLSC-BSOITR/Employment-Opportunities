@@ -539,7 +539,14 @@
     "position": " Software Developer ",
     "requirements": "PHP, MySQL ,laravel",
     "contactEmail ": "CoolBoots@gmail.com"
-  }
+  },
+     {
+    "id": "76",
+    "companyName": "IBM",
+    "position": "Data Scientist",
+    "requirements": "python,R,ML,Deep Learning,CNN,tensorflow",
+    "contactEmail": "ibm2003@gmail.com"
+  },
 ] 
 }
 
