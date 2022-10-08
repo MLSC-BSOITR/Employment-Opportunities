@@ -540,20 +540,6 @@
     "requirements": "PHP, MySQL ,laravel",
     "contactEmail ": "CoolBoots@gmail.com"
   },
-     {
-    "id": "76",
-    "companyName": "IBM",
-    "position": "Data Scientist",
-    "requirements": "python,R,ML,Deep Learning,CNN,tensorflow",
-    "contactEmail": "ibm2003@gmail.com"
-  },
-    {
-    "id": "77",
-    "companyName": "Microsoft",
-    "position": "SDE",
-    "requirements": "Html, CSS, JavaScript, C++/Java/Python, DBMS, DSA",
-    "contactEmail": "recruitment@hotmail.com"
-  },
   {
     "id": "76",
     "companyName": "Skillred",
@@ -568,6 +554,13 @@
     "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
     "contactEmail": "contact@byjus.comxyz@gmail.com"
   },
+  {
+    "id": "78",
+    "companyName": "Thinkfinity Labs Pvt Ltd",
+    "position": "Intern",
+    "requirements": "HTML CSS JS and React/Nodejs",
+    "contactEmail": "nithishr81@gmail.com"
+  }
 ] 
 }
 
