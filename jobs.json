@@ -541,41 +541,49 @@
     "contactEmail ": "CoolBoots@gmail.com"
   },
     {
-    "id": "75",
+    "id": "76",
     "companyName ": "Media",
     "position": " Software Developer ",
     "requirements": "PHP, MySQL ,laravel",
     "contactEmail ": "Media@gmail.com"
   },
      {
-    "id": "76",
+    "id": "77",
     "companyName": "IBM",
     "position": "Data Scientist",
     "requirements": "python,R,ML,Deep Learning,CNN,tensorflow",
     "contactEmail": "ibm2003@gmail.com"
   },
     {
-    "id": "77",
+    "id": "78",
     "companyName": "Microsoft",
     "position": "SDE",
     "requirements": "Html, CSS, JavaScript, C++/Java/Python, DBMS, DSA",
     "contactEmail": "recruitment@hotmail.com"
   },
   {
-    "id": "76",
+    "id": "79",
     "companyName": "Skillred",
     "position": "App Developer",
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "skillred123@gmail.com"
   },
   {
-    "id": "77",
+    "id": "80",
     "companyName": "BYJU'S",
     "position": "Marketing",
     "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
     "contactEmail": "contact@byjus.comxyz@gmail.com"
+  },
+  {
+    "id": "81",
+    "companyName": "Thinkfinity Labs Pvt Ltd",
+    "position": "Intern",
+    "requirements": "HTML CSS JS and React/Nodejs",
+    "contactEmail": "nithishr81@gmail.com"
   }
-]
-}
+] 
+
+  }
 
 
