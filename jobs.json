@@ -581,6 +581,13 @@
     "position": "Intern",
     "requirements": "HTML CSS JS and React/Nodejs",
     "contactEmail": "nithishr81@gmail.com"
+  },
+  {
+    "id": "82",
+    "companyName": "Investo",
+    "position": "Frontend Developer",
+    "requirements": "Reactjs",
+    "contactEmail": "Intern@123"
   }
 ] 
 
