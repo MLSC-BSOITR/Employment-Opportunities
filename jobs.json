@@ -530,5 +530,16 @@
     "position": "Frontend Developer",
     "requirements": "Html, CSS",
     "contactEmail ": "crompton@gmail.com"
+  },
+ 
+
+  {
+    "id": "75",
+    "companyName ": "CoolBoots Media",
+    "position": " Software Developer ",
+    "requirements": "PHP, MySQL ,laravel",
+    "contactEmail ": "CoolBoots@gmail.com"
   }
-]
+] 
+}
+
