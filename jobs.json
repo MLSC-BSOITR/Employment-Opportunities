@@ -584,6 +584,13 @@
   },
   {
     "id": "82",
+    "companyName": "Investo",
+    "position": "Frontend Developer",
+    "requirements": "Reactjs",
+    "contactEmail": "Intern@123"
+  },
+    {
+      "id": "83",
     "companyName": "AMAZON",
     "position": "App Developer",
     "requirements": "Html, C++, JavaScript",
