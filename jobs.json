@@ -506,5 +506,20 @@
     "position": "QA Manager / SDET Manager",
     "requirements": "Team leading & Building, test framework for test automation, Good communication skills",
     "contactEmail": "saroj@getphyllo.com"
-  }
+  },
+   {
+    "id" : "72",
+    "companyName " : "Pixelmattic",
+    "position" : "Frontend Developer Web",
+    "requirements" : "WordPress, HTML, CSS, jQuery, PHP",
+    "contactEmail" : "info@pixelmatic.com"
+   },
+  {
+    "id": "73",
+    "companyName ": "Cromptom",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS",
+    "contactEmail ": "crompton@gmail.com"
+  },
 ]
+
