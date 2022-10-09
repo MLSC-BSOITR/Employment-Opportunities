@@ -589,12 +589,19 @@
     "requirements": "Reactjs",
     "contactEmail": "Intern@123"
   },
-    {
-      "id": "83",
+  {
+    "id": "83",
     "companyName": "AMAZON",
     "position": "App Developer",
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "sohini.official.in@gmail.com"
+  }
+  {
+    "id": "84",
+    "companyName": "Cisco",
+    "position": "Senior Software Engineer",
+    "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
+    "contactEmail": "adarshpy@cisco.com"
   }
 ] 
 
