@@ -595,7 +595,15 @@
     "position": "App Developer",
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "sohini.official.in@gmail.com"
-  }
+  },
+    {
+    "id": "85",
+    "companyName ": "Sparks Foundation",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript,angular",
+    "contactEmail": "intern@gmail.com"
+    }
+    
 ] 
 
   }
