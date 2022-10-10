@@ -589,23 +589,55 @@
     "requirements": "Reactjs",
     "contactEmail": "Intern@123"
   },
-    {
-      "id": "83",
+  {
+    "id": "83",
     "companyName": "AMAZON",
     "position": "App Developer",
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "sohini.official.in@gmail.com"
   },
-    {
+  {
+    "id": "84",
+    "companyName": "Neemtree",
+    "position": "Backend Developer",
+    "requirements": "MERN Full Stack web development",
+    "contactEmail": "abc@neemtree.com"
+  },{
     "id": "85",
     "companyName ": "Sparks Foundation",
     "position": "Full stack Developer",
     "requirements": "Html, CSS, JavaScript,angular",
     "contactEmail": "intern@gmail.com"
-    }
-    
+    },
+    {
+    "id": "86",
+    "companyName": "Mindtree",
+    "position": "DevOps Engineer",
+    "requirements": "Python, Kubernetes, Linux",
+    "contactEmail": "hr.mindtree@gmail.com"
+  },
+    {
+      "id": "87",
+    "companyName": "KFC",
+    "position": "Manager",
+    "requirements": "Experience,leardship qualities",
+    "contactEmail": "kfc@gmail.com"
+  },
+{
+      "id": "88",
+    "companyName": "Lexmark",
+    "position": "frontend Developer",
+    "requirements": "Html, C++, JavaScript",
+    "contactEmail": "indhelpdesk@lexmark.com"
+  },
+  {
+    "id": "89",
+    "companyName": "Cisco",
+    "position": "Senior Software Engineer",
+    "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
+    "contactEmail": "adarshpy@cisco.com"
+  }
 ] 
-
   }
 
 
