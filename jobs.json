@@ -630,7 +630,7 @@
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "indhelpdesk@lexmark.com"
   },
-  {
+    {
     "id": "89",
     "companyName": "Cisco",
     "position": "Senior Software Engineer",
@@ -640,6 +640,11 @@
   {
     "id": "90",
     "companyName": "Safe Security",
+    "position": "Frontend Developer",
+    "requirements": "C++/Java, MERN, MEAN, Strong Communication Skill",
+    "contactEmail": "ta@safe.security"
+  },
+    {
     "position": "Cybersecurity Engineer",
     "requirements": "VAPT,OWASP Top 10, Penetration Testing",
     "contactEmail": "ta@safe.security"
