@@ -643,8 +643,20 @@
     "position": "Cybersecurity Engineer",
     "requirements": "VAPT,OWASP Top 10, Penetration Testing",
     "contactEmail": "ta@safe.security"
-  }
-] 
-  }
-
+  },
+  {
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "sj5027052@gmail.com"
+  },    
+   {
+  "id" : "90",
+  "companyName " : "TATA Group",
+  "position" : "Relationship Manager",
+  "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
+  "contactEmail" : "careers@tcs.com"
+  } 
+]
+}
 
