@@ -636,8 +636,16 @@
     "position": "Senior Software Engineer",
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "adarshpy@cisco.com"
+  },
+    
+    {
+    "id": "90",
+    "companyName": "Wipro",
+    "position": "Technical Lead",
+    "requirements": "C++/Java, Python",
+    "contactEmail": "wiprotech@gmail.com"
   }
 ] 
-  }
+  
 
 
