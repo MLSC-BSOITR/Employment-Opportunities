@@ -636,6 +636,13 @@
     "position": "Senior Software Engineer",
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "adarshpy@cisco.com"
+  },
+  {
+    "id": "90",
+    "companyName": "Safe Security",
+    "position": "Cybersecurity Engineer",
+    "requirements": "VAPT,OWASP Top 10, Penetration Testing",
+    "contactEmail": "ta@safe.security"
   }
 ] 
   }
