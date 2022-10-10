@@ -596,13 +596,20 @@
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "sohini.official.in@gmail.com"
   },
+  {
+    "id": "84",
+    "companyName": "Mindtree",
+    "position": "DevOps Engineer",
+    "requirements": "Python, Kubernetes, Linux",
+    "contactEmail": "hr.mindtree@gmail.com"
+  },
     {
       "id": "84",
     "companyName": "KFC",
     "position": "Manager",
     "requirements": "Experience,leardship qualities",
     "contactEmail": "kfc@gmail.com"
-  }
+  },
 {
       "id": "84",
     "companyName": "Lexmark",
