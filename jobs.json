@@ -636,6 +636,14 @@
     "position": "Senior Software Engineer",
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "adarshpy@cisco.com"
+  },
+    
+   {
+    "id": "95",
+    "companyName": "WebMax Solution",
+    "position": "Java Developer",
+    "requirements": "Java, DSA, Spring Boot,MongoDb, Node.js, Good Communication Skill",
+    "contactEmail": "contact.webmax2022@gmail.com"
   }
 ] 
   }
