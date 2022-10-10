@@ -636,6 +636,13 @@
     "position": "Senior Software Engineer",
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "adarshpy@cisco.com"
+  },
+  {
+    "id": "90",
+    "companyName": "Girl Power Talk",
+    "position": "Frontend Developer",
+    "requirements": "HTML, CSS, SCSS, JavaScript, React.js, REST API’s, Jquery",
+    "contactEmail": "girlpower1@gmail.com"
     },
   {
     "id": "90",
@@ -697,7 +704,6 @@
   } 
 ]
 }
-
 
 
 
