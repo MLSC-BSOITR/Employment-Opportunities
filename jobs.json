@@ -602,9 +602,29 @@
     "position": "Backend Developer",
     "requirements": "MERN Full Stack web development",
     "contactEmail": "abc@neemtree.com"
+  },{
+    
+    "companyName": "Mindtree",
+    "position": "DevOps Engineer",
+    "requirements": "Python, Kubernetes, Linux",
+    "contactEmail": "hr.mindtree@gmail.com"
+  },
+    {
+      "id": "84",
+    "companyName": "KFC",
+    "position": "Manager",
+    "requirements": "Experience,leardship qualities",
+    "contactEmail": "kfc@gmail.com"
+  },
+{
+      "id": "84",
+    "companyName": "Lexmark",
+    "position": "frontend Developer",
+    "requirements": "Html, C++, JavaScript",
+    "contactEmail": "indhelpdesk@lexmark.com"
+
   }
 ] 
-
   }
 
 
