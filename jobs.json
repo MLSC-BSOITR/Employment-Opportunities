@@ -637,6 +637,13 @@
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "adarshpy@cisco.com"
   }
+  {
+    "id": "90",
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "sj5027052@gmail.com"
+  },    
 ] 
   }
 
