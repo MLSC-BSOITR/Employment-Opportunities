@@ -636,8 +636,12 @@
     "position": "Senior Software Engineer",
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "adarshpy@cisco.com"
-  }
-] 
-  }
-
-
+  },
+  {
+  "id" : "90",
+  "companyName " : "TATA Group",
+  "position" : "Relationship Manager",
+  "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
+  "contactEmail" : "careers@tcs.com"
+  } 
+]
