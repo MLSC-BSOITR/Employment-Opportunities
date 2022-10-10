@@ -638,6 +638,13 @@
     "contactEmail": "adarshpy@cisco.com"
   },
   {
+    "id": "90",
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "sj5027052@gmail.com"
+  },    
+   {
   "id" : "90",
   "companyName " : "TATA Group",
   "position" : "Relationship Manager",
@@ -645,3 +652,4 @@
   "contactEmail" : "careers@tcs.com"
   } 
 ]
+}
