@@ -716,8 +716,15 @@
   "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
   "contactEmail" : "careers@tcs.com"
   } 
+   {
+  "id" : "91",
+  "companyName " : "Sony Research India",
+  "position" : "C++ Programming Intern",
+  "requirements" : "OOP concepts proficiently in C and C++, maths, probability, statistics, and algorithms.",
+  "contactEmail" : "info.sonyresearchindia@sony.com"
+  },
 ]
-}
+
 
 
 
