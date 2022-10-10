@@ -630,20 +630,45 @@
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "indhelpdesk@lexmark.com"
   },
-  {
+    {
     "id": "89",
     "companyName": "Cisco",
     "position": "Senior Software Engineer",
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "adarshpy@cisco.com"
-  }
+  },
   { "id": "90",
     "companyName": "AIESEC",
     "position": "BDA",
     "requirements": "Marketting",
     "contactEmail": "aekagra.dhamani02@aiesec.net"
   },
-] 
-  }
+  {
+    "id": "90",
+    "companyName": "Safe Security",
+    "position": "Frontend Developer",
+    "requirements": "C++/Java, MERN, MEAN, Strong Communication Skill",
+    "contactEmail": "ta@safe.security"
+  },
+    {
+    "position": "Cybersecurity Engineer",
+    "requirements": "VAPT,OWASP Top 10, Penetration Testing",
+    "contactEmail": "ta@safe.security"
+  },
+  {
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "sj5027052@gmail.com"
+  },    
+   {
+  "id" : "90",
+  "companyName " : "TATA Group",
+  "position" : "Relationship Manager",
+  "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
+  "contactEmail" : "careers@tcs.com"
+  } 
+]
+}
 
 
