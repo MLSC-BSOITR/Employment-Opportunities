@@ -639,6 +639,12 @@
   },
   {
     "id": "90",
+    "companyName": "Safe Security",
+    "position": "Cybersecurity Engineer",
+    "requirements": "VAPT,OWASP Top 10, Penetration Testing",
+    "contactEmail": "ta@safe.security"
+  },
+  {
     "companyName": "Google",
     "position": "Frontend Developer",
     "requirements": "Html, CSS, JavaScript",
@@ -653,3 +659,4 @@
   } 
 ]
 }
+
