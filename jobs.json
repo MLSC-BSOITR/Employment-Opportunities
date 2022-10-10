@@ -645,73 +645,81 @@
     "contactEmail": "https://www.splunk.com/en_us/careers.html"
   },
   {
-    "id": "90",
+    "id": "91",
     "companyName": "Girl Power Talk",
     "position": "Frontend Developer",
     "requirements": "HTML, CSS, SCSS, JavaScript, React.js, REST API’s, Jquery",
     "contactEmail": "girlpower1@gmail.com"
     },
   {
-    "id": "90",
+    "id": "92",
     "companyName": "Splunk",
     "position": "Software Engineer",
     "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
     "contactEmail": "https://www.splunk.com/en_us/careers.html"
   },
     {
-    "id": "90",
+    "id": "93",
     "companyName": "Wipro",
     "position": "Technical Lead",
     "requirements": "C++/Java, Python",
     "contactEmail": "wiprotech@gmail.com"
     },
   {
-    "id": "90",
+    "id": "94",
     "companyName": "AFour Technologies",
     "position": "Software Development",
     "requirements": "C++/Java, Data Stucture and Algorithms,React JS development",
   },
     {
-    "id": "90",
+    "id": "95",
     "companyName": "Netflix",
     "position": "SWE (Visa Sponsored)",
     "requirements": "Data structure and algorithm, competitive programming",
     "contactEmail": "https://csforall.in/job/software-engineer-intern-summer-2023-netflix-ca-234866639/"
   },
-  { "id": "90",
+  { "id": "96",
     "companyName": "AIESEC",
     "position": "BDA",
     "requirements": "Marketting",
     "contactEmail": "aekagra.dhamani02@aiesec.net"
   },
   {
-    "id": "90",
+    "id": "97",
     "companyName": "Safe Security",
     "position": "Frontend Developer",
     "requirements": "C++/Java, MERN, MEAN, Strong Communication Skill",
     "contactEmail": "ta@safe.security"
   },
     {
+      "id": "98",
     "position": "Cybersecurity Engineer",
     "requirements": "VAPT,OWASP Top 10, Penetration Testing",
     "contactEmail": "ta@safe.security"
   },
   {
+    "id": "99",
     "companyName": "Google",
     "position": "Frontend Developer",
     "requirements": "Html, CSS, JavaScript",
     "contactEmail": "sj5027052@gmail.com"
   },    
    {
-  "id" : "90",
+  "id" : "100",
   "companyName " : "TATA Group",
   "position" : "Relationship Manager",
   "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
   "contactEmail" : "careers@tcs.com"
-  } 
-
-      {
-  "id" : "91",
+  }, 
+   {
+  "id" : "101",
+  "companyName " : "Sony Research India",
+  "position" : "C++ Programming Intern",
+  "requirements" : "OOP concepts proficiently in C and C++, maths, probability, statistics, and algorithms.",
+  "contactEmail" : "info.sonyresearchindia@sony.com"
+  },
+ {
+  "id" : "102",
   "companyName " : "LG India",
   "position" : "Software Developer",
   "requirements" : "Strong C/c++ programing skills,Good analytical/debugging skills, designing,building, delivering, maintaining software applications",
