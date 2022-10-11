@@ -517,6 +517,12 @@
    
 "contactEmail " : "bhargavagraval@gmail.com"}
 
-
+  {
+    "id": "107",
+    "companyName": "GeekyAnts",
+    "position": "Software Engineer",
+    "requirements": "Html, CSS, JavaScript, Java/C++/Python, MySQL",
+    "contactEmail": "recruitment@geekyants.com"
+  }
   ]
 
