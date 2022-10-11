@@ -590,7 +590,7 @@
     "contactEmail": "Intern@123"
   },
   {
-    "id": "83",
+      "id": "83",
     "companyName": "AMAZON",
     "position": "App Developer",
     "requirements": "Html, C++, JavaScript",
@@ -608,29 +608,29 @@
     "position": "Full stack Developer",
     "requirements": "Html, CSS, JavaScript,angular",
     "contactEmail": "intern@gmail.com"
-    },
-    {
+  },
+  {
     "id": "86",
     "companyName": "Mindtree",
     "position": "DevOps Engineer",
     "requirements": "Python, Kubernetes, Linux",
     "contactEmail": "hr.mindtree@gmail.com"
   },
-    {
-      "id": "87",
-    "companyName": "KFC",
-    "position": "Manager",
-    "requirements": "Experience,leardship qualities",
-    "contactEmail": "kfc@gmail.com"
+  {
+    "id": "87",
+  "companyName": "KFC",
+  "position": "Manager",
+  "requirements": "Experience,leardship qualities",
+  "contactEmail": "kfc@gmail.com"
   },
-{
-      "id": "88",
-    "companyName": "Lexmark",
-    "position": "frontend Developer",
-    "requirements": "Html, C++, JavaScript",
-    "contactEmail": "indhelpdesk@lexmark.com"
+  {
+    "id": "88",
+  "companyName": "Lexmark",
+  "position": "frontend Developer",
+  "requirements": "Html, C++, JavaScript",
+  "contactEmail": "indhelpdesk@lexmark.com"
   },
-    {
+  {
     "id": "89",
     "companyName": "Cisco",
     "position": "Senior Software Engineer",
@@ -664,14 +664,8 @@
     "position": "Technical Lead",
     "requirements": "C++/Java, Python",
     "contactEmail": "wiprotech@gmail.com"
-    },
-  {
-    "id": "94",
-    "companyName": "AFour Technologies",
-    "position": "Software Development",
-    "requirements": "C++/Java, Data Stucture and Algorithms,React JS development",
   },
-    {
+  {
     "id": "95",
     "companyName": "Netflix",
     "position": "SWE (Visa Sponsored)",
@@ -691,46 +685,58 @@
     "requirements": "C++/Java, MERN, MEAN, Strong Communication Skill",
     "contactEmail": "ta@safe.security"
   },
-    {
-      "id": "98",
-    "position": "Cybersecurity Engineer",
-    "requirements": "VAPT,OWASP Top 10, Penetration Testing",
-    "contactEmail": "ta@safe.security"
-  },
   {
-    "id": "99",
-    "companyName": "Google",
-    "position": "Frontend Developer",
-    "requirements": "Html, CSS, JavaScript",
-    "contactEmail": "sj5027052@gmail.com"
-  },    
-   {
-  "id" : "100",
-  "companyName " : "TATA Group",
-  "position" : "Relationship Manager",
-  "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
-  "contactEmail" : "careers@tcs.com"
+    "id": "98",
+  "position": "Cybersecurity Engineer",
+  "requirements": "VAPT,OWASP Top 10, Penetration Testing",
+  "contactEmail": "ta@safe.security"
+},
+{
+  "id": "99",
+  "companyName": "Google",
+  "position": "Frontend Developer",
+  "requirements": "Html, CSS, JavaScript",
+  "contactEmail": "sj5027052@gmail.com"
+},    
+ {
+    "id" : "100",
+    "companyName " : "TATA Group",
+    "position" : "Relationship Manager",
+    "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
+    "contactEmail" : "careers@tcs.com"
   }, 
-   {
-  "id" : "101",
-  "companyName " : "Sony Research India",
-  "position" : "C++ Programming Intern",
-  "requirements" : "OOP concepts proficiently in C and C++, maths, probability, statistics, and algorithms.",
-  "contactEmail" : "info.sonyresearchindia@sony.com"
-  },
  {
-  "id" : "102",
-  "companyName " : "LG India",
-  "position" : "Software Developer",
-  "requirements" : "Strong C/c++ programing skills,Good analytical/debugging skills, designing,building, delivering, maintaining software applications",
-  "contactEmail" : "lgindia@.com"
+"id" : "101",
+"companyName " : "Sony Research India",
+"position" : "C++ Programming Intern",
+"requirements" : "OOP concepts proficiently in C and C++, maths, probability, statistics, and algorithms.",
+"contactEmail" : "info.sonyresearchindia@sony.com"
+},
+  {
+    "id" : "102",
+    "companyName " : "LG India",
+    "position" : "Software Developer",
+    "requirements" : "Strong C/c++ programing skills,Good analytical/debugging skills, designing,building, delivering, maintaining software applications",
+    "contactEmail" : "lgindia@.com"
   },
- {
+
+  {
   "id" : "103",
   "companyName " : "Cargill",
   "position" : "Risk & Security Analyst",
   "requirements" : "Identify and assess risk and security threats, Contribute to solutions,Strong knowledge with SAP ABAP, HANA, Java and Cloud systems security. communications with IT leadership",
   "contactEmail" : "cargillcareers@.com"
   },
+
+  {
+    "id": "104",
+    "companyName": "SharpHeads",
+    "position": "Inside Sales Executive, Business Development Executive",
+    "requirements": "BBA Graduate, Team building skills",
+    "contactEmail": "priya@sharpheadsrpo.com"
+  }
+] 
+
+}
 
 
