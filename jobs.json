@@ -748,6 +748,13 @@
     "requirements": "BBA Graduate, Team building skills",
     "contactEmail": "priya@sharpheadsrpo.com"
   }
+  {
+    "id": "107",
+    "companyName ": "Phyllo Inc",
+    "position": "QA Manager / SDET Manager",
+    "requirements": "Team leading & Building, test framework for test automation, Good communication skills",
+    "contactEmail": "sarita@getphyllo.com"
+  },
 ] 
 
 }
