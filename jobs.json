@@ -727,16 +727,22 @@
   "requirements" : "Identify and assess risk and security threats, Contribute to solutions,Strong knowledge with SAP ABAP, HANA, Java and Cloud systems security. communications with IT leadership",
   "contactEmail" : "cargillcareers@.com"
   },
+{
+  "id" : "104",
+  "companyName " : "Dell Technologies",
+  "position" : "Software Senior Engineer",
+  "requirements" : "Experience in using Python or JavaScript,(C, Java); operating systems - Windows, POSIX, UNIX, Linux,framework design and development, debugging and kernel",
+  "contactEmail" : "delltech@gmail.com"
+  },
   {
-    "id": "113",
+    "id": "105",
     "companyName": "Moneymakes",
     "position": "UI/UX Developer",
     "requirements": "Html, CSS, JavaScript, Figma, Photoshop",
     "contactEmail": "shahodade@gmail.com"
   },
-
   {
-    "id": "104",
+    "id": "106",
     "companyName": "SharpHeads",
     "position": "Inside Sales Executive, Business Development Executive",
     "requirements": "BBA Graduate, Team building skills",
@@ -745,5 +751,6 @@
 ] 
 
 }
+
 
 
