@@ -819,7 +819,14 @@
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
   "contactEmail" : "businessrecruitment@itcinfotech.com"
 
- }
+ },
+ {  
+  "id" : "116",
+ "companyName " : "Google",
+ "position" : "Student Training in Engineering Program, STEP 2023",
+ "requirements" : "Programming experience in Java,C++ OR Python",
+ "contactEmail" : "support-in@google.com"
+   }
 ] 
 
 
