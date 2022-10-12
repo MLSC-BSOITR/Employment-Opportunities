@@ -747,14 +747,21 @@
     "position": "Inside Sales Executive, Business Development Executive",
     "requirements": "BBA Graduate, Team building skills",
     "contactEmail": "priya@sharpheadsrpo.com"
-  }
+  },
+  {
+    "id": "107",
+    "companyName": "IBM",
+    "position": "Data Scientist",
+    "requirements": "python,R,ML,Deep Learning,CNN,tensorflow",
+    "contactEmail": "sagar.rajput9753@gmail.com"
+  },
   {
     "id": "107",
     "companyName": "Google",
     "position": "Frontend Developer",
     "requirements": "Html, CSS, JavaScript",
     "contactEmail": "diyagandhisb@gmail.com"
-  },
+  }
 ] 
 
 }
