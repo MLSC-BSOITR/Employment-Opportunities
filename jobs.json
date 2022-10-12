@@ -1,791 +1,754 @@
-
-// Examplary Code 
-
-[
 {
-  
-"id" : "1",
-
-"companyName " : "XYZ",
-
-"position" : "Frontend Developer",
-
-"requirements" : "Html, CSS, JavaScript",
-   
-"contactEmail " : "xyz@gmail.com"
-},
-  
- {
- 
-"id" : "2",
-
-"companyName " : "tcs",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
-
-"contactEmail" : "vishalabhange2002@gmail.com"
- },
- {
- 
-"id" : "3",
-
-"companyName " : "Infosys",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, react js , , ejs, DSA, DBMS",
-
-"contactEmail" : "gaurigadge17@gmail.com" 
- },
-{
-  
-"id" : "4",
-
-"companyName " : "Colab India",
-
-"contactEmail" : "diyagandhisb@gmail.com"
- 
- },
- {
- 
- "id" : "5",
-
-"companyName " : "Google",
-
-"position" : "Frontend Developer",
-
-"requirements" : "Html, CSS, JavaScript",
-
-"contactEmail" : "diyagandhisb@gmail.com"
-},
-{
-  
-"id" : "6",
-
-"companyName " : "abc",
-
-"position" : "Frontend Developer",
-
-"requirements" : "Html, CSS, cpp",
-
-"contactEmail" : "pratikshahodade@gmail.com"
-  },
- { 
-   
- "id" : "7",
-
-"companyName " : "Digitize Matrix",
-
-"position" : "Web Developer"
- },
-{
- 
-"id" : "8",
-
-"companyName " : "BY JU'S",
-
-"position" : "Marketing",
-
-"requirements" : "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
-
-"contactEmail" : "contact@byjus.comxyz@gmail.com"
-},
-{
-    "id" : "9",
-    "companyName" : "TCS",
-    "position" : "Frontend Developer",
-    "requirements" : "html,css,javascript",
-    "contactEmail" : "prajaktalandge2003@gmail.com"
-},
+  "jobs" : [
   {
-    
- "id" : "10",
-    
-"companyName " : "Skillred",
-
-"position" : "App Developer",
-
-"requirements" : "Html, C++, JavaScript",
-
-"contactEmail" : "skillred123@gmail.com"
- 
- },
-
-{
-"id" : "11",
-
-"companyName " : "RedForce",
-
-"position" : "Cybersecurity Analyser",
-
-"requirements" : "Html, CSS, JavaScript",
-
-"contactEmail" : "redforceone@gmail.com"
-
-},
-
- {
- "id" : "12",
-
-"companyName " : "anchor",
-
-"position" : "operator",
-
-"requirements" : "Excel,Typing Speed and Knowlege of Electrical Energy",
-
-"contactEmail" : "anchorhr17@gmail.com"
- 
- },
-
-{
-   "id" : "13",
-
-"companyName " : "AIESEC",
-
-"position" : "BDA",
-
-"requirements" : "Marketting",
-
-"contactEmail" : "aekagra.dhamani02@aiesec.net"
- 
- },
-  {
-  
-"id" : "13",
-
-"companyName " : "Moneymakes",
-
-"position" : "UI/UX Developer",
-
-"requirements" : "Html, CSS, JavaScript, Figma, Photoshop",
-
-"contactEmail" : "shahodade@gmail.com"
+    "id": "1",
+    "companyName": "abc",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "xyz@gmail.com"
   },
-
-{
-   "id" : "14",
-
-"companyName " : "TATA",
-
-"position" : "MAchine Designer",
-
-"requirements" : "Autocad, Catia",
-
-"contactEmail" : "shubhadasalvi99@gmail.com"
- },
-
- 
- {
-   
- "id" : "15",
-   
-"companyName " : "UPSPIKE ",
-
-"position" : "WEB DEVELOPER ",
-
-"requirements" : " HTML , CSS , JAVASCTRIPT ",
-
-"contactEmail" : "sahil952003@gmail.com"
- },
-  
+  {
+    "id": "2",
+    "companyName": "tcs",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+    "contactEmail": "vishalabhange2002@gmail.com"
+  },
+  {
+    "id": "3",
+    "companyName": "Infosys",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, react js , , ejs, DSA, DBMS",
+    "contactEmail": "gaurigadge17@gmail.com"
+  },
+  {
+    "id": "4",
+    "companyName": "Colab India",
+    "contactEmail": "diyagandhisb@gmail.com"
+  },
+  {
+    "id": "5",
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "diyagandhisb@gmail.com"
+  },
+  {
+    "id": "6",
+    "companyName": "abc",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, cpp",
+    "contactEmail": "pratikshahodade@gmail.com"
+  },
+  {
+    "id": "7",
+    "companyName": "Digitize Matrix",
+    "position": "Web Developer",
+    "requirements": "MERN Stack",
+    "contactEmail": "applyatapple@ios.com"
+  },
+  {
+    "id": "8",
+    "companyName": "BYJU'S",
+    "position": "Marketing",
+    "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
+    "contactEmail": "contact@byjus.comxyz@gmail.com"
+  },
+  {
+    "id": "9",
+    "companyName": "TCS",
+    "position": "Frontend Developer",
+    "requirements": "html,css,javascript",
+    "contactEmail": "prajaktalandge2003@gmail.com"
+  },
+  {
+    "id": "10",
+    "companyName": "Skillred",
+    "position": "App Developer",
+    "requirements": "Html, C++, JavaScript",
+    "contactEmail": "skillred123@gmail.com"
+  },
+  {
+    "id": "11",
+    "companyName": "RedForce",
+    "position": "Cybersecurity Analyser",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "redforceone@gmail.com"
+  },
+  {
+    "id": "12",
+    "companyName": "anchor",
+    "position": "operator",
+    "requirements": "Excel,Typing Speed and Knowlege of Electrical Energy",
+    "contactEmail": "anchorhr17@gmail.com"
+  },
+  {
+    "id": "13",
+    "companyName": "AIESEC",
+    "position": "BDA",
+    "requirements": "Marketting",
+    "contactEmail": "aekagra.dhamani02@aiesec.net"
+  },
+  {
+    "id": "13",
+    "companyName": "Moneymakes",
+    "position": "UI/UX Developer",
+    "requirements": "Html, CSS, JavaScript, Figma, Photoshop",
+    "contactEmail": "shahodade@gmail.com"
+  },
+  {
+    "id": "14",
+    "companyName": "TATA",
+    "position": "MAchine Designer",
+    "requirements": "Autocad, Catia",
+    "contactEmail": "shubhadasalvi99@gmail.com"
+  },
+  {
+    "id": "15",
+    "companyName": "UPSPIKE ",
+    "position": "WEB DEVELOPER ",
+    "requirements": " HTML , CSS , JAVASCTRIPT ",
+    "contactEmail": "sahil952003@gmail.com"
+  },
+  {
+    "id": "15",
+    "companyName": "EdWorks ",
+    "position": "WordPress web developer ",
+    "requirements": " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
+    "contactEmail": "shreyash009@gmail.com"
+  },
+  {
+    "id": "16",
+    "companyName": "IBM",
+    "position": "Data Scientist",
+    "requirements": "python,R,ML,Deep Learning,CNN,tensorflow",
+    "contactEmail": "ibm2003@gmail.com"
+  },
+  {
+    "id": "17",
+    "companyName": "IBM",
+    "position": "Support Enginner",
+    "requirements": "Linux, Big Data, Database",
+    "contactEmail": "arslaan077799@gmail.com"
+  },
+  {
+    "id": "18",
+    "companyName": "Accenture",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "sanskrutithorve75@gmail.com"
+  },
+  {
+    "id": "19",
+    "companyName": "AMAZON",
+    "position": "CTO",
+    "requirements": "Cybersecurity ",
+    "contactEmail": "chavanas1511@gmail.com"
+  },
+  {
+    "id": "20",
+    "companyName": "makesues",
+    "position": "UI/UX Developer",
+    "requirements": "Html, CSS, JavaScript, Figma, Photoshop",
+    "contactEmail": "badebrode@gmail.com"
+  },
+  {
+    "id": "20",
+    "companyName": "CareerFounding",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript,  SQL, MongoDB",
+    "contactEmail": "https://careerfoundry.com"
+  },
+  {
+    "id": "21",
+    "companyName": "Barclays ",
+    "position": "Web Developer",
+    "requirements": "Html,Java, Python, CSS, JavaScript",
+    "contactEmail": "shindeanmol125@gmail.com"
+  },
+  {
+    "id": "23",
+    "companyName": "tcs",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+    "contactEmail": "vishalabhange2002@gmail.com"
+  },
+  {
+    "id": "24",
+    "companyName": "tcs",
+    "position": "Software Developer",
+    "requirements": "Html,CSS,Python,C++,C,Cotlin",
+    "contactEmail": "anuradhathombare1512@gmail.com"
+  },
+  {
+    "id": "25",
+    "companyName": "tcs",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+    "contactEmail": "vishalabhange2002@gmail.com"
+  },
+  {
+    "id": "26",
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "shajahansayyedz@gmail.com"
+  },
+  {
+    "id": "26",
+    "companyName": "Bolt inovation",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, DS, python",
+    "contactEmail": "mardhekarsanket@gmail.com"
+  },
+  {
+    "id": "27",
+    "companyName": "IESoft Technologies Private Limited",
+    "position": "UX Design",
+    "requirements": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
+    "contactEmail": "info@iesoftfzc.com"
+  },
+  {
+    "id": "28",
+    "companyName": "Colab India",
+    "contactEmail": "diyagandhisb@gmail.com"
+  },
+  {
+    "id": "29",
+    "companyName": "IBM",
+    "position": "Cloud Computing Intern",
+    "requirements": "AWS,GCP, Azure",
+    "contactEmail": "googlesupport@google.com"
+  },
+  {
+    "id": "30",
+    "companyName": "tcs",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "adityabhagwat357@gmail.com"
+  },
+  {
+    "id": "31",
+    "companyName": "Skar",
+    "position": "Mechanical Engineer",
+    "requirements": "Catia, Ansys, Fundamentals of Mechanical Engineering",
+    "contactEmail": "sarthakkatwate12@gmail.com"
+  },
+  {
+    "id": "32",
+    "companyName": "Comely Enterprises",
+    "position": "web Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "contact@aimcomely.com"
+  },
+  {
+    "id": "33",
+    "companyName": "Morgan stanley",
+    "position": "Full Time Analyst",
+    "requirements": "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
+    "contactEmail": "asia.recruit@morganstanley.com"
+  },
+  {
+    "id": "34",
+    "companyName": "Paytm",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "guptashaurya2002@gmail.com"
+  },
+  {
+    "id": "35",
+    "companyName": "AMAZON",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript,frameworks",
+    "contactEmail": "tejaskhatkale18@gmail.com"
+  },
+  {
+    "id": "36",
+    "companyName": "Google",
+    "position": "Project Manager",
+    "requirement": "java,css,kotlin",
+    "contactEmail": "vedantdhage61@gmail.com"
+  },
+  {
+    "id": "37",
+    "companyName": "Wipro",
+    "position": "Web Developer"
+  },
+  {
+    "id": "38",
+    "companyName": "PhonePe",
+    "position": "Graduate Trainee",
+    "requirements": "Html, CSS, JavaScript, Java/C++/Python, MySQL",
+    "contactEmail": "businessrecruitment@phonepe.com"
+  },
+  {
+    "id": "39",
+    "companyName": "Hewlett Packard Enterprise",
+    "position": "AI ML ",
+    "requirements": "Graduation in AIML, Higher Mathematics"
+  },
+  {
+    "id": "40",
+    "companyName": "Microsoft",
+    "position": "SDE",
+    "requirements": "Html, CSS, JavaScript, C++/Java/Python, DBMS, DSA",
+    "contactEmail": "recruitment@hotmail.com"
+  },
+  {
+    "id": "41",
+    "companyName": "Digital Ocean",
+    "position": "cloud support engineer",
+    "requirement": "Linux, cloud technology"
+  },
+  {
+    "id": "42",
+    "companyName": "amazon",
+    "position": "AWS developer",
+    "requirements": "AWS",
+    "contactEmail": "bhargavagraval@gmail.com"
+  },
+  {
+    "id": "43",
+    "companyName": "Google",
+    "position": "web developer",
+    "requirement": "html,css,javaScript",
+    "contactEmail": "shrutishinde145@gmail.com"
+  },
+  {
+    "id": "44",
+    "companyName": "tcs",
+    "position": "web developer",
+    "requirements": "html,css ,js,bootstrap,git,java,reactjs",
+    "contactEmail": "bhargavagraval@gmail.com"
+  },
+  {
+    "id": "45",
+    "company name ": "Google",
+    "position": "Senior Software Engineer",
+    "requirements": "Cloud Computing, DSA, Testing Experience",
+    "contactEmail": "jobs@google.com"
+  },
+  {
+    "id": "46",
+    "company name ": "Dhruva",
+    "position": " pROJECT Manager",
+    "requirements": "DSA,MBA,Testing Experience",
+    "contactEmail": "jobs@dhruva.com"
+  },
+  {
+    "id": "47",
+    "companyName": "Birlasoft",
+    "position": "Sr Technical Lead",
+    "requirements": "Any Graduate",
+    "contactEmail": "campusteam@birlasoft.com"
+  },
+  {
+    "id": "48",
+    "companyName": "persistent",
+    "position": "Intern",
+    "requirements": "Third or Fourth year students",
+    "contactEmail": "info@persistent.com"
+  },
+  {
+    "id": "49",
+    "companyName": "SBI",
+    "position": "Dupty Chief Technology Officer",
+    "requirements": "B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
+    "contactEmail": "dphelp@hdfcbank.com"
+  },
+  {
+    "id": "50",
+    "companyName": "Google",
+    "position": "Cloud storage Specialist",
+    "requirements": "B.Tech in CS ",
+    "contactEmail": "jobs@google.com"
+  },
+  {
+    "id": "51",
+    "companyName": "Jaduu",
+    "position": "Graduate Trainee",
+    "requirements": "Fourth year students",
+    "contactEmail": "not_so_sober.com"
+  },
+  {
+    "id": "52",
+    "companyName": "Back2Study",
+    "position": "Content Writer",
+    "requirements": "Graduation completed",
+    "contactEmail": "https://www.back2study.co.in"
+  },
+  {
+    "id": "53",
+    "companyName": "tcs",
+    "position": "android developer",
+    "requirements": "Html, CSS, JavaScript, c++",
+    "contactEmail": "prasadkhotkar916@gmail.com"
+  },
+  {
+    "id": "54",
+    "companyName": "frenz-d.in",
+    "position": "python",
+    "requirements": "Peoples skills, ui designing, canva , adobe xd expert",
+    "contactEmail": "vaishalic@gmail.com"
+  },
+  {
+    "id": "55",
+    "companyName": "Accenture",
+    "position": "Java Enterprice Edition Application Developer",
+    "requirements": "B.Tech in CS/IT",
+    "contactEmail": "https://www.accenture.com/in-en/careers"
+  },
+  {
+    "id": "56",
+    "companyName": "Zenser",
+    "position": "Java Enterprice Edition Application Developer",
+    "requirements": "B.Tech in CS/IT",
+    "contactEmail": "https://www.zanser.com/in-en/careers"
+  },
+  {
+    "id": "57",
+    "companyName": "Eaton",
+    "position": "Java Developer",
+    "requirements": "Java",
+    "contactEmail": "jobrapido.com"
+  },
+  {
+    "id": "58",
+    "companyName": "frenz-d.in",
+    "position": "ui designer",
+    "requirements": "Peoples skills, ui designing, canva , adobe xd expert",
+    "contactEmail": "guruprasadvaidya@gmail.com"
+  },
+  {
+    "id": "59",
+    "companyName": "Hoffmann Group",
+    "position": "Intern",
+    "requirements": "Peoples skills, CAD",
+    "contactEmail": "harshada.shirude.ext@hoffmann-group.com"
+  },
+  {
+    "id": "60",
+    "companyName": "E2Open",
+    "position": "Cloud Computing Architect",
+    "requirements": "Java, Python,C#,aws",
+    "contactEmail": "ccca@gmail.com"
+  },
+  {
+    "id": "61",
+    "companyName": "Wipro",
+    "position": "Project Trainee",
+    "requirements": "Java, Python,C#,aws",
+    "contactEmail": "cbha@gmail.com"
+  },
+  {
+    "id": "62",
+    "companyName": "MindTree",
+    "position": "Web Developer Intern",
+    "requirements": "Javascript, React,C#,Mongo",
+    "contactEmail": "hr.mindtree@gmail.com"
+  },
+  {
+    "id": "63",
+    "companyName": "Microsoft",
+    "position": "Software Engginer",
+    "requirements": "C++, Python, PHP, HTML, CSS,C#,Mongo",
+    "contactEmail": "hr.MSWork@gmail.com"
+  },
+  {
+    "id": "64",
+    "companyName": "VCL",
+    "position": "CTO",
+    "requirements": "CyberSecurity",
+    "contactEmail": "cyberhim99@gmail.com"
+  },
+  {
+    "id": "65",
+    "companyName": "Elixir Techne",
+    "position": "Python Developer ",
+    "requirements": "Experience: 0-2 Years & Python Programming language",
+    "contactEmail": "career@elixirtechne.com"
+  },
+  {
+    "id": "66",
+    "companyName": "Oracle",
+    "position": "Software Developer - Intern",
+    "requirements": "Basic DBMS, DSA",
+    "contactEmail": "interns@oracle.com"
+  },
+  {
+    "id": "67",
+    "companyName": "Ciena",
+    "position": "SDE Intern",
+    "requirements": "Batch 2022/2023",
+    "contactEmail": "https://careers.ciena.com/us/en/job/R020602/Software-Engineering-Intern"
+  },
+  {
+    "id": "68",
+    "companyName": "Mindtree",
+    "position": "IOS Devloper",
+    "requirements": "Swift, Ios Devlopment , xcode, Objective c",
+    "contactEmail": "https://www.mindtree.com/careers/jobs-apply"
+  },
+  {
+    "id": "69",
+    "companyName": "UBER",
+    "position": "Sr. Software Developer",
+    "requirements": "CORE DSA, GOOD PROBLEM SOLVEING SKILLS , Node js. ",
+    "contactEmail": "https://www.uber.com/global/en/careers/list/113044/"
+  },
+  {
+    "id": "70",
+    "companyName ": "Pixelmattic",
+    "position": "Frontend Developer Web",
+    "requirements": "WordPress, HTML, CSS, jQuery, PHP",
+    "contactEmail": "info@pixelmatic.com"
+  },
+  {
+    "id": "71",
+    "companyName ": "Phyllo Inc",
+    "position": "QA Manager / SDET Manager",
+    "requirements": "Team leading & Building, test framework for test automation, Good communication skills",
+    "contactEmail": "saroj@getphyllo.com"
+  },
    {
-"companyName " : "EdWorks ",
-
-"position" : "WordPress web developer ",
-
-"requirements" : " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
-
-"contactEmail" : "shreyash009@gmail.com"
- },
-  {
-    "id" :"16",
-    
-    "companyName" : "IBM",
-    
-    "position" :"Data Scientist",
-    
-    "requirements" : "python,R,ML,Deep Learning,CNN,tensorflow",
-    
-    "contactEmail" :"ibm2003@gmail.com"
-  },
-  {
-
-"id" : "16",
-    
-"companyName " : "VCL",
-
-"position" : "CTO",
-
-"requirements" : "CyberSecurity",
-
-"contactEmail" : "cyberhim99@gmail.com"
- 
- },
- 
- {
- "id" : "17",
-   
-"companyName " : "IBM",
-
-"position" : "Support Enginner",
-
-"requirements" : "Linux, Big Data, Database",
-
-"contactEmail" : "arslaan077799@gmail.com"
- },
-  {
-  
-"id" : "18",
-
-"companyName " : "Accenture",
-
-"position" : "Frontend Developer",
-
-"requirements" : "Html, CSS, JavaScript",
-   
-"contactEmail" : "sanskrutithorve75@gmail.com"
- 
- },
-
-  {
- "id" : "19",
-
-"companyName " : "AMAZON",
-
-"position" : "CTO",
-
-"requirements" : "Cybersecurity ",
-
-"contactEmail" : "chavanas1511@gmail.com"
- 
- },
-  {
-  
-"id" : "20",
-
-"companyName " : "makesues",
-
-"position" : "UI/UX Developer",
-
-"requirements" : "Html, CSS, JavaScript, Figma, Photoshop",
-
-"contactEmail" : "badebrode@gmail.com"
-  },
-  {
-  
-"id" : "20",
-
-"companyName " : "CareerFounding",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript,  SQL, MongoDB",
-   
-"contactEmail" : "https://careerfoundry.com"
-  },
-
- 
-  {
- "id" : "21",
-
-"companyName " : "Barclays ",
-
-"position" : "Web Developer",
-
-"requirements" : "Html,Java, Python, CSS, JavaScript",
-   
-"contactEmail" : "shindeanmol125@gmail.com"
-  },
-{
-  
-"id" : "23",
-
-"companyName " : "tcs",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
-
-"contactEmail" : "vishalabhange2002@gmail.com"},
-
- {
-   
-"id" : "24",
-
-"companyName " : "tcs",
-
-"position" : "Software Developer",
-
-"requirements" : "Html,CSS,Python,C++,C,Cotlin",
-
-"contactEmail" : "anuradhathombare1512@gmail.com"
- },
-
-{
-  
-"id" : "25",
-
-"companyName " : "tcs",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
-
-"contactEmail" : "vishalabhange2002@gmail.com"
-},
-{
-
-"id" : "26",
-
-"companyName " : "Google",
-
-"position" : "Frontend Developer",
-
-"requirements" : "Html, CSS, JavaScript",
-
-"contactEmail" : "shajahansayyedz@gmail.com"
-
-},
-{
-
-"id" : "26",
-
-"companyName " : "Bolt inovation",
-
-"position" : "Full stack Developer",
-
-"requirements" : "Html, CSS, JavaScript, DS, python",
-
-"contactEmail" : "mardhekarsanket@gmail.com"
-} ,
-{
-  
-"id" : "27",
-
-"companyName " : "IESoft Technologies Private Limited",
-
-"position" : "UX Design",
-
-"requirements" : "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma, UI & UX Design",
-   
-"contactEmail " : "info@iesoftfzc.com"
-},
- {
-
-"id" : "28",
-
-"companyName " : "Colab India",
-   
-"contactEmail" : "diyagandhisb@gmail.com"
- 
- },
- {
-   
-"id" : "29",
-
-"companyName " : "IBM",
-
-"position" : "Cloud Computing Intern",
-
-"requirements" : "AWS,GCP, Azure",
-
-"contactEmail" : "googlesupport@google.com"
- },
- {
-  
-"id" : "30",
-
-"companyName " : "tcs",
-
-"position" : "Frontend Developer",
-
-"requirements" : "Html, CSS, JavaScript",
-   
-"contactEmail " : "adityabhagwat357@gmail.com"},
- {
-
-"id" : "31",
-
-"companyName " : "Skar",
-
-"position" : "Mechanical Engineer",
-
-"requirements" : "Catia, Ansys, Fundamentals of Mechanical Engineering",
-
-"contactEmail" : "sarthakkatwate12@gmail.com"
-
-},
-{
-
-"id" : "32",
-
-"companyName " : "Comely Enterprises",
-
-"position" : "web Developer",
-
-"requirements" : "Html, CSS, JavaScript",
-
-"contactEmail" : "contact@aimcomely.com"
-
-},
-{
-"id" : "33",
-
-"companyName " : "Morgan stanley",
-
-"position" : "Full Time Analyst",
-
-"requirements" : "Java, C++ or C# database knowledge. Operating system knowledge (Windows and Unix).",
-
-"contactEmail" : "asia.recruit@morganstanley.com"
- },
-  {
-  
-  "id" : "34",
-  
-  "companyName " : "Paytm",
-  
-  "position" : "Frontend Developer",
-  
-  "requirements" : "Html, CSS, JavaScript",
-     
-  "contactEmail " : "guptashaurya2002@gmail.com"
-  },
-   {
-  
-"id" : "35",
-
-"companyName " : "AMAZON",
-
-"position" : "Frontend Developer",
-
-"requirements" : "Html, CSS, JavaScript,frameworks",
-   
-"contactEmail " : "tejaskhatkale18@gmail.com"
+     "id" : "72",
+    "companyName " : "Pixelmattic",
+    "position" : "Frontend Developer Web",
+    "requirements" : "WordPress, HTML, CSS, jQuery, PHP",
+    "contactEmail" : "info@pixelmatic.com"
    },
- 
-{
-  "id" : "36",
-  
-  "companyName" : "Google",
-  
-  "position" : "Project Manager",
-  
-  "requirement" : "java,css,kotlin",
-  
-  "contactEmail" : "vedantdhage61@gmail.com"
-  
-},
- { 
-   
- "id" : "37",
-
-"companyName " : "Wipro",
-
-"position" : "Web Developer"
- },
-{
-  
-  "id" : "38",
-  
-  "companyName " : "PhonePe",
-  
-  "position" : "Graduate Trainee",
-  
-  "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
-  
-  "contactEmail" : "businessrecruitment@phonepe.com"
-
- },
-  {
-  
-"id" : "39",
-
-"companyName " : "Hewlett Packard Enterprise",
-
-"position" : "AI ML ",
-
-"requirements" : "Graduation in AIML, Higher Mathematics"
- },
- {
-   
-  "id" : "40",
-  
-  "companyName " : "Microsoft",
-  
-  "position" : "SDE",
-  
-  "requirements" : "Html, CSS, JavaScript, C++/Java/Python, DBMS, DSA",
-  
-  "contactEmail" : "recruitment@hotmail.com"
-
- },
-  {
-    
-  "id" : "41",
-  
-  "companyName" : "Digital Ocean",
-  
-  "position" : "cloud support engineer",
-  
-  "requirement" : "Linux, cloud technology"
-  
-  
-},
-{
-    
- "id" : "42",
-
-"companyName " : "amazon",
-
-"position" : "AWS developer",
-
-"requirements" : "AWS",
-   
-"contactEmail " : "bhargavagraval@gmail.com"
-},
-  
-  {
-    
-  "id" : "43",
-  
-  "companyName" : "Google",
-  
-  "position" : "web developer",
-  
-  "requirement" : "html,css,javaScript",
-  
-  "contactEmail" : "shrutishinde145@gmail.com"
-  
-  },
    {
-     
-"id" : "44",
-
-"companyName " : "tcs",
-
-"position" : "web developer",
-
-"requirements" : "html,css ,js,bootstrap,git,java,reactjs",
-   
-"contactEmail " : "bhargavagraval@gmail.com"
+    "id": "73",
+    "companyName ": "Sparks Foundation",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+    "contactEmail": "krankit121202@gmail.com"
    },
-{
-
-"id" : "45",
-
-"company name " : "Google",
-
-"position" : "Senior Software Engineer",
-
-"requirements" : "Cloud Computing, DSA, Testing Experience",
-
-"contactEmail" : "jobs@google.com"
-
-},
-  
-{
-
-"id" : "46",
-
-"company name " : "Dhruva",
-
-"position" : " pROJECT Manager",
-
-"requirements" : "DSA,MBA,Testing Experience",
-
-"contactEmail" : "jobs@dhruva.com"
-
-},
-{
-  
-"id" : "47",
-
-"companyName " : "Birlasoft",
-
-"position" : "Sr Technical Lead",
-
-"requirements" : "Any Graduate",
-   
-"contactEmail " : "campusteam@birlasoft.com"
-},
- {
-  
-"id" : "48",
-
-"companyName " : "persistent",
-
-"position" : "Intern",
-
-"requirements" : "Third or Fourth year students",
-   
-"contactEmail " : "info@persistent.com"
-},
   {
-  "id" : "49",
-
-"companyName " : "SBI",
-
-"position" : "Dupty Chief Technology Officer",
-
-"requirements" : "B.Tech/B.E, M.E/M.Tech, MBA/PGDM, MCA",
-   
-"contactEmail " : "dphelp@hdfcbank.com"
+    "id": "74",
+    "companyName ": "Cromptom",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS",
+    "contactEmail ": "crompton@gmail.com"
   },
-  
-  {
-  
-"id" : "50",
-
-"companyName " : "Google",
-
-"position" : "Cloud storage Specialist",
-
-"requirements" : "B.Tech in CS ",
-   
-"contactEmail " : "jobs@google.com"
-  },
-  
- {
-  
-"id" : "51",
-  "companyName " : "Jaduu",
-
-"position" : "Graduate Trainee",
-
-"requirements" : "Fourth year students",
-   
-"contactEmail " : "not_so_sober.com"
-},
-
- {
-  "id" : "52",
-
-"companyName " : "Back2Study",
-
-"position" : "Content Writer",
-
-"requirements" : "Graduation completed",
-   
-"contactEmail " : "https://www.back2study.co.in"
-  },
-  {
  
-"id" : "53",
 
-"companyName " : "tcs",
-
-"position" : "android developer",
-
-"requirements" : "Html, CSS, JavaScript, c++",
-
-"contactEmail" : "prasadkhotkar916@gmail.com"
+  {
+    "id": "75",
+    "companyName ": "CoolBoots Media",
+    "position": " Software Developer ",
+    "requirements": "PHP, MySQL ,laravel",
+    "contactEmail ": "CoolBoots@gmail.com"
+  },
+    {
+    "id": "76",
+    "companyName ": "Media",
+    "position": " Software Developer ",
+    "requirements": "PHP, MySQL ,laravel",
+    "contactEmail ": "Media@gmail.com"
+  },
+     {
+    "id": "77",
+    "companyName": "IBM",
+    "position": "Data Scientist",
+    "requirements": "python,R,ML,Deep Learning,CNN,tensorflow",
+    "contactEmail": "ibm2003@gmail.com"
+  },
+    {
+    "id": "78",
+    "companyName": "Microsoft",
+    "position": "SDE",
+    "requirements": "Html, CSS, JavaScript, C++/Java/Python, DBMS, DSA",
+    "contactEmail": "recruitment@hotmail.com"
   },
   {
-  
-"id" : "54",
-
-"companyName " : "frenz-d.in",
-
-"position" : "python",
-
-"requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
-   
-"contactEmail " : "vaishalic@gmail.com"
-
+    "id": "79",
+    "companyName": "Skillred",
+    "position": "App Developer",
+    "requirements": "Html, C++, JavaScript",
+    "contactEmail": "skillred123@gmail.com"
+  },
+  {
+    "id": "80",
+    "companyName": "BYJU'S",
+    "position": "Marketing",
+    "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
+    "contactEmail": "contact@byjus.comxyz@gmail.com"
+  },
+  {
+    "id": "81",
+    "companyName": "Thinkfinity Labs Pvt Ltd",
+    "position": "Intern",
+    "requirements": "HTML CSS JS and React/Nodejs",
+    "contactEmail": "nithishr81@gmail.com"
+  },
+  {
+    "id": "82",
+    "companyName": "Investo",
+    "position": "Frontend Developer",
+    "requirements": "Reactjs",
+    "contactEmail": "Intern@123"
+  },
+  {
+      "id": "83",
+    "companyName": "AMAZON",
+    "position": "App Developer",
+    "requirements": "Html, C++, JavaScript",
+    "contactEmail": "sohini.official.in@gmail.com"
+  },
+  {
+    "id": "84",
+    "companyName": "Neemtree",
+    "position": "Backend Developer",
+    "requirements": "MERN Full Stack web development",
+    "contactEmail": "abc@neemtree.com"
+  },{
+    "id": "85",
+    "companyName ": "Sparks Foundation",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript,angular",
+    "contactEmail": "intern@gmail.com"
+  },
+  {
+    "id": "86",
+    "companyName": "Mindtree",
+    "position": "DevOps Engineer",
+    "requirements": "Python, Kubernetes, Linux",
+    "contactEmail": "hr.mindtree@gmail.com"
+  },
+  {
+    "id": "87",
+  "companyName": "KFC",
+  "position": "Manager",
+  "requirements": "Experience,leardship qualities",
+  "contactEmail": "kfc@gmail.com"
+  },
+  {
+    "id": "88",
+  "companyName": "Lexmark",
+  "position": "frontend Developer",
+  "requirements": "Html, C++, JavaScript",
+  "contactEmail": "indhelpdesk@lexmark.com"
+  },
+  {
+    "id": "89",
+    "companyName": "Cisco",
+    "position": "Senior Software Engineer",
+    "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
+    "contactEmail": "adarshpy@cisco.com"
+  },
+  {
+    "id": "90",
+    "companyName": "splunk",
+    "position": "Software Engineer",
+    "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
+    "contactEmail": "https://www.splunk.com/en_us/careers.html"
+  },
+  {
+    "id": "91",
+    "companyName": "Girl Power Talk",
+    "position": "Frontend Developer",
+    "requirements": "HTML, CSS, SCSS, JavaScript, React.js, REST API’s, Jquery",
+    "contactEmail": "girlpower1@gmail.com"
+    },
+  {
+    "id": "92",
+    "companyName": "Splunk",
+    "position": "Software Engineer",
+    "requirements": "C++/Java, Data Stucture and Algorithms, Computer Networks, Strong Communication Skill",
+    "contactEmail": "https://www.splunk.com/en_us/careers.html"
+  },
+    {
+    "id": "93",
+    "companyName": "Wipro",
+    "position": "Technical Lead",
+    "requirements": "C++/Java, Python",
+    "contactEmail": "wiprotech@gmail.com"
+  },
+  {
+    "id": "95",
+    "companyName": "Netflix",
+    "position": "SWE (Visa Sponsored)",
+    "requirements": "Data structure and algorithm, competitive programming",
+    "contactEmail": "https://csforall.in/job/software-engineer-intern-summer-2023-netflix-ca-234866639/"
+  },
+  { "id": "96",
+    "companyName": "AIESEC",
+    "position": "BDA",
+    "requirements": "Marketting",
+    "contactEmail": "aekagra.dhamani02@aiesec.net"
+  },
+  {
+    "id": "97",
+    "companyName": "Safe Security",
+    "position": "Frontend Developer",
+    "requirements": "C++/Java, MERN, MEAN, Strong Communication Skill",
+    "contactEmail": "ta@safe.security"
+  },
+  {
+    "id": "98",
+  "position": "Cybersecurity Engineer",
+  "requirements": "VAPT,OWASP Top 10, Penetration Testing",
+  "contactEmail": "ta@safe.security"
 },
-
 {
-
-  "id" : "55",
-
-  "companyName " : "Accenture",
-
-  "position" : "Java Enterprice Edition Application Developer",
-
-  "requirements" : "B.Tech in CS/IT",
-   
-  "contactEmail " : "https://www.accenture.com/in-en/careers"
-
+  "id": "99",
+  "companyName": "Google",
+  "position": "Frontend Developer",
+  "requirements": "Html, CSS, JavaScript",
+  "contactEmail": "sj5027052@gmail.com"
+},    
+ {
+    "id" : "100",
+    "companyName " : "TATA Group",
+    "position" : "Relationship Manager",
+    "requirements" : "Interpersonal Skills,Communication Skills,Influencing Skills,Relationship Building Skills,Decision Making Skills",
+    "contactEmail" : "careers@tcs.com"
+  }, 
+ {
+"id" : "101",
+"companyName " : "Sony Research India",
+"position" : "C++ Programming Intern",
+"requirements" : "OOP concepts proficiently in C and C++, maths, probability, statistics, and algorithms.",
+"contactEmail" : "info.sonyresearchindia@sony.com"
 },
   {
+    "id" : "102",
+    "companyName " : "LG India",
+    "position" : "Software Developer",
+    "requirements" : "Strong C/c++ programing skills,Good analytical/debugging skills, designing,building, delivering, maintaining software applications",
+    "contactEmail" : "lgindia@.com"
+  },
 
-  "id" : "56",
-
-  "companyName " : "Zenser",
-
-  "position" : "Java Enterprice Edition Application Developer",
-
-  "requirements" : "B.Tech in CS/IT",
-   
-  "contactEmail " : "https://www.zanser.com/in-en/careers"
-
-},
   {
-  
-"id" : "57",
-
-"companyName " : "Eaton",
-
-"position" : "Java Developer",
-
-"requirements" : "Java",
-
-"contactEmail" : "jobrapido.com"
+  "id" : "103",
+  "companyName " : "Cargill",
+  "position" : "Risk & Security Analyst",
+  "requirements" : "Identify and assess risk and security threats, Contribute to solutions,Strong knowledge with SAP ABAP, HANA, Java and Cloud systems security. communications with IT leadership",
+  "contactEmail" : "cargillcareers@.com"
+  },
+{
+  "id" : "104",
+  "companyName " : "Dell Technologies",
+  "position" : "Software Senior Engineer",
+  "requirements" : "Experience in using Python or JavaScript,(C, Java); operating systems - Windows, POSIX, UNIX, Linux,framework design and development, debugging and kernel",
+  "contactEmail" : "delltech@gmail.com"
   },
   {
-  
-"id" : "58",
-
-"companyName " : "frenz-d.in",
-
-"position" : "ui designer",
-
-"requirements" : "Peoples skills, ui designing, canva , adobe xd expert",
-   
-"contactEmail " : "guruprasadvaidya@gmail.com"
-},
-
- {
-  
-"id" : "59",
-
-"companyName " : "Hoffmann Group",
-
-"position" : "Intern",
-
-"requirements" : "Peoples skills, CAD",
-   
-"contactEmail " : "harshada.shirude.ext@hoffmann-group.com"
-},
-
+    "id": "105",
+    "companyName": "Moneymakes",
+    "position": "UI/UX Developer",
+    "requirements": "Html, CSS, JavaScript, Figma, Photoshop",
+    "contactEmail": "shahodade@gmail.com"
+  },
   {
-  
-"id" : "60",
-
-"companyName " : "E2Open",
-
-"position" : "Cloud Computing Architect",
-
-"requirements" : "Java, Python,C#,aws",
-   
-"contactEmail " : "ccca@gmail.com"
-
-},
-  {
-  
-"id" : "61",
-
-"companyName " : "Wipro",
-
-"position" : "Project Trainee",
-
-"requirements" : "Java, Python,C#,aws",
-   
-"contactEmail " : "cbha@gmail.com"
-
+    "id": "106",
+    "companyName": "SharpHeads",
+    "position": "Inside Sales Executive, Business Development Executive",
+    "requirements": "BBA Graduate, Team building skills",
+    "contactEmail": "priya@sharpheadsrpo.com"
+  }
+] 
 
 },
   {
@@ -801,5 +764,5 @@
 "contactEmail" : "netflic933@gmail.com"
   },
 
-]
+
 
