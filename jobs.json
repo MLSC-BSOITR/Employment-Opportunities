@@ -797,8 +797,16 @@
     "position": "QA Manager / SDET Manager",
     "requirements": "Team leading & Building, test framework for test automation, Good communication skills",
     "contactEmail": "sarita@getphyllo.com"
-  }
+  },
+{  
+ "id" : "113",
+"companyName " : "Netflix",
+"position" : "SWE intern",
+"requirements" : "Html, CSS, JavaScript,java",
+"contactEmail" : "netflic933@gmail.com"
+  },
 ] 
 }
+  
 
 
