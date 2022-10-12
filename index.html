@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employement Opportunities</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src=
+    "https://code.jquery.com/jquery-3.5.1.js">
+        </script>    
+        <script>
+        $(document).ready(function () {
+            $.getJSON('jobs.json', function (data) {
+                var count=0;
+                $.each(data.jobs, function (i, f) {
+                    if(f.position != undefined && f.companyName != undefined && f.requirements != undefined && f.contactEmail != undefined)
+                    {var tblRow = "<tr>" + "<td>" + ++count + "</td>" +
+                        "<td>" + f.companyName + "</td>" + "<td>" + f.position + "</td>" + "<td>" + f.requirements + "</td>" + "<td>" + "<a href = 'mailto:f.contactEmail'>" + f.contactEmail + "</a>" + "</td>" + "</tr>"
+                    $('#userdata tbody').append(tblRow);
+                    }
+                });
+            });
+
+        });
+    </script>
+</head>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&display=swap');
+</style>
+
+<body>
+        <div class="wrapper">
+            <div class="profile">
+                <h1 class="heading"> Available Jobs </h1>
+                <marquee><p>Have the required skills? Check out these job openings</p></marquee>
+                <br><br>
+                <span>Send your resume to the email id provided below</span>
+                <br><br>
+                <table id="userdata">
+                    <thead>
+                        <th>Id</th>
+                        <th>Company Name</th>
+                        <th>Position</th>
+                        <th>Requirements</th>
+                        <th>Contact Email</th>
+                    </thead>
+                    <tbody class="contentBody">
+                        
+                    </tbody>
+                </table>
+                
+
+            </div>
+        </div>
+        <hr>
+        <hr>
+    </body>
+
+</html>
