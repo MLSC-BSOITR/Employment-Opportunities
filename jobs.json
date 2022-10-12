@@ -68,6 +68,7 @@
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "skillred123@gmail.com"
   },
+    
   {
     "id": "11",
     "companyName": "RedForce",
@@ -775,14 +776,28 @@
     "position": "Software Engineer",
     "requirements": "Html, CSS, JavaScript, Java/C++/Python, MySQL",
     "contactEmail": "recruitment@geekyants.com"
-  }
+  },
+   {
+    "id": "110",
+    "companyName": "Titan'S",
+    "position": "Marketing",
+    "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
+    "contactEmail": "aditya@byjus.comxyz@gmail.com"
+  },
+   {
+    "id": "111",
+    "companyName": "BYJ",
+    "position": "Marketing",
+    "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
+    "contactEmail": "contact@BYJ.comxyz@gmail.com"
+   },
   {
-    "id": "107",
+    "id": "112",
     "companyName ": "Phyllo Inc",
     "position": "QA Manager / SDET Manager",
     "requirements": "Team leading & Building, test framework for test automation, Good communication skills",
     "contactEmail": "sarita@getphyllo.com"
-  },
+  }
 ] 
 }
 
