@@ -68,6 +68,7 @@
     "requirements": "Html, C++, JavaScript",
     "contactEmail": "skillred123@gmail.com"
   },
+    
   {
     "id": "11",
     "companyName": "RedForce",
@@ -194,6 +195,13 @@
     "requirements": "Html, CSS, JavaScript",
     "contactEmail": "shajahansayyedz@gmail.com"
   },
+  {
+    "id": "19",
+    "companyName": "AMAZON",
+    "position": "CTO",
+    "requirements": "Cybersecurity ",
+    "contactEmail": "ashishrairai968560@gmail.com"
+  }
   {
     "id": "26",
     "companyName": "Bolt inovation",
@@ -747,22 +755,58 @@
     "position": "Inside Sales Executive, Business Development Executive",
     "requirements": "BBA Graduate, Team building skills",
     "contactEmail": "priya@sharpheadsrpo.com"
-  }
-] 
-
-},
+  },
   {
-    
- "id" : "323",
-
+    "id": "107",
+    "companyName": "IBM",
+    "position": "Data Scientist",
+    "requirements": "python,R,ML,Deep Learning,CNN,tensorflow",
+    "contactEmail": "sagar.rajput9753@gmail.com"
+  },
+  {
+    "id": "108",
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "diyagandhisb@gmail.com"
+  },
+ {
+    "id": "109",
+    "companyName": "GeekyAnts",
+    "position": "Software Engineer",
+    "requirements": "Html, CSS, JavaScript, Java/C++/Python, MySQL",
+    "contactEmail": "recruitment@geekyants.com"
+  },
+   {
+    "id": "110",
+    "companyName": "Titan'S",
+    "position": "Marketing",
+    "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
+    "contactEmail": "aditya@byjus.comxyz@gmail.com"
+  },
+   {
+    "id": "111",
+    "companyName": "BYJ",
+    "position": "Marketing",
+    "requirements": "English Proficiency (Spoken)Tamil Proficiency (Spoken)",
+    "contactEmail": "contact@BYJ.comxyz@gmail.com"
+   },
+  {
+    "id": "112",
+    "companyName ": "Phyllo Inc",
+    "position": "QA Manager / SDET Manager",
+    "requirements": "Team leading & Building, test framework for test automation, Good communication skills",
+    "contactEmail": "sarita@getphyllo.com"
+  },
+{  
+ "id" : "113",
 "companyName " : "Netflix",
-
 "position" : "SWE intern",
-
 "requirements" : "Html, CSS, JavaScript,java",
-
 "contactEmail" : "netflic933@gmail.com"
   },
-
+] 
+}
+  
 
 
