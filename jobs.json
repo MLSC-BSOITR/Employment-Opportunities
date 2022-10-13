@@ -805,6 +805,13 @@
 "requirements" : "Html, CSS, JavaScript,java",
 "contactEmail" : "netflic933@gmail.com"
   },
+   {  
+    "id" : "113",
+    "companyName " : "Clarivate",
+    "position" : "Associate QA Engineer-1",
+    "requirements" : "Html, CSS, JavaScript,php",
+    "contactEmail" : "ex. jane.doe@clarivate.com"
+  },
 ] 
 }
   
