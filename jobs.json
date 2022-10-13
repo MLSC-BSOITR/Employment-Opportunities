@@ -819,15 +819,34 @@
     "requirements": "Experience: 0-2 Years & Python Programming language",
     "contactEmail": "vishu@iet.davv.ac.in"
   },
+  { 
+    "companyName": "Thinkfinity Labs Pvt Ltd",
+    "position": "Intern",
+    "requirements": "HTML CSS JS and React/Nodejs",
+    "contactEmail": "vishwakarmasourabh@iips.edu.in"
+  },
+{
+  "id": "115",
+  "companyName " : "IBM",
+  "position" : "System Engineer",
+  "requirements" : "Web Technology, Java, DBMS",
+  "contactEmail" : "eschoolhiringt@ibmindia.com"
+ },
 {
   
   "companyName " : "ITC Infotech",
   "position" : "Analyst Trainee",
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
   "contactEmail" : "businessrecruitment@itcinfotech.com"
-
- }
+ },
+ {  
+  "id" : "116",
+ "companyName " : "Google",
+ "position" : "Student Training in Engineering Program, STEP 2023",
+ "requirements" : "Programming experience in Java,C++ OR Python",
+ "contactEmail" : "support-in@google.com"
+   }
 ] 
-
+}
 
 
