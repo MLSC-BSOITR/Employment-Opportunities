@@ -539,8 +539,6 @@
     "requirements": "Html, CSS",
     "contactEmail ": "crompton@gmail.com"
   },
- 
-
   {
     "id": "75",
     "companyName ": "CoolBoots Media",
@@ -811,6 +809,13 @@
     "position": "Software Engineering",
     "requirements": "object-oriented programming language, preferably C++,Python,strong debugging and troubleshooting skills",
     "contactEmail": " microsoft@gmail.com"
+  },
+  {
+    "id": "115",
+    "companyName": "persistent",
+    "position": "Intern",
+    "requirements": "Third or Fourth year students",
+    "contactEmail": "info@persistent.com"
   },
   {
     "id": "115",
