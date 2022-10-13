@@ -845,6 +845,13 @@
   "contactEmail" : "businessrecruitment@itcinfotech.com"
  },
  {
+  
+  "companyName " : "KYRO",
+  "position" : "Software Developement Engineer",
+  "requirements" : "C,C++,Java,Python,MySQL,Data Structures and Algorithms",
+  "contactEmail" : "vignesh@kriyators.com"
+ },
+ {
   "id": "116",
   "companyName ": "IBM",
   "position": " Software Engineer Intern",
