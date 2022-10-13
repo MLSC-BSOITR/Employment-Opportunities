@@ -201,7 +201,7 @@
     "position": "CTO",
     "requirements": "Cybersecurity ",
     "contactEmail": "ashishrairai968560@gmail.com"
-  }
+  },
   {
     "id": "26",
     "companyName": "Bolt inovation",
@@ -843,6 +843,13 @@
   "position" : "Analyst Trainee",
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
   "contactEmail" : "businessrecruitment@itcinfotech.com"
+ },
+ {
+  "id": "116",
+  "companyName ": "IBM",
+  "position": " Software Engineer Intern",
+  "requirements": "C, C , Java, Python, GoLang, ReactJS, Groovy",
+  "contactEmail": "ibm2003@gmail.com"
  },
  {
   "id": "116",
