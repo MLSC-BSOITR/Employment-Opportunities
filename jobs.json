@@ -805,15 +805,31 @@
 "requirements" : "Html, CSS, JavaScript,java",
 "contactEmail" : "netflic933@gmail.com"
   },
+
    {  
-    "id" : "113",
-    "companyName " : "Clarivate",
-    "position" : "Associate QA Engineer-1",
-    "requirements" : "Html, CSS, JavaScript,php",
-    "contactEmail" : "ex. jane.doe@clarivate.com"
+     "id" : "113",
+     "companyName " : "Clarivate",
+     "position" : "Associate QA Engineer-1",
+     "requirements" : "Html, CSS, JavaScript,php",
+     "contactEmail" : "ex. jane.doe@clarivate.com"
   },
-] 
-}
+  {
+    "id": "114",
+    "companyName ": "Citrix",
+    "position": "Software Engineering",
+    "requirements": "object-oriented programming language, preferably C++,Python,strong debugging and troubleshooting skills",
+    "contactEmail": " microsoft@gmail.com"
+  },
+{
+
   
+  "companyName " : "ITC Infotech",
+  "position" : "Analyst Trainee",
+  "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
+  "contactEmail" : "businessrecruitment@itcinfotech.com"
+
+ }
+] 
+
 
 
