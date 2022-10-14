@@ -915,7 +915,14 @@
  "position" : "Shell Assessed Innternship Programme 2023",
  "requirements" : "Possess a degree(Bachelors / Masters), Strong communication and presenation skills",
  "contactEmail" : "generalpublicenquiries-in@shell.com"
-  }
+  },
+  {
+    "id": "120",
+    "companyName": "LensKart",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+    "contactEmail": "ankitkr124@gmail.com"
+  }  
 ] 
 }
 
