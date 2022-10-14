@@ -201,7 +201,7 @@
     "position": "CTO",
     "requirements": "Cybersecurity ",
     "contactEmail": "ashishrairai968560@gmail.com"
-  }
+  },
   {
     "id": "26",
     "companyName": "Bolt inovation",
@@ -539,8 +539,6 @@
     "requirements": "Html, CSS",
     "contactEmail ": "crompton@gmail.com"
   },
- 
-
   {
     "id": "75",
     "companyName ": "CoolBoots Media",
@@ -820,9 +818,35 @@
     "requirements": "object-oriented programming language, preferably C++,Python,strong debugging and troubleshooting skills",
     "contactEmail": " microsoft@gmail.com"
   },
+  {
+    "id": "115",
+    "companyName": "persistent",
+    "position": "Intern",
+    "requirements": "Third or Fourth year students",
+    "contactEmail": "info@persistent.com"
+  },
+  {
+    "id": "115",
+    "companyName": "Elixir Techne",
+    "position": "Python Developer ",
+    "requirements": "Experience: 0-2 Years & Python Programming language",
+    "contactEmail": "vishu@iet.davv.ac.in"
+  },
+  { 
+    "companyName": "Thinkfinity Labs Pvt Ltd",
+    "position": "Intern",
+    "requirements": "HTML CSS JS and React/Nodejs",
+    "contactEmail": "vishwakarmasourabh@iips.edu.in"
+  },
 {
-
-  
+  "id": "115",
+  "companyName " : "IBM",
+  "position" : "System Engineer",
+  "requirements" : "Web Technology, Java, DBMS",
+  "contactEmail" : "eschoolhiringt@ibmindia.com"
+ },
+{
+  "id": "115",
   "companyName " : "ITC Infotech",
   "position" : "Analyst Trainee",
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
@@ -835,9 +859,43 @@
   "position" : "Software Developer",
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python",
   "contactEmail" : "cvo@ibm.gov.in"
-
- }
+ },
+ {
+  "id": "116",
+  "companyName " : "Suvidha Foundation",
+  "position" : "volunteer for fund raising",
+  "requirements" : "English Proficiency (Spoken)",
+  "contactEmail" : "https://internshala.com/internship/detail/fundraising-coordinator-internship-work-from-home-job-internship-at-suvidha-foundation1665470285?utm_source=cp_link&referral=web_share"
+ },
+ {
+  
+  "companyName " : "KYRO",
+  "position" : "Software Developement Engineer",
+  "requirements" : "C,C++,Java,Python,MySQL,Data Structures and Algorithms",
+  "contactEmail" : "vignesh@kriyators.com"
+ },
+ {
+  "id": "116",
+  "companyName ": "IBM",
+  "position": " Software Engineer Intern",
+  "requirements": "C, C , Java, Python, GoLang, ReactJS, Groovy",
+  "contactEmail": "ibm2003@gmail.com"
+ },
+ {
+  "id": "116",
+  "companyName " : "TCS",
+  "position" : "Test Analyst",
+  "requirements" : "Basic android, testing, Bug reporting ,WiFi, DRM, Testing",
+  "contactEmail" : "careers@tcs.com"
+ },
+ {  
+  "id" : "116",
+ "companyName " : "Google",
+ "position" : "Student Training in Engineering Program, STEP 2023",
+ "requirements" : "Programming experience in Java,C++ OR Python",
+ "contactEmail" : "support-in@google.com"
+   }
 ] 
-
+}
 
 
