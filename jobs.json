@@ -886,7 +886,28 @@
  "position" : "Student Training in Engineering Program, STEP 2023",
  "requirements" : "Programming experience in Java,C++ OR Python",
  "contactEmail" : "support-in@google.com"
-   }
+ },
+ {  
+ "id" : "117",
+ "companyName " : "Dell Technologies",
+ "position" : "Full Stack Software Engineer - APEX offer Engineering",
+ "requirements" : "Basic programming knowledge, debugging skills, first-hand experience with server, network ,client technologies",
+ "contactEmail" : "dell.com"
+ },
+ {  
+  "id" : "118",
+ "companyName " : "DTCC",
+ "position" : "Software Engineer Intern [2023 Internship Program]",
+ "requirements" : "Strong problem solving and analytic skills, Good written and oral communication skills",
+ "contactEmail" : "dtcc.com"
+ },
+ {  
+  "id" : "119",
+ "companyName " : "Shell",
+ "position" : "Shell Assessed Innternship Programme 2023",
+ "requirements" : "Possess a degree(Bachelors / Masters), Strong communication and presenation skills",
+ "contactEmail" : "generalpublicenquiries-in@shell.com"
+  }
 ] 
 }
 
