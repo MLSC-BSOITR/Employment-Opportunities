@@ -915,6 +915,20 @@
  "position" : "Shell Assessed Innternship Programme 2023",
  "requirements" : "Possess a degree(Bachelors / Masters), Strong communication and presenation skills",
  "contactEmail" : "generalpublicenquiries-in@shell.com"
+  },
+  {  
+  "id" : "120",
+ "companyName " : "Palo Alto Networks",
+ "position" : "Security Researcher",
+ "requirements" : "Degree(Bachelors / Masters),Cybersecurity Certifications",
+ "contactEmail" : "rnamana@paloaltonetworks.com"
+  },
+    {  
+  "id" : "121",
+ "companyName " : "TryHackMe",
+ "position" : "Technical Support Engineer",
+ "requirements" : "IT and Cybersecurity releated Degree or Certification",
+ "contactEmail" : "jobs@tryhackme.com"
   }
 ] 
 }
