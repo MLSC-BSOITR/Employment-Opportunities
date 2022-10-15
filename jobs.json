@@ -922,7 +922,21 @@
     "position": "Full stack Developer",
     "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
     "contactEmail": "ankitkr124@gmail.com"
-  }  
+  },  
+  {  
+  "id" : "120",
+ "companyName " : "Palo Alto Networks",
+ "position" : "Security Researcher",
+ "requirements" : "Degree(Bachelors / Masters),Cybersecurity Certifications",
+ "contactEmail" : "rnamana@paloaltonetworks.com"
+  },
+    {  
+  "id" : "121",
+ "companyName " : "TryHackMe",
+ "position" : "Technical Support Engineer",
+ "requirements" : "IT and Cybersecurity releated Degree or Certification",
+ "contactEmail" : "jobs@tryhackme.com"
+  }
 ] 
 }
 
