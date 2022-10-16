@@ -943,7 +943,22 @@
  "position" : "Full-Stack Developer",
  "requirements" : "Proficiency in Javascript and Node.js. MeteorJS, React, MongoDB is a must.",
  "contactEmail" : "jobs@indecab.com"
-    }
+    },
+     {
+    "id": "122",
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "shajahansayyedz@gmail.com"
+     },
+    {  
+  "id" : "122",
+ "companyName " : "Namastetu Technologies",
+ "position" : "Web Designer",
+ "requirements" : "Deep understanding of HTML, CSS, JQuery , Photoshop , Figma , wordpress , bootstrap , React",
+ "contactEmail" : "hr@namastetu.com"
+
+  }
 ] 
 }
 
