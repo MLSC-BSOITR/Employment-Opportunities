@@ -937,6 +937,13 @@
  "requirements" : "IT and Cybersecurity releated Degree or Certification",
  "contactEmail" : "jobs@tryhackme.com"
   },
+  {
+    "id": "122",
+    "companyName":"CISCO",
+    "position":"Technical Consulting Engineer (Intern)",
+    "requirements":"2023 passout",
+    "contactEmail":"https://jobs.cisco.com/jobs/ProjectDetail/Technical-Consulting-Engineer-Intern-India-UHR/1375370"
+  },
     {
         "id" : "122",
  "companyName " : "Indecab",
@@ -957,7 +964,6 @@
  "position" : "Web Designer",
  "requirements" : "Deep understanding of HTML, CSS, JQuery , Photoshop , Figma , wordpress , bootstrap , React",
  "contactEmail" : "hr@namastetu.com"
-
   }
 ] 
 }
