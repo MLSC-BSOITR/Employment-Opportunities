@@ -943,6 +943,14 @@
     "position": "Frontend Developer",
     "requirements": "Html, CSS, JavaScript",
     "contactEmail": "shajahansayyedz@gmail.com"
+     },
+    {  
+  "id" : "122",
+ "companyName " : "Namastetu Technologies",
+ "position" : "Web Designer",
+ "requirements" : "Deep understanding of HTML, CSS, JQuery , Photoshop , Figma , wordpress , bootstrap , React",
+ "contactEmail" : "hr@namastetu.com"
+
   }
 ] 
 }
