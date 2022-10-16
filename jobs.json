@@ -936,7 +936,14 @@
  "position" : "Technical Support Engineer",
  "requirements" : "IT and Cybersecurity releated Degree or Certification",
  "contactEmail" : "jobs@tryhackme.com"
-  }
+  },
+    {
+        "id" : "122",
+ "companyName " : "Indecab",
+ "position" : "Full-Stack Developer",
+ "requirements" : "Proficiency in Javascript and Node.js. MeteorJS, React, MongoDB is a must.",
+ "contactEmail" : "jobs@indecab.com"
+    }
 ] 
 }
 
