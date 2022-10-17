@@ -987,25 +987,32 @@
  "contactEmail" : "https://www.linkedin.com/in/shouvik4/"
   },
 {  
-  "id" : "124",
- "companyName " : "Airbus",
- "position" : "C++ Fullstack Developer",
- "requirements" : "HPC+Python+c++ +linux",
- "contactEmail" : "https://www.linkedin.com/in/shouvik4/"
+    "id" : "124",
+    "companyName " : "Airbus",
+    "position" : "C++ Fullstack Developer",
+    "requirements" : "HPC+Python+c++ +linux",
+    "contactEmail" : "https://www.linkedin.com/in/shouvik4/"
   }, 
-    {
+  {
     "id": "123",
     "companyName": "EdWorks ",
     "position": "WordPress web developer ",
     "requirements": " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
     "contactEmail": "shreyash009@gmail.com"
   },
-    {  
-  "id" : "123",
- "companyName " : "Ford",
- "position" : "Software Engineeer",
- "requirements" : "Experience: 1-3 Years",
- "contactEmail" : "custmail@ford.com"
+  {  
+    "id" : "123",
+    "companyName " : "Ford",
+    "position" : "Software Engineeer",
+    "requirements" : "Experience: 1-3 Years",
+    "contactEmail" : "custmail@ford.com"
+  },
+  {
+    "id": "126",
+    "companyName": "Applied Research Works - Cozeva",
+    "position": "Software Development Engineer",
+    "requirements": "Experience: 2-9 years; DSA/Java/PHP/Python/SQL/MySQL/PL/SQL/NoSQL",
+    "contactEmail": "sguha@cozeva.com"
   }
 ] 
 }
