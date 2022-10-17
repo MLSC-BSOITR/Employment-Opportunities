@@ -937,13 +937,47 @@
  "requirements" : "IT and Cybersecurity releated Degree or Certification",
  "contactEmail" : "jobs@tryhackme.com"
   },
-
+   {
+    "id": "18",
+    "companyName": "Accenture",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "sanskrutithorve75@gmail.com"
+   },
   {
     "id": "122",
     "companyName":"CISCO",
     "position":"Technical Consulting Engineer (Intern)",
     "requirements":"2023 passout",
     "contactEmail":"https://jobs.cisco.com/jobs/ProjectDetail/Technical-Consulting-Engineer-Intern-India-UHR/1375370"
+  },
+    {
+        "id" : "122",
+ "companyName " : "Indecab",
+ "position" : "Full-Stack Developer",
+ "requirements" : "Proficiency in Javascript and Node.js. MeteorJS, React, MongoDB is a must.",
+ "contactEmail" : "jobs@indecab.com"
+    },
+     {
+    "id": "122",
+    "companyName": "Google",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS, JavaScript",
+    "contactEmail": "shajahansayyedz@gmail.com"
+     },
+    {  
+  "id" : "122",
+ "companyName " : "Namastetu Technologies",
+ "position" : "Web Designer",
+ "requirements" : "Deep understanding of HTML, CSS, JQuery , Photoshop , Figma , wordpress , bootstrap , React",
+ "contactEmail" : "hr@namastetu.com"
+  }
+    {  
+  "id" : "122",
+ "companyName " : "Amazon",
+ "position" : "Software Support Engineeer",
+ "requirements" : "Experience: 0-2 Years",
+ "contactEmail" : " https://bit.ly/3yH7FKE"
   }
 ] 
 }
