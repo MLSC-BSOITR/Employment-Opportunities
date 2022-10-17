@@ -978,6 +978,20 @@
  "position" : "Software Support Engineeer",
  "requirements" : "Experience: 0-2 Years",
  "contactEmail" : " https://bit.ly/3yH7FKE"
+  },
+ {  
+  "id" : "123",
+ "companyName " : "Airbus",
+ "position" : "Meanstack Developer",
+ "requirements" : "Node Js+Angular+Sql",
+ "contactEmail" : "https://www.linkedin.com/in/shouvik4/"
+  },
+{  
+  "id" : "124",
+ "companyName " : "Airbus",
+ "position" : "C++ Fullstack Developer",
+ "requirements" : "HPC+Python+c++ +linux",
+ "contactEmail" : "https://www.linkedin.com/in/shouvik4/"
   }, 
     {
     "id": "123",
