@@ -971,14 +971,21 @@
  "position" : "Web Designer",
  "requirements" : "Deep understanding of HTML, CSS, JQuery , Photoshop , Figma , wordpress , bootstrap , React",
  "contactEmail" : "hr@namastetu.com"
-  }
+  },
     {  
   "id" : "122",
  "companyName " : "Amazon",
  "position" : "Software Support Engineeer",
  "requirements" : "Experience: 0-2 Years",
  "contactEmail" : " https://bit.ly/3yH7FKE"
-  }
+  }, 
+    {
+    "id": "123",
+    "companyName": "EdWorks ",
+    "position": "WordPress web developer ",
+    "requirements": " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
+    "contactEmail": "shreyash009@gmail.com"
+  },
     {  
   "id" : "123",
  "companyName " : "Ford",
