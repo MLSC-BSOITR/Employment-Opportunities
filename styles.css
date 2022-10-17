@@ -1,72 +1,78 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-body{
-    background-color: #DFE2ED;
+body {
+  background-color: #dfe2ed;
 }
-.heading{
-    text-align: left;
-    padding: 10px;
-    border: 2px #2c2c2c;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
+.heading {
+  text-align: left;
+  padding: 10px;
+  border: 2px #2c2c2c;
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
 }
-.contentBody{
-    font-family: 'Montserrat', sans-serif;
-    color: #2c2c2c;
-}
-
-th{
-    font-family: 'Montserrat', sans-serif;
-    color: #000000;
+.contentBody {
+  font-family: "Montserrat", sans-serif;
+  color: #2c2c2c;
 }
 
-marquee{                
-    height: 50px;
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-    background: #DFE2ED;
-    color: #2c2c2c;
-    border: 1px solid #fff;
-    border-radius: 50px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+th {
+  font-family: "Montserrat", sans-serif;
+  color: #000000;
 }
 
-marquee p{                
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-style: italic;
-    font-size: 25px;
-    line-height: 50px;
-    text-align: center;
+marquee {
+  height: 50px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  background: #dfe2ed;
+  color: #2c2c2c;
+  border: 1px solid #fff;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
-span{
-    font-family: 'Montserrat', sans-serif;
+marquee p {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 25px;
+  line-height: 50px;
+  text-align: center;
 }
 
-th, td {
-    border-bottom: 1px solid #2c2c2c;
+span {
+  font-family: "Montserrat", sans-serif;
 }
 
-table{
-    text-align: left;
+th,
+td {
+  border-bottom: 1px solid #2c2c2c;
 }
 
-thead{
-    background-color: #04AA6D;
+table {
+  text-align: left;
 }
 
-tr:hover{
-    background-color: azure;
+thead {
+  background-color: #04aa6d;
 }
 
+tr:hover {
+  background-color: azure;
+}
+
+
+
+footer {
+  text-align: center;
+  padding: 3rem 3rem;
 a{
     text-decoration: none;
     color: blue;
@@ -109,9 +115,6 @@ a{
   }
 }
 
-.footer-dark .item.text {
-  margin-bottom: 36px;
-}
 
 @media (max-width:767px) {
   .footer-dark .item.text {
@@ -124,9 +127,6 @@ a{
   margin-bottom: 0;
 }
 
-.footer-dark .item.social {
-  text-align: center;
-}
 
 @media (max-width:991px) {
   .footer-dark .item.social {
