@@ -1006,7 +1006,22 @@
  "position" : "Software Engineeer",
  "requirements" : "Experience: 1-3 Years",
  "contactEmail" : "custmail@ford.com"
-  }
+  },
+  {
+
+
+    "id" : "124",
+    
+    "companyName " : "Mercedes",
+    
+    "position" : "Backend Developer",
+    
+    "requirements" : "Node js,Express",
+    
+    "contactEmail" : "p3pragyaa@gmail.com"
+    
+    
+}
 ] 
 }
 
