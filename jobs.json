@@ -1014,6 +1014,13 @@
  "requirements" : "Experience: 1-3 Years",
  "contactEmail" : "custmail@ford.com"
   },
+  {
+    "id": "125",
+    "companyName ": "Cromptom",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS",
+    "contactEmail ": "crompton@gmail.com"
+  },
     {  
   "id" : "1223",
  "companyName " : "Cognizant ",
@@ -1051,7 +1058,7 @@
   },
     {  
   "id" : "124",
- "companyName " : Servicenow",
+ "companyName " : "Servicenow",
  "position" : "Software Engineeer",
  "requirements" : "Experience: 2+ Years",
  "contactEmail" : "custmail@serbicelojow.com"
@@ -1063,6 +1070,7 @@
     "requirements": "Javascript, React,C#,Mongo",
     "contactEmail": "hr.mindtree@gmail.com"
  }
+
 ] 
 }
 
