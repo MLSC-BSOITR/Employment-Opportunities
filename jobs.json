@@ -1016,6 +1016,12 @@
   },
   {
     "id": "125",
+    "companyName": "MindTree",
+    "position": "AEM Developer",
+    "requirements": "HTML CSS JS",
+    "contactEmail": "hr.mindtree@gmail.com"
+  },
+    {
     "companyName ": "Cromptom",
     "position": "Frontend Developer",
     "requirements": "Html, CSS",
@@ -1070,7 +1076,6 @@
     "requirements": "Javascript, React,C#,Mongo",
     "contactEmail": "hr.mindtree@gmail.com"
  }
-
 ] 
 }
 
