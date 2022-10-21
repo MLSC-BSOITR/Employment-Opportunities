@@ -1041,22 +1041,28 @@
     "position": "Software Development Engineer",
     "requirements": "Experience: 2-9 years; DSA/Java/PHP/Python/SQL/MySQL/PL/SQL/NoSQL",
     "contactEmail": "sguha@cozeva.com"
-  }
+  },
+   {
+    "id": "124",
+    "companyName ": "Cromptom",
+    "position": "Frontend Developer",
+    "requirements": "Html, CSS",
+    "contactEmail ": "ubsjobs@gmail.com"
+  },
     {  
   "id" : "124",
  "companyName " : Servicenow",
  "position" : "Software Engineeer",
  "requirements" : "Experience: 2+ Years",
  "contactEmail" : "custmail@serbicelojow.com"
-  }
-  
+  },
 {
     "id": "125",
     "companyName": "MindTree",
     "position": "Web Developer Intern",
     "requirements": "Javascript, React,C#,Mongo",
     "contactEmail": "hr.mindtree@gmail.com"
- },
+ }
 ] 
 }
 
