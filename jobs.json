@@ -1090,6 +1090,13 @@
     "requirements": "Javascript, React,C#,Mongo",
     "contactEmail": "hr.mindtree@gmail.com"
  }
+    {
+    "id": "1223",
+    "companyName": "CodeTech",
+    "position": "Software Developer Intern",
+    "requirements": "Python,C++",
+    "contactEmail": "CodeTech.software@gmail.com"
+ };
 ] 
 }
 
