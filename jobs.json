@@ -1096,13 +1096,20 @@
     "position": "Web Developer Intern",
     "requirements": "Javascript, React,C#,Mongo",
     "contactEmail": "hr.mindtree@gmail.com"
- }
+ },
     {
-    "id": "1223",
+    "id": "126",
     "companyName": "CodeTech",
     "position": "Software Developer Intern",
     "requirements": "Python,C++",
     "contactEmail": "CodeTech.software@gmail.com"
+ },
+{
+  "id": "127",
+    "companyName": "TryHackMe",
+    "position": "Cyber Security",
+    "requirements": "Linux, Bash, Powershell, Networking",
+    "contactEmail": "hello@tryhackme.com"
  };
  {
     "id": "2406",
@@ -1110,6 +1117,7 @@
     "position": "Web developer",
     "requirements": "HTML,CSS,JS",
     "contactEmail": "oracletech@gmail.com"
+    }
 ] 
 }
 
