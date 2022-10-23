@@ -1110,7 +1110,14 @@
     "position": "Cyber Security",
     "requirements": "Linux, Bash, Powershell, Networking",
     "contactEmail": "hello@tryhackme.com"
-};
+ };
+ {
+    "id": "2406",
+    "companyName": "Oracle",
+    "position": "Web developer",
+    "requirements": "HTML,CSS,JS",
+    "contactEmail": "oracletech@gmail.com"
+    }
 ] 
 }
 
