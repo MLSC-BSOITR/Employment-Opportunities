@@ -1124,7 +1124,14 @@
     "position": "Web developer",
     "requirements": "HTML,CSS,JS",
     "contactEmail": "oracletech@gmail.com"
-    }
+    },
+  {
+      "id": "2407",
+      "companyName": "Shell",
+      "position": "Business Analyst",
+      "requirements": "Azure PowerShell,Azure CLI, Miscrosoft Rest APIs, Linux, Windows OS ",
+      "contactEmail": "careers@shell.com"
+  }
 ] 
 }
 
