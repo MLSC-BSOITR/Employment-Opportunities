@@ -1118,6 +1118,15 @@
     "requirements": "Linux, Bash, Powershell, Networking",
     "contactEmail": "hello@tryhackme.com"
  };
+    
+ {
+    "id": "892",
+    "companyName": "deloitte",
+    "position":    "Data Analyst",
+    "requirements": "Python,SQL,Excel",
+    "contactEmail": "hr.deloitte@gmail.com"
+ };
+    
  {
     "id": "2406",
     "companyName": "Oracle",
