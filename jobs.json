@@ -1,4 +1,4 @@
-8{
+{
   "jobs" : [
   {
     "id": "1",
@@ -1117,7 +1117,7 @@
     "position": "Cyber Security",
     "requirements": "Linux, Bash, Powershell, Networking",
     "contactEmail": "hello@tryhackme.com"
- };
+ },
     
  {
     "id": "892",
@@ -1125,7 +1125,7 @@
     "position":    "Data Analyst",
     "requirements": "Python,SQL,Excel",
     "contactEmail": "hr.deloitte@gmail.com"
- };
+ },
     
  {
     "id": "2406",
@@ -1140,6 +1140,13 @@
       "position": "Business Analyst",
       "requirements": "Azure PowerShell,Azure CLI, Miscrosoft Rest APIs, Linux, Windows OS ",
       "contactEmail": "careers@shell.com"
+  },
+  {
+    "id": "2408",
+    "companyName": "Mindtree",
+    "position": "Android Developer",
+    "requirements": "Basic android, testing, Bug reporting ,WiFi, DRM, Testing",
+    "contactEmail": "hr.mindtree@gmail.com"
   }
 ] 
 }
