@@ -1140,7 +1140,14 @@
       "position": "Business Analyst",
       "requirements": "Azure PowerShell,Azure CLI, Miscrosoft Rest APIs, Linux, Windows OS ",
       "contactEmail": "careers@shell.com"
-  }
+  },
+{
+      "id": "2408",
+      "companyName": "Tech Mahindra",
+      "position": "Software Engineer",
+      "requirements": " ETL Test Aumation ",
+      "contactEmail": "career@techmahindra.com"
+  },
  {
     "id": "2455",
     "companyName": "Salesforce",
@@ -1149,7 +1156,7 @@
     "contactEmail": "https://www.linkedin.com/company/salesforce/"
     }
 ] 
-
+}
 
 
 
