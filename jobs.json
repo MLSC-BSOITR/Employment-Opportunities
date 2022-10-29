@@ -85,13 +85,6 @@
   },
   {
     "id": "13",
-    "companyName": "AIESEC",
-    "position": "BDA",
-    "requirements": "Marketting",
-    "contactEmail": "aekagra.dhamani02@aiesec.net"
-  },
-  {
-    "id": "13",
     "companyName": "Moneymakes",
     "position": "UI/UX Developer",
     "requirements": "Html, CSS, JavaScript, Figma, Photoshop",
@@ -110,13 +103,6 @@
     "position": "WEB DEVELOPER ",
     "requirements": " HTML , CSS , JAVASCTRIPT ",
     "contactEmail": "sahil952003@gmail.com"
-  },
-  {
-    "id": "15",
-    "companyName": "EdWorks ",
-    "position": "WordPress web developer ",
-    "requirements": " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
-    "contactEmail": "shreyash009@gmail.com"
   },
   {
     "id": "16",
@@ -154,18 +140,18 @@
     "contactEmail": "badebrode@gmail.com"
   },
   {
-    "id": "20",
-    "companyName": "CareerFounding",
-    "position": "Full stack Developer",
-    "requirements": "Html, CSS, JavaScript,  SQL, MongoDB",
-    "contactEmail": "https://careerfoundry.com"
-  },
-  {
     "id": "21",
     "companyName": "Barclays ",
     "position": "Web Developer",
     "requirements": "Html,Java, Python, CSS, JavaScript",
     "contactEmail": "shindeanmol125@gmail.com"
+  },
+      {
+    "id": "22",
+    "companyName": "CareerFounding",
+    "position": "Full stack Developer",
+    "requirements": "Html, CSS, JavaScript,  SQL, MongoDB",
+    "contactEmail": "https://careerfoundry.com"
   },
   {
     "id": "23",
@@ -194,13 +180,6 @@
     "position": "Frontend Developer",
     "requirements": "Html, CSS, JavaScript",
     "contactEmail": "shajahansayyedz@gmail.com"
-  },
-  {
-    "id": "19",
-    "companyName": "AMAZON",
-    "position": "CTO",
-    "requirements": "Cybersecurity ",
-    "contactEmail": "ashishrairai968560@gmail.com"
   },
   {
     "id": "26",
@@ -671,6 +650,13 @@
     "requirements": "C++/Java, Python",
     "contactEmail": "wiprotech@gmail.com"
   },
+      {
+    "id": "94",
+    "companyName": "AMAZON",
+    "position": "CTO",
+    "requirements": "Cybersecurity ",
+    "contactEmail": "ashishrairai968560@gmail.com"
+  },
   {
     "id": "95",
     "companyName": "Netflix",
@@ -803,14 +789,6 @@
 "requirements" : "Html, CSS, JavaScript,java",
 "contactEmail" : "netflic933@gmail.com"
   },
-
-   {  
-     "id" : "113",
-     "companyName " : "Clarivate",
-     "position" : "Associate QA Engineer-1",
-     "requirements" : "Html, CSS, JavaScript,php",
-     "contactEmail" : "ex. jane.doe@clarivate.com"
-  },
   {
     "id": "114",
     "companyName ": "Citrix",
@@ -826,27 +804,35 @@
     "contactEmail": "info@persistent.com"
   },
   {
-    "id": "115",
+    "id": "116",
     "companyName": "Elixir Techne",
     "position": "Python Developer ",
     "requirements": "Experience: 0-2 Years & Python Programming language",
     "contactEmail": "vishu@iet.davv.ac.in"
   },
+    {  
+     "id" : "117",
+     "companyName " : "Clarivate",
+     "position" : "Associate QA Engineer-1",
+     "requirements" : "Html, CSS, JavaScript,php",
+     "contactEmail" : "ex. jane.doe@clarivate.com"
+  },
   { 
+     "id" : "118",
     "companyName": "Thinkfinity Labs Pvt Ltd",
     "position": "Intern",
     "requirements": "HTML CSS JS and React/Nodejs",
     "contactEmail": "vishwakarmasourabh@iips.edu.in"
   },
 {
-  "id": "115",
+  "id": "119",
   "companyName " : "IBM",
   "position" : "System Engineer",
   "requirements" : "Web Technology, Java, DBMS",
   "contactEmail" : "eschoolhiringt@ibmindia.com"
  },
 {
-  "id": "115",
+  "id": "120",
   "companyName " : "ITC Infotech",
   "position" : "Analyst Trainee",
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python, MySQL",
@@ -854,265 +840,266 @@
 
  },
   {
-    
+   "id" : "121",
   "companyName " : "IBM",
   "position" : "Software Developer",
   "requirements" : "Html, CSS, JavaScript, Java/C++/Python",
   "contactEmail" : "cvo@ibm.gov.in"
  },
  {
-  "id": "116",
+  "id": "122",
   "companyName " : "Suvidha Foundation",
   "position" : "volunteer for fund raising",
   "requirements" : "English Proficiency (Spoken)",
   "contactEmail" : "https://internshala.com/internship/detail/fundraising-coordinator-internship-work-from-home-job-internship-at-suvidha-foundation1665470285?utm_source=cp_link&referral=web_share"
  },
  {
-  
+   "id" : "123",
   "companyName " : "KYRO",
   "position" : "Software Developement Engineer",
   "requirements" : "C,C++,Java,Python,MySQL,Data Structures and Algorithms",
   "contactEmail" : "vignesh@kriyators.com"
  },
  {
-  "id": "116",
+  "id": "124",
   "companyName ": "IBM",
   "position": " Software Engineer Intern",
   "requirements": "C, C , Java, Python, GoLang, ReactJS, Groovy",
   "contactEmail": "ibm2003@gmail.com"
  },
  {
-  "id": "116",
+  "id": "125",
   "companyName " : "TCS",
   "position" : "Test Analyst",
   "requirements" : "Basic android, testing, Bug reporting ,WiFi, DRM, Testing",
   "contactEmail" : "careers@tcs.com"
  },
  {  
-  "id" : "116",
+  "id" : "126",
  "companyName " : "Google",
  "position" : "Student Training in Engineering Program, STEP 2023",
  "requirements" : "Programming experience in Java,C++ OR Python",
  "contactEmail" : "support-in@google.com"
  },
  {  
- "id" : "117",
+ "id" : "127",
  "companyName " : "Dell Technologies",
  "position" : "Full Stack Software Engineer - APEX offer Engineering",
  "requirements" : "Basic programming knowledge, debugging skills, first-hand experience with server, network ,client technologies",
  "contactEmail" : "dell.com"
  },
  {  
-  "id" : "118",
+  "id" : "128",
  "companyName " : "DTCC",
  "position" : "Software Engineer Intern [2023 Internship Program]",
  "requirements" : "Strong problem solving and analytic skills, Good written and oral communication skills",
  "contactEmail" : "dtcc.com"
  },
  {  
-  "id" : "119",
+  "id" : "129",
  "companyName " : "Shell",
  "position" : "Shell Assessed Innternship Programme 2023",
  "requirements" : "Possess a degree(Bachelors / Masters), Strong communication and presenation skills",
  "contactEmail" : "generalpublicenquiries-in@shell.com"
   },
   {
-    "id": "120",
+    "id": "130",
     "companyName": "LensKart",
     "position": "Full stack Developer",
     "requirements": "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
     "contactEmail": "ankitkr124@gmail.com"
   },  
   {  
-  "id" : "120",
+  "id" : "131",
  "companyName " : "Palo Alto Networks",
  "position" : "Security Researcher",
  "requirements" : "Degree(Bachelors / Masters),Cybersecurity Certifications",
  "contactEmail" : "rnamana@paloaltonetworks.com"
   },
     {  
-  "id" : "121",
+  "id" : "132",
  "companyName " : "TryHackMe",
  "position" : "Technical Support Engineer",
  "requirements" : "IT and Cybersecurity releated Degree or Certification",
  "contactEmail" : "jobs@tryhackme.com"
   },
    {
-    "id": "18",
+    "id": "133",
     "companyName": "Accenture",
     "position": "Frontend Developer",
     "requirements": "Html, CSS, JavaScript",
     "contactEmail": "sanskrutithorve75@gmail.com"
    },
   {
-    "id": "122",
+    "id": "134",
     "companyName":"CISCO",
     "position":"Technical Consulting Engineer (Intern)",
     "requirements":"2023 passout",
     "contactEmail":"https://jobs.cisco.com/jobs/ProjectDetail/Technical-Consulting-Engineer-Intern-India-UHR/1375370"
   },
     {
-        "id" : "122",
+        "id" : "135",
  "companyName " : "Indecab",
  "position" : "Full-Stack Developer",
  "requirements" : "Proficiency in Javascript and Node.js. MeteorJS, React, MongoDB is a must.",
  "contactEmail" : "jobs@indecab.com"
     },
      {
-    "id": "122",
+    "id": "136",
     "companyName": "Google",
     "position": "Frontend Developer",
     "requirements": "Html, CSS, JavaScript",
     "contactEmail": "shajahansayyedz@gmail.com"
      },
      {
-    "id": "122",
+    "id": "137",
     "companyName": "Nerdy Academy",
     "position": "Teacher",
     "requirements": "Hindi Proficiency (Spoken), Teaching",
     "contactEmail": "https://internshala.com/internship/detail/teaching-part-time-job-internship-at-multiple-locations-in-nerdy-academy1664969092?utm_source=cp_link&referral=web_share"
      },
     {  
-  "id" : "122",
+  "id" : "138",
  "companyName " : "Namastetu Technologies",
  "position" : "Web Designer",
  "requirements" : "Deep understanding of HTML, CSS, JQuery , Photoshop , Figma , wordpress , bootstrap , React",
  "contactEmail" : "hr@namastetu.com"
   },
     {  
-  "id" : "122",
+  "id" : "139",
  "companyName " : "Amazon",
  "position" : "Software Support Engineeer",
  "requirements" : "Experience: 0-2 Years",
  "contactEmail" : " https://bit.ly/3yH7FKE"
   },
  {  
-  "id" : "123",
+  "id" : "140",
  "companyName " : "Airbus",
  "position" : "Meanstack Developer",
  "requirements" : "Node Js+Angular+Sql",
  "contactEmail" : "https://www.linkedin.com/in/shouvik4/"
   },
 {  
-    "id" : "124",
+    "id" : "141",
     "companyName " : "Airbus",
     "position" : "C++ Fullstack Developer",
     "requirements" : "HPC+Python+c++ +linux",
     "contactEmail" : "https://www.linkedin.com/in/shouvik4/"
   }, 
   {
-    "id": "123",
+    "id": "142",
     "companyName": "EdWorks ",
     "position": "WordPress web developer ",
     "requirements": " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
     "contactEmail": "shreyash009@gmail.com"
   },
     {  
-  "id" : "121",
+  "id" : "143",
  "companyName " : "Bookmyshow",
  "position" : "Product designer intership",
  "requirements" : "Must have experience in designing customer-facing or consumer-oriented websites or mobile app",
  "contact":"https://unstop.com/internship/product-design-internship-bookmyshow-439373?utm_source=Internships&utm_medium=D2C-Newsletters&utm_campaign=Eng-2nd-Year"
     },
    {  
-  "id" : "123",
+  "id" : "144",
  "companyName " : "Ford",
  "position" : "Software Engineeer",
  "requirements" : "Experience: 1-3 Years",
  "contactEmail" : "custmail@ford.com"
   },
   {
-    "id" : "124",
+    "id" : "145",
     "companyName " : "Mercedes",
     "position" : "Backend Developer",
     "requirements" : "Node js,Express",
     "contactEmail" : "p3pragyaa@gmail.com"
    },
     {
-    "id": "125",
+    "id": "146",
     "companyName": "JPMorgan Chase & Co.",
     "position": "Summer Analyst ",
     "requirements": "2023, 2024 batch and DSA",
     "contactEmail": "tanisha@jpmorganchase.com"
   },
   {
-    "id": "125",
+    "id": "147",
     "companyName": "MindTree",
     "position": "AEM Developer",
     "requirements": "HTML CSS JS",
     "contactEmail": "hr.mindtree@gmail.com"
   },
     {
+    "id": "148",  
     "companyName ": "Cromptom",
     "position": "Frontend Developer",
     "requirements": "Html, CSS",
     "contactEmail ": "crompton@gmail.com"
   },
     {  
-  "id" : "1223",
+ "id": "149",
  "companyName " : "Cognizant ",
  "position" : "Engineer Trainee",
  "requirements" : "Experience: 3-12 months",
  "contactEmail" : "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/7461a3eb-e05f-4362-8c4d-bb7516af9ac1"
     },
    {  
-  "id" : "125",
+  "id": "150",
  "companyName " : "Rozok",
  "position" : "Software Engineeer",
  "requirements" : "Experience: 1-3 Years",
  "contactEmail" : "realme01@gmail.com"
   },
   {  
-    "id" : "123",
+   "id": "151",
     "companyName " : "Ford",
     "position" : "Software Engineeer",
     "requirements" : "Experience: 1-3 Years",
     "contactEmail" : "custmail@ford.com"
   },
   {
-    "id": "126",
+     "id": "152",
     "companyName": "Applied Research Works - Cozeva",
     "position": "Software Development Engineer",
     "requirements": "Experience: 2-9 years; DSA/Java/PHP/Python/SQL/MySQL/PL/SQL/NoSQL",
     "contactEmail": "sguha@cozeva.com"
   },
    {
-    "id": "124",
+    "id": "153",
     "companyName ": "Cromptom",
     "position": "Frontend Developer",
     "requirements": "Html, CSS",
     "contactEmail ": "ubsjobs@gmail.com"
   },
     {  
-  "id" : "124",
+  "id": "154",
  "companyName " : "Servicenow",
  "position" : "Software Engineeer",
  "requirements" : "Experience: 2+ Years",
  "contactEmail" : "custmail@serbicelojow.com"
   },
     {  
-  "id" : "12460",
+  "id": "155",
  "companyName " : "Camp Gladiator",
  "position" : "UX Research Intern",
  "requirements" : "Candidate must reside in TX, AZ, NC, SC, TN, FL, CO or D.C.",
  "contactEmail" : "help@campgladiator.com"
   },
 {
-    "id": "125",
+     "id": "156",
     "companyName": "MindTree",
     "position": "Web Developer Intern",
     "requirements": "Javascript, React,C#,Mongo",
     "contactEmail": "hr.mindtree@gmail.com"
  },
     {
-    "id": "126",
+     "id": "157",
     "companyName": "CodeTech",
     "position": "Software Developer Intern",
     "requirements": "Python,C++",
     "contactEmail": "CodeTech.software@gmail.com"
  },
 {
-  "id": "127",
+   "id": "158",
     "companyName": "TryHackMe",
     "position": "Cyber Security",
     "requirements": "Linux, Bash, Powershell, Networking",
@@ -1120,7 +1107,7 @@
  },
     
  {
-    "id": "892",
+   "id": "159",,
     "companyName": "deloitte",
     "position":    "Data Analyst",
     "requirements": "Python,SQL,Excel",
@@ -1128,27 +1115,62 @@
  },
     
  {
-    "id": "2406",
+    "id": "160",
     "companyName": "Oracle",
     "position": "Web developer",
     "requirements": "HTML,CSS,JS",
     "contactEmail": "oracletech@gmail.com"
     },
   {
-      "id": "2407",
+      "id": "161",
       "companyName": "Shell",
       "position": "Business Analyst",
       "requirements": "Azure PowerShell,Azure CLI, Miscrosoft Rest APIs, Linux, Windows OS ",
       "contactEmail": "careers@shell.com"
   },
   {
-    "id": "2408",
+    "id": "162",
     "companyName": "Mindtree",
     "position": "Android Developer",
     "requirements": "Basic android, testing, Bug reporting ,WiFi, DRM, Testing",
     "contactEmail": "hr.mindtree@gmail.com"
+  },
+   {
+    "id": "163",
+    "companyName": "Malaiya Solutions",
+    "position": "android developer",
+    "requirements": "Html, CSS, JavaScript, c++",
+    "contactEmail": "sanyammalaiya@malaiyasolutions.com"
+  },
+{
+     "id": "164",
+      "companyName": "Tech Mahindra",
+      "position": "Software Engineer",
+      "requirements": " ETL Test Aumation ",
+      "contactEmail": "career@techmahindra.com"
+  },
+ {
+    "id": "165",
+    "companyName": "Salesforce",
+    "position": "Salesforce Developer",
+    "requirements": "marketing skills ,management skill" ,
+    "contactEmail": "https://www.linkedin.com/company/salesforce/"
+    }
+    {
+   "id": "166",
+    "companyName": "AIESEC",
+    "position": "BDA",
+    "requirements": "Marketting",
+    "contactEmail": "aekagra.dhamani02@aiesec.net"
   }
-] 
+ {
+    "id": "167",
+    "companyName": "EdWorks ",
+    "position": "WordPress web developer ",
+    "requirements": " HTML , CSS , JAVASCTRIPT, PHP, ELEMENTOR ",
+    "contactEmail": "shreyash009@gmail.com"
+  },
+  ] 
 }
 
 
