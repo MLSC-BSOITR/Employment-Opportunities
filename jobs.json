@@ -1141,8 +1141,15 @@
       "requirements": "Azure PowerShell,Azure CLI, Miscrosoft Rest APIs, Linux, Windows OS ",
       "contactEmail": "careers@shell.com"
   }
+ {
+    "id": "2455",
+    "companyName": "Salesforce",
+    "position": "Salesforce Developer",
+    "requirements": "marketing skills ,management skill" ,
+    "contactEmail": "https://www.linkedin.com/company/salesforce/"
+    }
 ] 
-}
+
 
 
 
